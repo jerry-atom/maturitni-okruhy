@@ -1,0 +1,179 @@
+provádí se minimálně 1x ročně (rozmezí 4 měsíce před — 1 měsíc po)
+
+ 
+
+ 
+
+ 
+
+ 
+
+manko do normy 2 000 Kč 504
+manko nad normu 10 000 Kč 549
+přebytek 4 000 Kč
+zboží na cestě
+2012 - FAP za zboží 10 000 Kč 131
+DPH 20 % 2 000 Kč 343
+2012 - zboží nepřišelo 10 000 Kč 139
+2013 — příjem zboží 10 000 Kč 132
+nevyfakturované dodávky
+2012 — příjem zboží 10 000 Kč 132
+2012 — nepřišla faktura 10 000 Kč 131
+2013 — FAP za zboží 10 000 Kč 389
+DPH 20 % 2000 Kč 343
+opravné položky
+dočasné snížení zboží 10 000 Kč 559
+a) dočasné snížení pominulo © 100000 Kč 196
+b) snížení se stalo trvalým 10 000 Kč
+b) trvalé snížení 10 000 Kč
+trvalé snížení zboží 10 000 Kč 549
+škody
+požár zboží 10 000 Kč 582
+náhrada od pojišťovny 10 000 Kč 378
+úhrada od pojišťovny 10 000 Kč 221
+reklamace
+FAP za zboží 20 000 Kč 131
+DPH 20% 24 000 Kč 343
+příjemka zboží 20 000 Kč 132
+reklamační nárok 5 000 Kč
+a) dobropis 5 000 Kč 321
+a) DPH 20 % 1 000 Kč 321
+b) neuznaná reklamace 5 000 Kč 549
+předání zboží do vlastních maloobchodních prodejen
+úbytek výrobků 10 000 Kč
+vyrobené a předané zboží 10 000 Kč
+převzetí zboží na prodejnu 10 000 Kč 132
+oceňování a účtování zboží v maloobchodních prodejnách
+
+ 
+
+FAP za nákup zboží 5 000 Kč 131
+DPH 20 % 1 000 Kč 343
+zboží převzato na prodejnu:
+
+a) pořizovací cena 5 000 Kč
+
+b) prodejní cena 7 000 Kč
+
+c) oceňovací rozdíly -2000 Kč 132.2
+FAP za zboží 7 000 Kč 311
+DPH 20% 1 400 Kč 311
+úbytek prodaného zboží:
+
+a) v prodejní ceně 7 000 Kč 504
+
+b) úbytek oceňovacích rozd. © -2000 Kč 504
+= | výpočet průměrného procenta oceňovacích rozdílů:
+=(2000/7 000) * 100
+
+= | výpočet úbytku oceňovacích rozdílů
+= (7000 * 28,57) / 100
+
+e | způsob B
+
+O
+
+O O O O0
+
+v průběhu roku se nakupované zásoby účtují přímo do nákladů
+účet 132 se používá pouze na začátku a na konci roku
+
+účet 131 se nepoužívá
+
+způsob je založený na přesné skladové evidenci
+
+neúčtuje se příjem a výdej zásob ze skladu
+
+132
+132
+132
+
+321
+321
+131
+139
+
+131
+389
+321
+321
+
+196
+559
+196
+549
+132
+
+132
+688
+378
+
+321
+321
+131
+315
+315
+343
+315
+
+613
+131
+131
+
+321
+321
+
+131
+132.1
+
+604
+343
+
+132.1
+132.2
+
+ID
+ID
+648 | ID
+
+FAP
+FAP
+
+ID
+příjemka
+
+příjemka
+ID
+FAP
+
+ID
+ID
+559 | ID
+132 ID
+ID
+
+ID
+
+ID
+
+VBU
+
+FAP
+
+příjemka
+
+131.. ID
+dobropis
+
+ID
+
+123. výdejka
+621 převodka
+příjemka
+
+FAP
+
+příjemka
+
+FAP
+

@@ -1,0 +1,96 @@
+O O O0 0
+
+při náhradě škody od pojišťovny
+
+při faktuře za cenné papíry
+
+účet 378 — Jiné pohledávky
+
+účtování
+
+požár materiálu 200 000 Kč
+předpis náhrady od pojišť. 170 000 Kč
+úhrada náhrady škody 170 000 Kč
+prodej akcií na fakturu 50 000 Kč
+DPH 20 % 10 000 Kč
+úhrada faktury za akcie 60 000 Kč
+
+582
+378
+221
+378
+378
+221
+
+112
+688
+378
+661
+343
+378
+
+3. Evidence pohledávek
+
+ID
+
+VBŮÚ
+FAV
+
+VBŮ
+
+pohledávky se evidují v tzv. knize pohledávek, konkrétně v knize vydaných faktur
+kniha FAV obsahuje
+
+o
+
+O O O O O0 0
+
+číslo dokladu
+odběratel
+předmět faktury
+částka
+
+datum vystavení
+datum splatnosti
+datum úhrady
+
+4. Inventarizace pohledávek
+
+inventarizace této účtové třídy je důležitá, protože případné chyby se objeví přímo ve výsledkových účtech
+zjišťuje se
+o — jestli stav pohledávek v účetnictví odpovídá skutečnému stavu
+
+= | provádí se dokladovou inventurou
+
+s © musíbýt sestaven inventurní soupis ke každému analytickému účtu pohledávek
+
+= | inventurní soupis obsahuje
+
+e | soupis pohledávek podle jednotlivých faktur
+
+e splatnost
+
+e © u pohledávek v cizí měně částku v cizí měně 1 v Kč
+
+o — jestli reálná hodnota pohledávek není nižší, než je jejich účetní hodnota
+= © provádí se ve vztahu ke splatnosti pohledávky
+= © u pohledávek po lhůtě splatnosti se posuzuje doba, která uplynula od této splatnosti
+= © výše rizika nesplacení pohledávky se vyjadřuje opravnou položkou
+
+účtování
+
+5. Opravné položky k pohledávkám a odpis pohledávek
+
+vyplacena záloha na služební cestu 2 000 Kč
+zaměstnanec zemřel — odpis pohl. 2 000 Kč
+
+335
+546
+
+221
+
+335
+
+VPD
+ID
+

@@ -1,0 +1,62 @@
+S. Výpočet mezd
+
+viz přílohy
+základní podklady pro výpočet mzdy
+o — zjištění druhu mzdy (časová, úkolová nebo pevný plat)
+o | kolik pracovních dnů a svátků bylo v měsíci
+o | docházka zaměstnance do práce
+dovolená se vyplácí za pracovní dny
+za státní svátek náleží náhrada mzdy pouze v časové a úkolové mzdě
+nemoc
+o | prvních 21 kalendářních dnů je zaměstnanci vyplácena náhrada mzdy
+o | první 3 dny PN zaměstnanec nedostane nic (tzv. karenční doba)
+o | náhrada mzdy je vyplácena pouze za pracovní dny, vyplácí ji zaměstnavatel a nepodléhá SP, ZP ani dani
+o | náhrada mzdy se zaměstnanci přičte k čisté mzdě
+nemocenská
+o | zaměstnanec na ni má nárok od 22. kalendářního dne
+o — vyplácí ji Městská nebo okresní správa sociálního zabezpečení
+o | zaměstnavatel nic nepočítá
+příplatek za přesčas
+o | vyplácí ho zaměstnavatel
+o © minimální výše stanovená Zákoníkem práce je 25 % z průměru pro náhrady
+jednotlivé složky hrubé mzdy se zaokrouhlují matematicky
+daňový bonus se zaměstnanci vyplácí při měsíčním zúčtování, jestliže činí minimálně 50 Kč a maximálně 5 025 Kč (dle
+Zákona o dani z příjmů - $ 35d)
+při ročním zúčtování je daňový bonus uplatněn, jestliže je minimálně 100 Kč a maximálně 60 300 Kč (dle Zákona o dani
+z příjmů - $ 35c) :
+v malých organizacích, které mají do 25 zaměstnanců a jsou přihlášeny jako Malé organizace, si zaměstnavatel z částky,
+kterou je povinen zaplatit správě sociálního zabezpečení, odečte polovinu (refundace).
+
+6. Evidence práce a mezd
+
+osobní karta
+o | pro každého zaměstnance ji vyhotovuje personální oddělení
+o vyplňuje se pouze |x
+o | obsahuje základní údaje o zaměstnanci — vzdělání, nárok na dovolenou, zdravotní stav, děti, pracovní dobu,
+plat...
+mzdový list
+o — sestavuje ho mzdová účtárna na období 1 kalendářního roku pro každého zaměstnance
+o | obsahuje základní údaje o zaměstnanci, odpracované a neodpracované dny, výši hrubé mzdy, dávky
+nemocenského pojištění za jednotlivé měsíce
+o | tvoří analytickou evidenci k účtu 331 - Zaměstnanci
+zůčtovací a výplatní listina
+o — vyhotovuje ji mzdová účtárna každý měsíc po skončení měsíčního období pro všechny zaměstnance
+o — obsahuje strukturu mezd jednotlivých zaměstnanců (všechny složky), jejich srážky a částku k výplatě
+o — je podkladem pro účtování hrubých mezd
+o — tvoří analytickou evidenci k účtu 521 — Mzdové náklady
+evidenční list důchodového zabezpečení
+o | vyhotovuje ho zaměstnavatel 1x ročně
+o. vyhotovuje ho 3x
+= © originál zašle České správě sociálního zabezpečení
+= © jednu kopii si nechá
+s © druhou kopii dá zaměstnanci
+o | doklad o tom, že byl zaměstnanec v dané době důchodově pojištěn
+zápočtový list
+o | vyhotovuje ho zaměstnavatel zaměstnanci, který odchází z firmy
+představuje potvrzení o zaměstnání
+je zde popsán průběh zaměstnání, kde zaměstnanec pracoval a jak dlouho
+je zde uveden celkový počet odpracovaných let a dnů
+zaměstnanec ho předkládá na Úřadech práce
+
+O O O O0
+

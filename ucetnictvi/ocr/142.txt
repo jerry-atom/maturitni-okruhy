@@ -1,0 +1,80 @@
+S poměrovými čísly
+e © výroba málo druhů stejnorodých výrobků, které se liší velikostí, hmotností, jakostí nebo pracností
+e | princip rozvržení režijních nákladů:
+o | poměrová čísla = poměr mezi náklady skutečných kalkulačních jednic
+např: výrobek A, B, C 1:2:0,5
+základ — výrobek A
+
+Zadání:
+Firma vyrábí 3 druhy výrobků. , , , ,
+; o 1. Volba poměrových čísel => odlišnost ve 4, Výpočet výrobní režie na skutečný kus
+Odlšnostv pracnosti: spotřebě strojových hodin
+- výrobek A 10 strojových hodin, 10: 12:8 => 4:12:08 Výrobek A
+- výrobek B 12 strojových hodin, , , 750*1,0 = 750 Kč na 1 skutečný ks A
+- výrobek C 8 strojových hodin. 2. Přepočet plánovaného objemu všech výrobků na
+Plánovaná výroba výrobek A (poměrové číslo 1) Výrobek B
+-A 200 ks 200*1 + 190*1,2 + 220*0,8 = 604 přepočítaných ks 750*1,2 = 900 Kč na 1 skutečný ks B
+-B 190 ks 3, Výpočet výrobní režie na přepočítaný kus Výrobek ©
+- C 220 ks. 453 000: 604 = 750 Kč na přepočítaný kus
+
+Plánované celkové režijní náklady 453 000 Kč. 750"0,8 = 600 Kč na 1 skutečný ks C
+Přirážková
+e použití
+o při výrobě různorodých výrobků
+e | princip rozvržení režijních nákladů
+o režijní přirážkou
+o stanovení rozvrhové základny — přímo úměrná režijním nákladům, aby umožnila spravedlivé
+rozpočítání režijních nákladů na výrobky, např.: celkové přímé mzdy (materiál, náklady)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pán výr b 1 000 k 2 000 k Závěr: A B Rozvrhová základna přímý materiál
+Z VÝTODY S S © Plánvýroby 1000ks.——— 2000ks Režijní přirážka = 120% z PřMt
+Přímý materiál 60,- 70,- , bs
+Přímé mzd 40 130 Přímý materiál 60,— 70,- Závěr: A B
+y , M ; Přímé mzdy 40,- 130,-- Plán výroby 1000ks | 2000ks
+Rozpočtovaná celkový výrobní režie 240 000,— , „5 y v Přím teriál 60 70
+Rozvrhová základna —- přímé mzdy vxtohní (eAlě Ae LEDU Sem: Bá: my matre n i
+Vlastní náklady výroby 132,- 304,-- Přímé mzdy 40, 130,-
+240 000 Výrobní režie 120% z Přlt 72- 84.--
+Režijní 2. -
+přirážka * 100 Vlastní náklady výroby — 172,- 284,-
+
+40*1000+130* 2000
+
+Vnitropodnikové ceny
+
+e © vnitropodnikovou cenou se oceňuje např. nedokončená výroba, polotovary vlastní výroby, výrobky
+e © stanovuje se na základě předběžné kalkulace a může mít různý obsah:
+
+o bude zahrnovat pouze přímé náklady
+
+o bude zahrnovat vlastní náklady výroby
+
+o bude zahrnovat vlastní náklady výkonu
+
+Organizace vnitropodnikového účetnictví
+
+e © rozhodování samostatných podniků, to znamená, že podniky mají možnost zvolit si nejen způsob vedení
+účetnictví, ale i stanovit si účty a jejich označení
+
+Vnitropodnikové účetnictví může být organizováno:
+1. v rámci analytických účtů k finančnímu účetnictví
+o jde o analytickou evidenci k 5. a 6. účtové třídě, do účtových skupin 59 a 69 se zařadí účty
+Vnitropodnikové náklady (např. 599) a Vnitropodnikové výnosy (např. 699)
+o tato podoba vnitropodnikového účetnictví se označuje tzv. jednookruhové účetnictví - finanční a
+vnitropodnikové účetnictví se vede v jednom okruhu
+o tento způsob je využíván především v menších podnicích
+2. v samostatném účetním okruhu
+o pro vnitropodnikové účetnictví se vytvoří účty v úč. třídách 8 a 9
+o náplň, obsah, délku účetního období, názvy účtových skupin a jednotlivých účtů si určí sama jednotka
+o tato podoba vnitropodnikového účetnictví se využívá ve větších podnicích
+o toto účetnictví se označuje jako dvouokruhové — finanční i vnitropodnikové účetnictví je odděleno a
+každé tvoří samostatný okruh
+

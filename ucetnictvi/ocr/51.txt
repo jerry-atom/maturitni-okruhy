@@ -1,0 +1,72 @@
+8. Evidence DM
+
+v DM má firma vloženo spoustu peněz a zároveň je to majetek, který slouží firmě po mnoho let. Je proto nezbytné, aby
+byl důsledně evidován.
+
+základní evidenci provádíme na inventárních kartách
+
+základní evidenční jednotkou je inventární předmět (jednotlivá věc nebo soubor věcí)
+
+v ručně vedené evidenci se jedná většinou o karty z pevnějšího papíru
+
+při počítačové evidenci se data uchovávají v paměti opět většinou formou jednoduchého formuláře
+
+evidence obsahuje stručný technický popis DM, údaje o VC, datum pořízení, datum uvedení do používání, dodavatel,
+člověk odpovědný za majetek
+
+karta však musí povinně obsahovat přidělené inventární číslo (upevněné relativně trvanlivým způsobem), způsob
+odepisování, odpisovou skupinu, VC, jednotlivé roční daňové odpisy, popřípadě účetní odpisy
+
+při pořízení DM navíc vypisujeme zápis o pořízení DM a při vyřazení pak zápis o vyřazení DM
+
+9. Inventarizace majetku
+
+povinnost inventarizace vyplývá ze zákona o účetnictví
+porovnání skutečného stavu se stavem účetním
+musí se dělat minimálně 1x ročně
+řádná — k okamžiku sestavení účetní závěrky
+mimořádná — například při změně odpovědného pracovníka
+inventura
+o fyzická
+o | dokladová
+inventarizační rozdíly
+o | shoda- účetní stav = skutečnému stavu
+o © manko- účetní stav > skutečný stav
+o | přebytek — účetní stav < skutečný stav
+manko se pak případně předepisuje odpovědné osobě k náhradě
+
+manko - skříň 549 022 ID
+přebytek — skříň 022 648 ID
+předpis náhrady 335 648 ID
+
+úhrada náhrady 221(211,331) 335. VBŮ
+
+10. Leasing
+
+pronájem, kdy poskytovatel leasingu, vlastník dané věci (pronajímatel), dočasně přenechává tuto věc k užívání jinému
+subjektu (nájemci) a nájemce za tuto službu je povinen zaplatit úplatu — leasingové splátky (nájemné)
+druhy leasingu
+o | operativní
+= | krátkodobý
+= © poskončení doby pronájmu dochází k vrácení pronajímané věci pronajímateli (vlastníkovi)
+o | finanční
+= | dlouhodobý
+= © poskončení doby pronájmu dochází k odkupu najaté věci nájemcem
+dělení leasingu podle zákona o DPH
+o | leasing s povinností odkupu
+= © poskončení nájmu má nájemce povinnost odkoupit věc, která byla předmětem leasingu, a tak se stává
+novým vlastníkem
+o | leasing s oprávněním odkupu
+= © po skončení nájmu má nájemce možnost (předkupní právo) odkoupení věci, kterou měl doposud
+v nájmu
+o | leasing bez povinnosti či oprávnění odkupu (tzv. operativní leasing)
+= © poskončení nájmu nedochází ke změně vlastnických vztahů a najatá věc se vrací pronajímateli
+základní pojmy
+o | leasingová smlouva
+= © smlouva 0 nájmu
+= náležitosti
+e | identifikační údaje o pronajímateli, nájemci a předmětu leasingu
+e © datum předání předmětu leasingu — toto datum je velmi důležití, protože do nákladů je možné
+poprvé účtovat až v měsíci, kdy je předmět leasingu řádně předán nájemci ve stavu
+umožňujícím jeho užívání
+

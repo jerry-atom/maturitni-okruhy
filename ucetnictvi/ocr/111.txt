@@ -1,0 +1,42 @@
+= ostatní rezervy
+e © jejich tvorba upravena vnitropodnikovou směrnicí
+e | daňově neúčinné (nejsou zohledněny při výpočtu základu DaP)
+e © příklad — tvorba rezervy na daň z příjmů
+
+o | 2012-tvorba rezervy 500 Kč 591 459 ID
+o | zaplacené zálohy 400 Kč 341.. 221. VBŮ
+o | celková daň 515 Kč 591 341 ID
+o © použití rezervy 500 Kč 459 591 ID
+o | doplatek daně 115 Kč 341.. 221. VBŮ
+
+e | Opravné položky
+o © nakonci roku se provádí inventarizace, kde se porovnává
+= fyzický stav se skutečným stavem
+s skutečné ocenění s účetním oceněním
+o — jestliže je skutečná hodnota větší než účetní hodnota, jedná se o tzv. skrytý (latentní) přírůstek, o kterém se neúčtuje
+o — jestliže je skutečná hodnota menší než účetní, jedná se o snížení hodnoty
+= trvalé |
+e © trvalé snížení hodnoty mat.500 Kč 549 112 ID
+s dočasné
+e © tvoří se opravná položka (do nákladů)
+
+e © opravné položky se nachází vždy v poslední skupině příslušné majetkové třídy
+e © opravné položky se do rozvahy zapisují na stranu pasiv
+e © nákladové účty 559, 579, 589 strana MD
+e © účty opravných položek — skupiny 09, 19, 29, 39 strana D
+e © daňově neúčinný náklad
+e © daňově účinné jsou pouze zákonné opravné pol. k pohledávkám
+o | tvorba zákonné OP 1 000 Kč 558 391 ID
+e © tvorba opravné položky k materiálu
+o | tvorba OP 1 500 Kč 559 191 ID
+
+e © vdalším období se zjišťuje, jestli dočasné snížení
+o © pominulo
+
+= zrušení OP 1 500 Kč 191 559 ID
+o | stalo se trvalým
+
+s © zrušení OP 1 500 Kč 191 559 ID
+
+= | trvalé snížení 1500 Kč 549 112 ID
+

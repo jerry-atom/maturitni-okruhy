@@ -1,0 +1,72 @@
+hrubé mzdy zaměstnancům 90 000 Kč 521 331 ID
+
+SP zaměstnanců 5 850 Kč 331 336.2 ID
+ZP zaměstnanců 4 050 Kč 331 336.1.. ID
+daň z příjmů 12 350 Kč 331 342 ID
+
+o © vůči finančním institucím
+= © účtují se zde daňové povinnosti jednotlivých daní
+častější než nadměrný odpočet
+= | účtování
+
+DPH — daňová povinnost 50 000 Kč 343 221 VBŮ
+Spotřební daň — daňová povinnost 30 000 Kč 345. 221. VBŮ
+silniční daň — doplatek daně 10 000 Kč 345. 221. VBÚ
+daň z nemovitostí — daňová povinn. 20 000 Kč 345. 221. VBŮ
+daň z příjmů — daňová povinnost 70 000 Kč 591 341 ID
+o — vůči společníkům
+= © skupina 36
+
+= | v případě, když společníci půjčili peníze do společnosti
+e | účtování
+
+půjčka od spol. na 1 rok 90 000 Kč 221 365.1. VBŮ
+předpis úroku 5 000 Kč 562 365.2 ID.
+úhrada půjčky i úroku 95 000 Kč 365 221 VBU
+
+= © při rozdělování zisku
+e | účtování
+
+zisk k 1. 1. 90 000 Kč 701.. 431.. DD
+příděl do ZRF 30 000 Kč 431.. 421. DD
+předpis dividend 30 000 Kč 431 364 ID
+předpis daně z dividend 4 500 Kč 364 342 ID
+výplata čistých dividend 25 500 Kč 364. 221. VBŮ
+
+s © ze závislé činnosti
+e | účtování
+
+hrubé mzdy společníků 10 000 Kč 522 366 ID
+daň z příjmů FO 1 200 Kč 366 342 ID
+SP za společníky 650 Kč 366 336.2 ID
+ZP za společníky 450 Kč 366 336.1. ID
+
+o © ostatní závazky
+u jedná se například o závazky vůči celnímu úřadu, předpis leasingových splátek, nákup cenných papírů na fakturu
+= | účtování
+
+FAP za zboží do nečlenské země 50 000 Kč 131 321 FAP
+clo 10% 5 000 Kč 131 379 JSD
+DPH 20 % - výstup 11 000 Kč 349 343 DD
+DPH 20 % - vstup 11 000 Kč 343 349 DD
+nákup krátkodobých akcií 10 000 Kč 259 379 FAP
+předpis zvýšené splátky leasingu 150 000 Kč 381 379 FAP
+DPH 20 % 30 000 Kč 343 379
+
+předpis měsíční splátky leasingu 10 000 Kč 381 379 FAP
+DPH 20 % 2 000 Kč 343 379
+
+bankovní úvěry a výpomoci
+o | představují závazek vůči instituci, která nám poskytla úvěr (bance)
+
+o | krátkodobé — účet 231 — Krátkodobé bankovní úvěry
+o © dlouhodobé — účet 461 — Bankovní úvěry
+o | proúčtování je dokladem výpis z úvěrového účtu
+o © pro vykázání krátkodobých nebo dlouhodobých závazků v rozvaze je rozhodující, jaká je zbývající doba jeho
+splatnosti ke dni sestavení účetní závěrky (ne celková doba splatnosti)
+o | účtování
+poskytnut dlouhod. bankovní úvěr 95 000 Kč 261.. 461.. VÚÚ
+poskytnut dlouhod. bankovní úvěr 95 000 Kč 221 261 VBŮ
+splátka úvěru 10 000 Kč 461.. 261. VÚŮÚ
+splátka úvěru 10 000 Kč 261.. 221. VBŮ
+

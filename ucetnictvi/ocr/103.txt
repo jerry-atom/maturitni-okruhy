@@ -1,0 +1,64 @@
+o. odtéto daně se mohou odečíst slevy za zdravotně postižené zaměstnance a vyjde nám konečná
+daňová povinnost (bonus)
+
+o. od daně se odečtou zaplacené zálohy
+
+o | disponibilní zisk se zjistí jako HV - daň
+
+o účtování
+
+zálohy na daň 5000Kč | 341 221. VBŮ
+daňová povinnost 10000Kč | 591 (593) 341. ID
+zúčtování záloh 5000Kč | 341 591. ID
+úhrada daně 5000Kč | 341 221. VBŮ
+daňový bonus 2000Kč | 341 591.. ID
+vrácení bonusu 2000Kč | 221 341. VBŮ
+doměrek daně 1000Kč | 595 341. ID
+
+e u daníz příjmů se rozlišují účty 341 a 342
+o. účet 341 — Daň z příjmů
+= používá se, když plátce a poplatník je jedna osoba
+= př. daň z příjmů PO
+o. účet 342 — Ostatní přímé daně
+= používá se, když plátce a poplatník jsou rozdílné osoby
+= př. zálohy na daň z příjmů FO u zaměstnanců, u dividend a podílů na zisku)
+
+e finanční úřad provádí kontroly daní a může být zjištěna úhrada a vyměření nižší daně
+o finanční úřad pak daň doměří a naúčtuje případné penále
+o účtování
+doměření daně 5 000 Kč 595. 341.. ID
+penále 1 000 Kč 545. 379. ID
+
+3. Majetkové daně
+e silniční daň
+o je uvalena na firemní vozidla zařazené v obchodním majetku
+o smyslem této daně je vytvoření finančních zdrojů na údržbu silnic
+o základ daně a sazby ($ 6)
+= uosobních automobilů — zdvihový objem motoru v cm“
+u u návěsů (nákladní auta) — hmotnost v tunách a počet náprav
+o silniční daň, záloha na silniční daň i sleva na dani se zaokrouhlují na celé Kč nahoru
+o zaměstnavatel může daň platit dvěma způsoby
+= 1/12 roční sazby za každý měsíc
+= zakaždý den použití pro služební účely 25 Kč
+o poplatník si může snížit daň (V závislosti na datu první registrace) o:
+u. 48% - 36 měsíců od první registrace auta
+= 40%- dalších 36 měsíců
+= 25% - dalších 36 měsíců
+
+o daň se zvyšuje pro vozidla registrovaná do 31. 12. 1989 ($6, ods.8) 0 25 %
+
+o  zdaňovacím obdobím je rok
+
+o v průběhu roku se platí 4 zálohy do 15. 4., do 15. 7., do 15. 10. a do 15. 12.
+
+o pro silniční daň se používá účet 531 — Daň silniční
+
+o. silniční daň je vždy daňově účinná bez ohledu na zaplacení
+
+o Účtování
+platba záloh v průběhu roku 5 000 Kč 345. 221. VBU
+předpis silniční daně 8 000 Kč 531.345. ID.
+úhrada daně 3 000 Kč 345. 221. VBU
+
+e daň z nemovitostí
+

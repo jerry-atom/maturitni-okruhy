@@ -1,0 +1,99 @@
+= účetní jednotka se rozhodla, že tyto náklady bude rozlišovat po dobu 4 let = 1 200 000 Kč/4 = 300 000 Kč/rok
+
+zúčtování komplexních N 1 200 000Kč 382 555 ID
+náklady roku 2012 300 000 Kč S55 382 ID
+náklady roku 2013 300 000 Kč 555 382 ID
+náklady roku 2014 300 000 Kč 555 382 ID
+náklady roku 2015 300 000 Kč 555 382 ID
+
+Výdaje příštích období
+
+o © náklad vzniká v běžném období, ale výdaj bude až v následujících obdobích
+o | účet 383 (rozvahový pasivní)
+
+o © příklad — nájemné placené pozadu
+
+náklady roku 2012 200 000 Kč 518 383 ID
+náklady roku 2013 200 000 Kč 518 383 ID
+náklady roku 2014 200 000 Kč 518 383 ID
+úhrada nájemného 600 000 Kč 383. 221. VBŮ
+
+Výnosy příštích období
+
+o | částky, které byly přijaty v běžném období, ale zcela nebo zčásti patří do výnosů příštích obdobích
+o | účet 384 (rozvahový pasivní)
+
+o — příklad — předem přijaté nájemné z hlediska pronajímatele
+
+přijato nájemné 600 000 Kč 221. 384 VBŮ
+výnosy roku 2012 200 000 Kč 384 648/602 ID
+výnosy roku 2013 200 000 Kč 384 648/602 ID
+výnosy roku 2014 200 000 Kč 384 648/602 ID
+
+Příjmy příštích období
+
+o © situace, kdy výnos vzniká v běžném období, ale peníze budou přijaty až v následujícím období
+o | účet 385 (rozvahový aktivní)
+
+o © příklad — nájemné placené pozadu z hlediska pronajímatele
+
+výnosy roku 2012 200 000 Kč 385 648/602 ID
+výnosy roku 2013 200 000 Kč 385 648/602 ID
+výnosy roku 2014 200 000 Kč 385 648/602 ID
+zaplaceno nájemné 600 000 Kč 221. 385 VBŮ
+
+4.. Casové rozlišení v širším pojetí
+
+používají se, když není známa některé z podmínek v užším pojetí
+
+o © u dohadných položek není známa částka a ÚJ si odhaduje
+
+o © u rezerv je znám pouze účel, pro který se tvoří — částka i období, ve kterém se budou čerpat se pouze odhadují
+
+účty
+
+o | 388— Dohadné účty aktivní
+
+o | 389 — Dohadné účty pasivní
+
+o | skupina 45 — Rezervy
+
+o | skupiny 09, 19, 29, 39— Opravné položky
+
+Dohadné účty aktivní
+
+o | účet 388 (rozvahový aktivní)
+
+o — účtují se zde pohledávky, které nebyly v daném období vyúčtovány
+
+o © příklad — pokud vznikla škoda na majetku, který byl pojištěn a pojišťovna do konce roku nesdělila výši náhrady nebo
+odhad úroků z účtu
+
+požár materiálu 200 000 Kč 582 112 ID
+odhad náhrady škody 170 000 Kč 388 688 ID
+sdělení náhrady 160 000 Kč 378 388 ID
+rozdíl 10 000 Kč 548 388 ID
+příjem od pojišťovny 160 000 Kč 221. 378. VBÚŮ
+odhad úroku z účtu 3000 Kč 388 662 ID
+
+Dohadné účty pasivní
+
+o | účet 389 (rozvahový pasivní)
+
+o — nevyfakturované dodávky, nákladové úroky, které nejsou na konci roku známy, náhrada za nevybranou dovolenou,
+která bude vyplacena v příštím roce
+
+příjem zboží 200 000 Kč 132 131 příjemka
+faktura nepřišla 200 000 Kč 131 389 ID
+
+FAP za zboží 200 000 Kč 389 FAP
+DPH 20 % 40 000 Kč 343
+
+celkem 240 000 Kč 321
+
+odhad elektrické spotřeby 12 000 Kč 502 389 ID
+
+FAP za energii 15 000 Kč 389 FAP
+
+2
+

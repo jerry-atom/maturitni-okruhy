@@ -1,0 +1,99 @@
+O
+
+o
+
+o
+
+DPH 20 % 18 000 Kč 311 343
+zúčtování zálohy 50 000 Kč 324 311 ID
+úhrada FAV 58 000 Kč 221 311 VBŮ
+
+= vpřípadě, že je záloha poskytnuta v jednom období a zúčtována v následujícím období, dodavatel je daňový
+
+doklad povinen vystavit
+
+e účtování
+přijata záloha 20 000 Kč 221.. 324. VBŮ
+daňový doklad 20 % 3334 Kč 324 343 DD
+FAV za výrobky 50 000 Kč - 601 FAV
+DPH 20 % 10 000 Kč - 343
+celkem 60 000 Kč 311 =
+odečet zálohy 16 666 Kč 324 - ID
+odečet DPH 3334 Kč 343 -
+odečet celkem 20 000 Kč - 311
+úhrada 40 000 Kč 221 311 VBŮ
+
+závazek vůči dodavateli může ÚJ uhradit i pomocí směnky
+
+=. cenné papíry, které musí obsahovat předepsané náležitosti
+
+= vyjadřují vztah mezi věřitelem a dlužníkem (tj. povinnost dlužníka vyplatit věřiteli ve stanovené době částku
+
+uvedenou na směnce)
+
+= musí mít písemnou podobu
+
+= směnky k úhradě
+
+s účet 322— Směnky k úhradě (RP) — do I roku
+
+» účet 478 — Dlouhodobé směnky k úhradě (RP) — nad 1 rok
+
+= | používají se, když účetní jednotka místo zaplacení předá odběrateli směnku
+
+s průvodní závazek tak (dodavatelé) se změní na závazek směnečný
+
+= úrok- účet 562
+
+= účtování
+FAP za stavební práce 1 000 000 Kč 042 - FAP
+DPH 20 % 200 000 Kč 343 .
+celkem 1200 000 Kč - 321
+úhrada dodavateli směnkou 1 200 000 Kč 321 322.1. ID
+úrok 200 000 Kč 562 3222 ID
+VBŮÚ — směnka proplacena
+a) úhrada směnky 1 200 000 Kč 322.1. 221. VBŮ
+b) výplata úroku 200 000 Kč 322.2 221. VBŮ
+
+závazky v cizí měně
+
+= ÚJ používá denní kurzy ČNB nebo pevné kurzy
+= | při těchto závazcích vznikají kurzové rozdíly
+
+e | při úhradě faktury
+e nakonci období
+
+= prokurzové rozdíly se používají podle povahy účty
+
+e 563 — Kurzové ztráty
+e 663 — Kurzové zisky
+
+= nakonci období se firmou dosud neuhrazené faktury přepočítávají na českou měnu a vzniká tak kurzový rozdíl
+u při úhradě faktur se budou zahraniční pohledávky porovnávat s už upravenou hodnotou z konce roku a znovu
+
+vzniká kurzový rozdíl
+= účtování
+
+FAP za materiál z Německa 25 000 Kč 111 321 FAP
+(100 EUR, kurz 25 Kč)
+DPH 20 % - výstup 5 000 Kč 349 343 DD
+DPH 20 % - vstup 5 000 Kč 343 349 DD
+materiál přijat na sklad 25 000 Kč 112 111 příjemka
+31. 12. kurzový rozdíl 1 000 Kč 563 321 ID
+(kurz 26 Kč)
+úhrada FAP v násl. období 24 000 Kč 321 221 VBU
+(kurz 24 Kč)
+kurzový rozdíl 2 000 Kč 321 663 ID
+FAP za zboží 100 000 Kč 131 321 ID
+úhrada 98 000 Kč 321 221 VBU
+KR -— ztráta 2 000 Kč 321 663 ID
+
+reklamace
+
+= při dodávkách mohou vzniknout nesrovnalosti mezi dodavatelem a odběratelem (poškození, chybějící množství,
+
+špatná kvalita, jiný druh za jinou cenu,...)
+= | účtuje se o tzv. reklamačním nároku a vzniká tak pohledávka za dodavatelem
+
+2
+

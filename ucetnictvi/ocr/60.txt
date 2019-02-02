@@ -1,0 +1,97 @@
+e za peníze v pokladně odpovídá pokladník, se kterým se podepisuje dohoda o hmotné odpovědnosti
+(podepisuje pouze osoba starší 18 let)
+e pokladník vyhotovuje především dva druhy dokladů
+o. VPD- Výdajový pokladní doklad (vyhotovuje se minimálně 1x)
+o PPD- Příjmový pokladní doklad (vyhotovuje se minimálně 2x)
+e analytická evidence
+o | podle hmotně odpovědných osob
+
+o podle jednotlivých měn (korunová a valutová pokladna — EUR, USD....)
+o © má podobu pokladní knihy
+
+ 
+
+Datum Text Příjem Výdej Zůstatek Doklad Poznámka
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e účetní jednotka musí vést pokladnu v tuzemské měně
+e © pro přepočet kurzů se používá podle vnitropodnikové směrnice dle kurzů ČNB
+o denní kurz
+= kurz platný v den uskutečnění účetního případu
+o pevný kurz
+= kurz platný v účetní jednotce po určité období (např. měsíc)
+= stanovení délky tohoto období je v pravomoci účetní jednotky, ale nesmí překročit
+účetní období
+o | na konci účetního období se před sestavením rozvahy musí valutová pokladna přepočítat
+aktuálním kurzem ČNB
+o | poté se zaůčtují případné kurzové rozdíly — zisk nebo ztráta
+e inventarizace pokladny
+o © minimálně jednou ročně
+
+ 
+
+ 
+
+ 
+
+ 
+
+o | povinnost inventarizace vyplývá ze Zákona o účetnictví
+o | porovnání skutečného stavu (v pokladně) se stavem účetním (v pokladní knize)
+o provádí se fyzická inventura = pokladní skontro
+o | součástí pokladního skontra je výčetka platidel
+Hodnota bankovky a mince Počet bankovek a mincí Částka
+X X X
+Celkem x bankovek = Skutečný stav pokladny
+
+ 
+
+ 
+
+ 
+
+ 
+
+O při inventarizaci mohou nastat tři skutečnosti
+= manko (pokladní schodek)
+= přebytek
+= shoda
+o © manko se podle míry zavinění může předepsat pokladníkovi k náhradě a vzniká tak pohledávka
+za zaměstnanci
+o pokladník může manko uhradit třemi způsoby
+= převodem na bankovní účet
+= hotově
+= srážkou ze mzdy
+
+© | pro vyrovnání časového nesouladu mezi doklady (mezi např. pokladnou a bankovním účtem) se
+
+používá
+účet 261 — Peníze na cestě (rozvahový účet)
+e účtování
+tržby v hotovosti za prodané zboží 10000Kč © 211.1 604 PPD
+v hotovosti zaplacena oprava DM 15000Kč | 511. 211.1 VPD
+nákup valut (1 000 USD) 18000Kč © 211.2 261.. PPD
+nákup valut (1 000 USD) 18000Kč © 261. 211.1 VPD
+
+pokladní schodek v korunové pokladně 5000Kč | 569 | 211.1 ID
+2
+

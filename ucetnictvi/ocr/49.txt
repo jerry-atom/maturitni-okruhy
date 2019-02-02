@@ -1,0 +1,75 @@
+i
+
+« | Finanční (není stanoven limit) — neodepisuje se
+o | Cenné papíry, které má firma déle než 1 rok — skupina 06
+= | CPs více než 40% podílem — 061
+s | CPs20—40% podílem — 062
+= | CPs podílem do 20% - 063
+= | Dluhopisy držené do splatnosti — 065
+= © Jiný dlouhodobý finanční majetek - 069
+o © Půjčky poskytnuté jiným podnikům delší než 1 rok
+= | Dlouhodobé půjčky a úvěry — 066
+= | Ostatní půjčky (př. vklad tichého společníka) — 067
+o © Jiný dlouhodobý finanční majetek — 069
+= | termínované vklady s výpovědní lhůtou delší než 1 rok
+
+3. Zachycení DM v účetnictví
+
+e © Dlouhodobý majetek se zahrnuje do aktiv a eviduje se v účtové třídě 0
+e © DM nehmotný se účtuje ve skupině 01
+e © DMhmotný
+o | odepisovaný se účtuje ve skupině 02
+o | neodepisovaný se účtuje ve skupině 03
+e © DM finanční se účtuje ve skupině 06
+e | pořízení DM se účtuje ve skupině 04
+o 041- Pořízení dlouhodobého nehmotného majetku
+o | 042— Pořízení dlouhodobého hmotného majetku
+o | 043— Pořízení dlouhodobého finančního majetku
+e | oprávky
+o | nehmotný DM - skupina 07
+o © hmotný DM - skupina 08
+e zálohy
+o | skupina 05
+= | 051— Poskytnuté zálohy na dlouhodobý nehmotný majetek
+= 052- Poskytnuté zálohy na dlouhodobý hmotný majetek
+= 053- Poskytnuté zálohy na dlouhodobý finanční majetek
+
+4. Ocenění DM
+
+Majetek firma oceňuje vstupní cenou, která se liší podle způsobu pořízení majetku. Hmotný i nehmotný majetek
+e © Pořizovací cena — při nákupu nového DM od dodavatele
+= cena pořízení + vedlejší pořizovací náklady (doprava, instalace,
+montáž,...)
+
+e © Reprodukční pořizovací cena — stanovuje ji soudní znalec v případech vkladu majetku z osobního vlastnictví do
+podnikání (jestliže je starší 5 leť) nebo při darování staršího majetku
+
+e © Cena ve vlastních nákladech — používá se, když si firma majetek vyrábí sama, spočítá se součet všech nákladů (náklady —
+spotřeba živé a zvěcnělé práce vyjádřena v penězích)
+
+ 
+
+Finanční majetek oceňujeme pořizovací cenou včetně přímých nákladů souvisejících s pořízením (provize,...). U dlužných CP se
+do PC zahrnuje také naběhlý úrokový výnos.
+
+5. Pořízení DM
+
+e | dodavatelský způsob (nákup)
+
+o | ztuzemska
+
+FAP za auto 200 000 Kč 042 FAP
+DPH 20% 40 000 Kč 343
+
+celkem 240 000 Kč 321
+
+zařazení auta 200 000 Kč 022 042 ID
+zaplacena FAP 240 000 Kč 321 221 VBU
+
+o ze zahraničí
+= | zezemí EU
+FAP za auto 200 000 Kč 042 321 FAP
+DPH výstup 40 000 Kč 349 343 DD
+
+2
+

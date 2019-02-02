@@ -1,0 +1,40 @@
+darování
+
+= | doúčtování případné ZC 543 07x/08x
+
+= | vyřazení DM 07x/08x 01x/02x
+likvidace (z důvodu opotřebení, zastarání, nefunkčnosti)
+
+= | doúčtování případné ZC 551 07x/08x
+
+= | vyřazení DM 07x/08x 01x/02x
+převedení do osobního vlastnictví
+
+= | doúčtování případné ZC 551 07x/08x
+
+= | vyřazení DM 07x/08x 01x/02x
+z důvodu manka nebo škody (krádež)
+
+= | doúčtování případné ZC 549 07x/08x
+
+= | vyřazení DM 07x/08x 01x/02x
+
+protokol o vyřazení
+uveden
+"= | předmět vyřazení
+datum a způsob vyřazení
+odpovědná osoba
+vstupní cena
+oprávky
+zůstatková cena
+
+ID
+ID, POV
+
+ID, POV
+
+ID, POV
+
+ID
+ID, POV
+

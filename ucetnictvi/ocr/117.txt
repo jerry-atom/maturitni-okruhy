@@ -1,0 +1,85 @@
+A BUN =
+
+21. ZVLÁŠTNÍ ÚČTOVÁNÍ V OBCHODNÍCH SPOLEČNOSTECH
+
+charakteristika obchodních společností
+rozbor akciové společnosti
+
+rozbor společnosti s ručením omezeným
+rozbor veřejné obchodní společnosti
+rozbor komanditní společnosti
+
+1. (Charakteristika obchodních společností
+
+osobní
+o | veřejná obchodní společnost (v. o. s.)
+o © komanditní společnost (kom. spol., k. s.)
+= | mezistupeň mezi osobními a kapitálovými společnostmi
+kapitálové
+o © společnost s ručením omezeným (spol. s r. 0., s. r. 0.)
+o | akciová společnost (akc. spol., a. s.)
+
+PO jsou povinny uvádět typ společnosti jako součást svého obchodního jména
+osobní společnosti
+
+o © neomezené solidární ručení společníků za závazky společnosti
+
+o | kterýkoliv ze společníků může hradit ztrátu
+
+o © osobní účast na řízení společnosti
+
+o © není ze zákona stanoven minimální základní kapitál
+
+kapitálové společnosti
+
+omezené nebo žádné ručení společníků za závazky společnosti
+osobní účast společníků na řízení není vyžadována
+
+jsou stanoveny zásady tvorby statutárních orgánů společnosti
+
+zákon stanovuje minimální základní kapitál
+
+musí tvořit rezervní fond
+
+všechny společnosti i jejich zkratky jsou uvedeny v obchodním zákoníku
+
+O O O O 0
+
+2. Rozbor akciové společnosti
+
+kapitálová společnost
+základní kapitál je rozdělen na určitý počet akcií o určité nominální hodnotě
+společnost musí povinně tvořit ZK v minimální výši
+o © 2 miliony při neveřejné nabídce akcií
+o 20 milionů při veřejné nabídce akcií
+společnost může založit minimálně jedna PO nebo dvě FO
+do OR se společnost musí zapsat do 90 dnů po konání ustanovující valné hromady
+akcionáři neručí za závazky společnosti, ale může o ně přijít (akcie ztratí hodnotu)
+za své závazky ručí společnost celým svým majetkem
+vklad akcionářů je povinný, ale není stanovena jeho minimální hodnota
+rezervní fond se tvoří povinně procentem ze zisku ve výši 20 % ze ZK
+dividendy mají podobu tantiém (odměny ze zisku po zdanění členům představenstva a dozorčí rady společnosti)
+nejvyšší orgán — valná hromada
+vznik a. s.
+o © akciová společnost vzniká dnem zápisu do obchodního rejstříku a v tento den se sestavuje zahajovací rozvaha a
+otevírají se účty hlavní knihy
+o © aby mohla být a. s. zapsána do OR, musí být
+=. upsána celá hodnota ZK
+= | splaceno alespoň 30 % ZK tvořeného peněžitými vklady
+= splaceny všechny nepeněžité vklady
+o © upsané akcie jsou spláceny ve stanovených lhůtách, nejpozději však do 1 roku
+o | sestavení zahajovací rozvahy
+
+= aktivní účty Aktiva / 701
+= pasivní účty 701 / Pasiva
+
+= na straně pasiv můžeme mít účet 365 — Ostatní závazky ke společníkům a členům družstva
+e © počáteční zůstatek na tomto účtu vyplývá ze zřizovacích výdajů před vznikem společnosti
+e © např. když jeden z akcionářů uhradí zřizovací výdaje z vlastních prostředků
+= nastraně aktiv zpravidla bývá účet 353 — Pohledávky za upsaný základní kapitál
+e © používá se, když akcionáři dosud nesplatili své vklady
+e © můžeme k účtu vést analytickou evidenci podle jednotlivých akcionářů
+= © zřizovací výdaje se zachycují na účtu 011 — Zřizovací výdaje
+
+l
+

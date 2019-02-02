@@ -1,0 +1,84 @@
+= | při neuznání reklamace musí odběratel účtovat reklamaci jako manko
+"= | účtování
+
+FAP za materiál 20 000 Kč 111 321 FAP
+DPH 20 % 4 000 Kč 343 321
+
+reklamační nárok 3 000 Kč 315 111 ID
+
+a) dobropis 3000 Kč 321 315 dobropis
+DPH 20 % 600 Kč 321 343
+
+b) náhradní dodávka 3 000 Kč 112 315 příjemka
+C) neuznaná reklamace 3 000 Kč 549 315 ID
+
+za zaměstnanci
+
+o | nejčastěji vznikají při vyplacení zálohy zaměstnanci na služební cestu nebo na drobné nákupy
+
+o | při služebních cestách musí být zaměstnanci proplaceno stravné, jízdné a ubytování na základě cestovního
+příkazu
+
+o | cestovní příkaz se vyhotovuje ještě před odjezdem a pak se jen doplní částky k proplacení
+o © poukončení pracovní cesty zaměstnanec vyhotovuje Zprávu ze služební cesty
+o | stravné se řídí podle počtu hodin strávených na služební cestě
+o | ujízdného záleží na způsobu dojíždění (vlastní auto — sazba na km, služební auto, autobus, letadlo,...)
+o účtování
+vyplacena záloha na služební cestu 2 500 Kč 335 211 VPD
+předloženo vyúčtování celkem 2300 Kč 512 - ID
+zúčtování zálohy 2500 Kč - 335
+rozdíl vrácen do pokladny 200 Kč 211 :
+
+za finančními institucemi
+o — vzniká při nadměrném odpočtu u daní
+o u daně z příjmů může pohledávka (daňový bonus) zaměstnanci vzniknout pouze při uplatnění slev na děti
+o © u DPH nadměrný odpočet nejčastěji vzniká, když
+= © podnik nakupuje ve 20 % sazbě a prodává v 10 % sazbě
+= © podnik nakupuje v tuzemsku, ale prodává převážně do zahraničí
+
+o | účtování
+DPH — nadměrný odpočet 50 000 Kč 221. 343. VBŮ
+Spotřební daň — nadměrný odpočet 30 000 Kč 221 345. VBŮ
+silniční daň — nadměrný odpočet 10 000 Kč 221.. 345. VBŮ
+daň z nemovitostí — nad. odpočet 20 000 Kč 221 345. VBŮ
+
+za společníky
+o | skupina 35
+o V případě. že společníci upsali, ale dosud nesplatili vklady nebo akcie
+účet 353 — Pohledávky za upsaný ZK
+s © viz Obchodní společnosti
+
+u účtování
+zápis PZ — nesplaceno 20 000 Kč 353 701 ID
+úhrada vkladu © vložením auta © 20 000 Kč 022 353 ID
+
+o | v případě, že si společníci půjčili peníze ze společnosti
+= | musí být vyhotovena smlouva o půjčce, kde musí být uveden termín splatnosti, cena, úrok (půjčka
+může být i bezúročná), smluvní strany,...)
+
+= © smlouva musí být v souladu s obchodním zákoníkem
+
+u | účet 355 — Ostatní pohledávky
+
+s © úrok je pro firmu výnosem na účtu 662 — Úroky
+
+= | účtování
+půjčka společníkovi 90 000 Kč 355 221 VBU
+splacení půjčky 90 000 Kč 221.. 355. VBŮ
+úrok 10 % 9 000 Kč 221. 662 | VBŮ
+
+o | v případě úhrady ztráty společníky
+= | při vykázání ztráty za účetní období
+= | účet 354 — Pohledávky za společníky při úhradě ztráty
+= | účtování
+
+ztráta k 1. dni období 90 000 Kč 431 701 ID
+
+předpis ztráty společníkům 90 000 Kč 354 431 ID
+
+úhrada ztráty společníky 90 000 Kč 221 354 VBU
+ostatní pohledávky
+
+o | vznikají v případě, kdy pohledávky nelze zařadit do jiných účtů
+3
+

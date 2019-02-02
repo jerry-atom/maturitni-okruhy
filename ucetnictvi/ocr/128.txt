@@ -1,0 +1,82 @@
+o | některé rozdíly mají dočasný charakter, a právě z důvodu těchto rozdílů vyplývá nutnost
+účtovat o odložené dani (například převod ztráty do dalšího období)
+
+= termíny pro podání daňového přiznání
+
+e © 31.3.— základní termín
+
+e © 30.6.— termín pro firmy, jejichž daňové přiznání zpracovává daňový poradce a pro firmy podléhající
+
+auditu
+
+s zdaňovací období je I rok
+= účtování
+
+zálohy v průběhu roku 341 221. VBŮ
+předpis daně k 31.12. | 591 (593) 341 ID
+
+nedoplatek daně 341 221 VBŮ
+přeplatek daně 221 341 VBŮ
+
+e © přeplatek se většinou nevrací a používá se na úhradu záloh v příštím období
+= finanční úřad provádí kontroly daní a může být zjištěna úhrada a vyměření nižší daně (FÚ daň doměří a naúčtuje
+si penále)
+doměření daně 595 341 ID
+penále 545 379 ID
+e | uzavření účtů
+o © po zaúčtování všech účetních případů (včetně daně z příjmů) se uzavírají účetní knihy — roční uzávěrka
+o | účetní uzávěrka
+= zjištění obratů stran MD a D na jednotlivých syntetických účtech
+= zjištění konečných zůstatků na rozvahových účtech, tj. zapsání konečného zůstatku na slabší stranu účtu a jeho
+převod podvojným zápisem na účet 702 — Konečný účet rozvažný
+= zjištění obratů výsledkových účtů a jejich převod na závěrkový účet 710 — Účet zisku a ztrát
+= zjištění celkového hospodářského výsledku za účetní období na účtu 710 formou rozdílu celkových nákladů a
+celkových výnosů a jeho převod podvojným zápisem na účet 702
+
+o | účtování
+převod KZ aktivních účtů (např. 112) 702 112 ID
+převod KZ pasivních účtů (např. 411) 411 702 ID
+převod obratů nákladových účtů (např. 501) 710 501 ID
+převod obratů výnosových účtů (např. 604) 604 710 ID
+
+o | uúčtu 702 se výsledný zisk nebo ztráta zapíše na stranu pasiv s příslušným znaménkem
+
+o — uúčtu 710 se výsledný zisk nebo ztráta zapíše na stranu MD s příslušným znaménkem (nebo se zapisuje na „slabší
+stranu““ s kladným znaménkem)
+
+o © zisk na účtech 702 a 710 se musí rovnat
+
+5. Otevření účtů na začátku účetního období
+
+e © musí být zajištěna bilanční kontinuita
+
+o © KZ z minulého období = PZ nového období
+e © otevření počátečních zůstatků se provádí podvojným zápisem prostřednictvím účtu 701 — Počáteční účet rozvažný
+e © pro převod zisku nebo ztráty se používá účet 431 — Hospodářský výsledek ve schvalovacím řízení
+
+PZ aktivních účtů (např. 211) 211 701 ID
+PZ pasivních účtů (např. 411) 701 411 ID
+převod disponibilního zisku 701 431 ID
+převod ztráty 431 701 ID
+
+6. Rozdělení zisku / úhrada ztráty
+
+e | rozdělení zisku
+o © na začátku roku se zisk převádí na účet 431
+zisk — vlastní zdroj krytí majetku po určitou stanovenou dobu a účetní jednotka rozhoduje, jak se ziskem naloží
+návrh rozdělení vypracovává vedení firmy
+o rozdělení zisku nebo úhradě ztráty rozhodují vedoucí orgány firmy (např. valná hromada — a. S., S. r. 0.)
+činnost probíhá po účetní uzávěrce i závěrce
+firma se řídí obchodním zákoníkem, ze kterého vyplývá povinnost tvorby fondů a rozhodnutím vrcholného
+orgánu
+ze zisku se poskytuje
+= | příděl do zákonného rezervního fondu — VŽDY!
+= © a poté v jakémkoliv pořadí
+e © příděly do ostatních fondů — firma je tvoří dobrovolně (např. sociální fond pro potřeby
+zaměstnanců — divadla, příspěvky
+na dovolenou,...)
+
+O O O O0 0
+
+©)
+

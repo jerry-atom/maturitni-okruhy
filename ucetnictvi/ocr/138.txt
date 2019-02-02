@@ -1,0 +1,79 @@
+UCETNI ZAVERKA
+
+Charakteristika
+
+Sestavením účetní závěrky vrcholí účetní práce za celé účetní období. Musí poskytovat uživatelům komplexní a pravdivý obraz o
+podniku a jeho hospodaření v minulém účetním období. Uživateli účetních informací jsou kromě podnikového managementu i
+vnější uživatelé (finanční úřad, banka, dlužníci, burzy akcionáři). Podstatou je vykázat k rozvahovému dni stavy jednotlivých
+druhů majetku, závazku, vlastního kapitálu, nákladů, výnosů, výsledek hospodaření popř. zachytit tok peněžních prostředků a
+změny kapitálu. Musí dodržet všechny účetní zásady, zejména zásady věrného a poctivého obrazu účetnictví. Účetní práce
+obsahují běžné účetní zápisy podle účetních dokladů, přezkoušení jejich správnosti, uzavření syntetických účtů na závěrkové účty.
+
+Obsahuje:
+1.. Rozvaha — informace o stavu a struktuře majetku, závazků a vlastního kapitálu (aktiva a pasiva)
+Výkaz zisků a ztráty — informace o výši nákladů a výnosů, o jejich struktuře a dosažení hospodářského výsledku
+Příloha
+Přehled o peněžních tocích — cash flow
+Přehled o změnách vlastního kapitálu
+
+APRBHBV
+
+Druhy závěrek:
+1. Řádná závěrka — sestavení k poslednímu dni běžného účetního období
+2.. Mimořádná závěrka — sestavení v mimořádných situacích (ukončení činnosti, vstup do likvidace)
+3.. Mezitímní závěrka — sestavení v průběhu účetního období, účetní jednotky neuzavírají účetní knihy (zvýšení kapitálu)
+
+Ověřovací povinnost
+a) Akciová společnost, která v účetním období překročila alespoň jedno ze 3 kritérií
+b) Ostatní obchodní společnosti, družstva a fyzické osoby překročili minimálně 2 ze 3 kritérií
+- © Aktiva celkem 40 000 000 Kč
+- © Roční čistý obrat vyšší než 80 000 000 Kč
+- © Průměrný přepočtený stav zaměstnanců byl vyšší než 50
+
+Rozsah účetní závěrky
+1.. v plném rozsahu — akciová společnost a účetní jednotky, které podléhají kontrole auditora
+2. ve zjednodušeném rozsahu — ostatní účetní jednotky (na základě vlastního rozhodnutí mohou vést i v plném rozsahu)
+
+Rozvaha
+Zdroj informací o celkové struktuře majetku, kolik majetku vlastníci do firmy vložili, jaký zisk (ztrátu) firma vytvořila a kolik
+dluhů má.
+
+a) Brutto= výše aktiv podle jednotlivých položek neupravená o opravené položky a oprávky
+
+b) Korekce = výše opravných položek a oprávek k příslušným aktivům
+
+c) Netto = výše aktiv snížená o opravné položky a oprávky
+Aktiva netto za běžné období celkem = pasiva běžného období celkem
+
+AKTIVA PASIVA
+
+Ostatní
+Software
+
+C. I.
+
+na
+C. C.JIl.
+Odběratelé
+
+C. IV. finanční Ostatí
+
+Pokladna období
+Bankovní
+
+období
+
+ 
+
+Výkaz zisků a ztráty:
+Sestavován ve druhovém nebo účelovém členění. Na rozdíl od rozvahy, v níž byla aktiva a pasiva oddělena, se výnosy a náklady
+
+prolínají.
+Výkaz je uspořádán stupňovitě, aby umožnil vyčíslit:
+a) Provozní výsledek hospodaření (rozdíl mezi provozními náklady a výnosy)
+b) Finanční výsledek hospodaření (rozdíl mezi finančními náklady a výnosy)
+c) Výsledek hospodaření za běžnou činnost (provozní + finanční výsledek a splatná (odložená) daň z příjmu)
+d) Mimořádný výsledek hospodaření (rozdíl mezi mimořádnými náklady a výnosy a splatná (odložená) daň z příjmu)
+
+6
+

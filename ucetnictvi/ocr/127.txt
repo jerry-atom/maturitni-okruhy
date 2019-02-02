@@ -1,0 +1,140 @@
+Oo
+o
+
+= | výnosy, které jsou zdanitelné, ale v účetnictví nejsou zaúčtovány
+
+výnosy daňově neúčinné
+
+o | výnosy zdaněné srážkovou daní u zdroje nebo od daně osvobozené (př. dividendy a podíly na
+zisku)
+
+o © výnosy zdaňované až při placení (př. smluvní pokuty a penále pouze vyúčtované, ale dosud
+nepřijaté)
+
+daňově neúčinné náklady (odčitatelné položky)
+
+= odčitatelné položky (8 34)
+
+ztráta z minulých let (je možno si ji odečíst v 5 následujících obdobích)
+dary, které splňují podmínky dané zákonem
+
+© © provádí se tzv. test daru
+= hodnota daru musí být minimálně 2 000 Kč
+= © dar musí být na dobročinné účely
+= © vůhrnulze odečíst hodnotu daru v maximální výši 5% ze základu daně
+
+sazbu daně z příjmů právnických osob stanovuje Zákon o dani z příjmů a v roce 2011 činí 19%
+
+schéma
+
+výnosy (6. účtová třída)
+
+- náklady (5. účtová třída)
+
+Učetní výsledek hospodaření
+
++ náklady daňově neúčinné
+
+- výnosy daňově neúčinné
+
++ rozdíl mezi účetními a daňovými odpisy (jsou-li účetní odpisy vyšší než daňové, rozdíl se přičítá,
+v opačném případě se odečítá)
+
+Základ daně
+
+- odčitatelné položky
+
+Základ daně snížený o odčitatelné položky (zaokrouhlení na 1 000 Kč dolů)
+
+* sazba daně (2011 - 19%)
+
+Daň z příjmů splatná
+
+- slevy na dani ($35 ZDP, např. zaměstnanci se změněnou pracovní schopností (ZPS)
+Daň z příjmů po slevách
+
+ 
+
+Daň z příjmů splatná po slevách
++ Daň z příjmů odložená
+
+ 
+
+Disponibilní zisk
+
+e © výpočet a zaúčtování daně z příjmů, zálohy, termíny
+
+©
+
+©
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Výnosy Náklady Výsledek hospod.
+
+Provozní 32 640 000 Kč 28 520 000 Kč 4 120 000 Kč- zisk
+Finanční 1270 000 Kč 3500 000 Kč 2 230 000 Kč — ztráta
+Celkem běž. činn. 33 910 000 Kč 32 020 000 Kč 1 890 000 Kč - zisk
+
+účetní zisk 1 890 000 Kč
+
++ obrat účtu 513 25 000 Kč
+
++ obrat účtu 528 20 000 Kč
+
++ obrat účtu 543 (škole, nemocnici) 90 000 Kč
+
++ obrat účtu 545 5 000 Kč
+
++ obrat účtu 549 (účet 549 — náhrada úč. 648) 110 000 Kč
+
++ obrat účtu 551 (Ú=310 000, D=440 000) 310 000 Kč
+
+Základ daně 20100000 Kč
+
+— dary - 90 000 Kč
+
+Upravený základ daně 1 920 000 Kč
+
+daňová povinnost (sazba 2011 — 19%) 364 800 Kč 591 341 ID
+
+disponibilní zisk = 1890 000 Kč - 364 800 Kč = 1 525 200 Kč
+
+účtování daně z příjmů
+= účetní jednotka musí k poslednímu dni účetního období zjistit daň z příjmů
+= pokud je účtováno v mimořádných nákladech a výnosech, tak se výsledná daň rozkládá na dvě částky
+
+591 — Daň z příjmů z běžné činnosti — splatná
+593 — Daň z příjmů z mimořádné činnosti — splatná
+
+=. vůčetnictví se rozlišuje
+
+Daň z příjmů splatná — klasická daň
+Daň z příjmů odložená
+
+o © vzniká, jestliže vzniká rozdíl mezi například účetními a daňovými náklady
+
+3
+

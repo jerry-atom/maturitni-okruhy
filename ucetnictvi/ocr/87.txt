@@ -1,0 +1,131 @@
+úhrada soudního poplatku 10 000 Kč 538 211 VPD
+
+nákup dálničních známek 4 000 Kč 213 211 VPD
+výdej dál. známek do spotř. 4 000 Kč 538 213 ID
+nákup a výdej kolků 1 000 Kč 538 211 VPD
+
+skupina 54 — Jiné provozní náklady
+účet 541 — Zůstatková cena prodaného DNM a DHM
+
+o
+
+na tomto účtu se účtuje v případě prodeje dlouhodobého majetku, a to rozdíl mezi pořizovací cenou prodávaného
+majetku a vytvořenými oprávkami
+
+o | účtování
+
+doúčtování ZC — prodej auta 7 000 Kč 541 082 ID
+vyřazení auta z majetku 50 000 Kč 082 022 ID
+prodej auta 30 000 Kč 311 641 FAV
+DPH 20 % 6 000 Kč 311 343
+
+úhrada FAV 36 000 Kč 221. 311. VBŮ
+
+účet 542— Prodaný materiál
+
+o | účtuje se zde úbytek prodaného materiálu v pořizovací ceně
+o účtování
+
+FAV za prodaný materiál 10 000 Kč 311 642 FAV
+DPH 20 % 2 000 Kč 311 343
+
+výdej materiálu ze skladu 15 000 Kč 542 112 výdejka
+úhrada FAV 12 000 Kč 221. 311. VBŮ
+
+účet 543 — Dary
+
+o | účtuje se zde v případě bezůplatného předání majetku, který ÚJ nemusí provést
+o | poskytnutí daru ve formě peněžních prostředků, zůstatková cena darovaného DHM a DNM, dar ve formě zásob
+(zboží, materiál, výrobek,...)
+o | Vprvní fázi vždy daňově neuznatelný náklad
+o | vdruhé fázi však může být hodnota daru odečtena, jestliže byly splněny tři základní podmínky (tzv. test daru)
+= © u FO- dobročinné účely, minimálně 1 000 Kč nebo 2 % ze ZD a maximálně 10 % ze ZD
+= © u PO- dobročinné účely, minimálně 2 000 Kč a maximálně 5 % ze ZD sníženého o odčitatelné položky
+(ztráta z minulých let)
+o | účtování
+doúčtování ZC-dar stroje 5 000 Kč 543 082 ID
+DPH z daru 20 % 1 000 Kč 543 343 ID
+vyřazení stroje 15 000 Kč 082 022 ID
+poskytnut dar MŠ 3 000 Kč 543 211 VPD
+
+účet 544 — Smluvní pokuty a penále
+
+o | účtují se zde smluvní pokuty a úroky z prodlení podle obchodního zákoníku (s výjimkou úroků z prodlení podle
+
+smluv o úvěru)
+penále
+jiné sankce ze smluvních vztahů
+
+O O O 0
+
+účtování
+
+pokuta za prodlení úhrady FAP
+úhrada pokuty i FAP
+
+účet 545 — Ostatní pokuty a penále
+
+o | natomto účtu se zachycují částky závazků podle příslušných dokladů bez ohledu na to, jestli byly nebo nebyly
+
+zaplaceny
+
+daňově uznatelné jsou pouze v případě zaplacení
+
+10 000 Kč 544
+
+90 000 Kč 321
+
+321 ID
+
+221 VBŮ
+
+o | pokuty a penále státním institucím (FÚ, SP, ZP, živnostenském úřadu)
+
+o | daňově neuznatelný náklad
+
+o | účtování
+pokuta za prodlení úhrady ZP
+úhrada pokuty
+
+účet 546— Odpis pohledávky
+
+5 000 Kč 545
+
+5 000 Kč 336.1
+
+o | eviduje se zde hodnota odepsaných pohledávek
+
+o pokudk odpisu dojde za podmínek stanovených zákonem o dani z příjmů, bude tento náklad daňově uznatelný
+
+o účtování
+rozhodnutí soudu-nedobytná pohl.
+odpis pohledávky za zaměstnanci
+odpis pohl. z dlouhodobých půjček
+odpis nedobytné poskytnuté zálohy
+účet 548 — Ostatní provozní náklady
+
+o | účtují se zde ostatní položky neúčtované na předchozích účtech, které se týkají provozní činnosti
+
+25 000 Kč
+10 000 Kč
+15 000 Kč
+40 000 Kč
+
+5
+
+221
+
+336.1.. ID
+
+546 311
+546 335
+546 066
+546 315
+
+VBÚŮ
+
+ID
+ID
+ID
+ID
+

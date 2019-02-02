@@ -1,0 +1,232 @@
+přijetí na sklad
+výdej ze skladu
+pořízení ze zahraničí
+
+F AP ze zahraničí za mat.
+
+clo
+
+DPH 20 % výstup
+DPH 20 % vstup
+přijetí na sklad
+
+prodej materiálu
+
+FAV za materiál v prod.c.
+
+DPH 20%
+
+úbytek prodaného mat. v PC
+
+inventarizace
+
+20 000 Kč
+12 000 Kč
+
+10 000 Kč
+
+2 000 Kč 111
+2 400 Kč
+
+2 400 Kč
+12 000 Kč
+
+10 000 Kč
+2 000 Kč
+5 000 Kč
+
+349
+
+příjemka
+výdejka
+
+FAP
+
+DD
+příjemka
+
+FAV
+
+výdejka
+
+provádí se minimálně 1x ročně (rozmezí 4 měsíce před — 1 měsíc po)
+
+manko do normy
+manko nad normu
+přebytek
+
+materiál na cestě
+
+2012 - FAP za materiál
+
+DPH 20 %
+
+2012 - materiál nepřišel
+2013 — příjem materiálu
+
+nevyfakturované dodávky
+
+2012 — příjem materiálu
+2012 — nepřišla faktura
+2013 — FAP za materiál
+
+DPH 20 %
+opravné položky
+
+dočasné snížení materiálu
+a) dočasné snížení pominulo
+b) snížení se stalo trvalým
+
+b) trvalé snížení
+
+trvalé snížení materiálu
+
+škody
+požár materiálu
+
+náhrada od pojišťovny
+
+úhrada od pojišťovny
+
+analytická evidence materiálu
+dodávka 1 000 kg materiálu
+
+přepravné materiálu
+
+dodávka 2 000 kg materiálu
+
+přepravné materiálu
+
+výdej materiálu 1 200 kg
+
+podíl vedl. poř. N
+
+reklamace
+FAP za materiál
+DPH 20%
+příjemka materiálu
+reklamační nárok
+a) dobropis
+
+2000Kč | 501
+10 000 Kč
+4 000 Kč
+
+10 000 Kč
+2 000 Kč
+
+10 000 Kč
+10 000 Kč
+
+10 000 Kč
+10 000 Kč
+10 000 Kč
+2 000 Kč
+
+10 000 Kč
+10 000 Kč
+10 000 Kč
+10 000 Kč
+10 000 Kč
+
+10 000 Kč
+10 000 Kč
+10 000 Kč
+
+7 000 Kč
+
+250 Kč112.2
+
+20 000 Kč
+
+290 Kč112.2
+
+10 800 Kč
+216 Kč
+
+20 000 Kč
+24 000 Kč
+20 000 Kč
+5 000 Kč
+5 000 Kč
+
+4
+
+549
+112
+
+112 111
+501.. 112
+Il 321
+379. JSD
+343. DD
+343. 349
+112 111
+311.. 642
+311.343
+542.. 112
+112 ID
+112 ID
+648 ID
+111. 321
+343. 321
+119. 111
+112 119
+112 III
+11. 389
+389. 321
+343. 321
+559. 191
+191.. 559
+191.. 559
+549. 112
+549. 112
+582 112
+378. 688
+221. 378
+112.1 321
+321.. FAP
+112.1 321
+321. FAP
+501.1
+501.2
+
+I11 321
+343. 321
+112 III
+315 III
+321.. 315
+
+FAP
+FAP
+
+ID
+příjemka
+
+příjemka
+ID
+FAP
+
+ID
+ID
+ID
+ID
+ID
+
+ID
+ID
+VBÚ
+FAP
+
+FAP
+
+112.1 výdejka
+112.2 výdejka
+o výpočet = (úbytky zásob / (PZ + přírůstky zásob)) * suma vedl. poř. N
+
+FAP
+
+příjemka
+ID
+dobropis
+

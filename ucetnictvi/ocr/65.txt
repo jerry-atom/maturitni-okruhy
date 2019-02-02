@@ -1,0 +1,105 @@
+e | emitent si chce opatřit peněžní prostředky
+e | věřitel ukládá volné peněžní prostředky
+
+o © může dluhopis držet do doby splatnosti — 256
+
+o | může dluhopis před dobou splatnosti prodat — 253
+e důležitý je úmysl v momentě pořízení (vztahuje se i na časové hledisko)
+e | dluhopisy se ke dni účetní závěrky mohou přecenit na reálnou hodnotu
+
+(výsledkově podle povahy)
+
+o účet 566 — Náklady z finančního majetku
+o účet 666 — Výnosy z krátkodobého finančního m.
+
+e © účtování
+
+nákup dluhopisů 259
+provize převodem z účtu 259
+registrace dluhopisů 253
+prodej dluhopisů hotově 211
+úbytek dluhopisů 561
+přecenění CP —snížení hodn. 566
+přecenění CP —zvýšení hodn. 251
+
+e © dluhové cenné papíry držené do splatnosti
+o cenný papír, na kterém je stanoveno datum splatnosti a UJ chce dobu splatnosti dodržet
+o.  dvadruhy
+
+kupónový dluhopis
+
+221
+221
+
+259
+
+661
+253
+251
+666
+
+e | je zde pevně stanovena procentní úroková sazba
+e | např. nominální hodnota je 10 000 Kč + 10% úrok
+
+e | pro potřeby naší školy účtujeme jen o něm
+diskontní dluhopis
+
+VBŮ
+VBŮ
+
+ID
+
+PPD
+
+ID
+ID
+ID
+
+e | je prodáván za cenu nižší, než je nominální (nebo emisní kurz)
+
+e © úrok, který je vyplácen při splatnosti = rozdíl mezi nominální hodnotou a nižším
+
+prodejním kurzem
+e tzv. diskontovaný cenný papír
+
+e | např. nominální hodnota je 10 000 Kč, při výdeji prodán za 9 000 Kč
+
+o z pohledu emitenta
+
+cizí zdroj financování
+dluhopisy emitují velké firmy nebo stát
+účet 241 (RP) — Emitované krátkodobé dluhopisy
+
+do doby než emitent dluhopisy prodá, vzniká pohledávka — účet 375 — Pohledávky
+
+z emitovaných dluhopisů
+
+ 
+
+= pohledávka zaniká odkoupením dluhopisu
+
+= © pouplynutí doby splatnosti následuje zpětný odkup a současné vyplácení úroku
+
+= © pokud je doba splatnosti dluhopisu delší než 1 rok — účet 473 — Emitované dluhopisy
+
+= účtování
+emise dluhopisů 10 000 000 Kč 375. 241. ID
+poplatky spojené s emisí 10 000 Kč 568 211. VPD
+prodej dluhopisů 10 000 000 Kč 221. 375. VBU
+výplata úroku 15% 1250 000 Kč 562 221. VBU
+zpětný odkup 10 000 000 Kč 241.. 221. VBU
+
+o z pohledu věřitele
+
+= nakupuje dluhopisy — účet 256
+
+= úrok— výnos na účtu 666
+
+= nákup- kalkulační účet 259
+
+= účtování
+nákup dluhopisů 10 000 000 Kč 256.1 221. VBU
+naběhlý úrok 1 250 000 Kč 256.2 666 | ID
+
+7
+

@@ -1,0 +1,80 @@
+o © ze závislé činnosti
+= hrubé mzdy ze závislé činnosti společníků vyplývající z pracovně právních vztahů
+= | odměny podle dohod o pracovní činnosti nebo o provedení práce společníků
+= účet 366— Závazky ke společníkům a členům družstva ze závislé činnosti
+
+účtování © hrubé mzdy společníků © 10.000 Kč 522 366 ID
+daň z příjmů FO 1 200 Kč 366 342 ID
+SP za společníky 650 Kč 366 336.2 ID
+ZP za společníky 450 Kč 366 336.1.. ID
+
+ostatní závazky
+
+o | účtuje se zde o závazcích, o kterých jsme nemohli účtovat v předchozích skupinách
+
+o | účet 379— Jiné závazky
+
+o — jedná se například o závazky vůči celnímu úřadu
+s close připočítává při nákupu od zahraničního dodavatele, který není zemí EU
+=. cena pořízení a clo je základ pro výpočet DPH
+
+o © předpis leasingových splátek
+
+o © nákup cenných papírů na fakturu
+
+účtování © FAP za zboží do nečlenské země 50 000 Kč 131 321 FAP
+clo 10% 5 000 Kč 131 379 JSD
+DPH 20 % - výstup 11 000 Kč 349 343 DD
+DPH 20 % - vstup 11 000 Kč 343 349 DD
+nákup krátkodobých akcií 10 000 Kč 259 379 FAP
+předpis zvýšené splátky leasingu 150 000 Kč 381 379 FAP
+DPH 20 % 30 000 Kč 343 379
+předpis měsíční splátky leasingu © 10000 Kč 381 379 FAP
+DPH 20 % 2 000 Kč 343 379
+
+o
+bankovní úvěry
+o | představují závazek vůči instituci, která nám poskytla úvěr (bance)
+
+o | krátkodobé— účet 231 — Krátkodobé bankovní úvěry
+o | dlouhodobé— účet 461 — Bankovní úvěry
+o © proúčtování je dokladem výpis z úvěrového účtu
+o © pro vykázání krátkodobých nebo dlouhodobých závazků v rozvaze je rozhodující, jaká je zbývající doba jeho
+splatnosti ke dni sestavení účetní závěrky (ne celková doba splatnosti)
+účtování — poskytnut dlouhod. bankovní úvěr 95 000 Kč 261.. 461. VÚŮÚ
+poskytnut dlouhod. bankovní úvěr 95 000 Kč 221 261 VBŮ
+splátka úvěru 10 000 Kč 461.. 261. VŮÚ
+splátka úvěru 10 000 Kč 261.. 221. VBŮ
+
+3. Evidence závazků
+závazky se evidují v tzv. knize závazků, konkrétně v knize přijatých faktur
+kniha FAP obsahuje
+
+o číslo dokladu
+dodavatel
+předmět faktury
+částka
+datum přijetí
+datum splatnosti
+datum úhrady
+
+O O O O O0 O0
+
+4. Inventarizace závazků
+inventarizace této účtové třídy je důležitá, protože případné chyby se objeví přímo ve výsledkových účtech
+zjišťuje se
+o — jestli stav závazků v účetnictví odpovídá skutečnému stavu
+= provádí se dokladovou inventurou
+= © musí být sestaven inventurní soupis ke každému analytickému účtu závazků
+= | inventurní soupis obsahuje
+e | soupis závazků podle jednotlivých faktur
+e splatnost
+e | u závazků v cizí měně částku v cizí měně i v Kč
+o — jestli reálná hodnota závazků není vyšší nebo nižší, než je jejich účetní hodnota
+= | jestli jsou všechny závazky zahrnuty v účetnictví
+= © pokud se při inventarizaci zjistí, že hodnota závazků je vyšší nebo nižší než je jejich výše v účetnictví,
+uvedou se závazky v účetnictví a v účetní závěrce v tomto zjištěném ocenění
+= © pokuddojde k právnímu zániku závazku, odepíše se hodnota závazku do výnosů
+
+4
+

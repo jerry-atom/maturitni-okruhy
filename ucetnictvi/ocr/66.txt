@@ -1,0 +1,84 @@
+odkup dluhopisů 11 250 000 Kč 221. 256. VBÚ
+
+e vlastní akcie a dluhopisy
+o emitentem je přímo účetní jednotka
+o skupina 25
+
+účet 252 — Vlastní akcie a vlastní obchodní podíly
+účet 255 — Vlastní dluhopisy
+
+o viz otázka Obchodní společnosti
+
+e realizovatelné cenné papíry
+o cenné papíry, které
+
+nejsou registrované
+dlužné CP, u kterých burza zrušila obchodovatelnost
+podíly do 20% základního kapitálu jiné společnosti
+
+o dol roku- účet 257 — Ostatní cenné papíry
+o nad I rok— účet 063 — Ostatní cenné papíry a podíly
+
+e směnky
+
+o upraveny směnečným a šekovým zákonem z roku 1953
+
+o. cenné papíry, které musí obsahovat předepsané náležitosti
+
+o vyjadřují vztah mezi věřitelem a dlužníkem (tj. povinnost dlužníka vyplatit věřiteli ve
+stanovené době částku uvedenou na směnce)
+
+o musí mít písemnou podobu
+
+o směnka může být v účetnictví
+
+platebním prostředkem
+
+e | uhrazují závazky nebo pohledávky
+
+věřitel — 256 — do 1 roku, 065 — nad 1 rok
+
+dlužník — 322 — do 1 roku, 478 — nad 1 rok
+
+e | oceňují se pořizovací cenou (cena faktury od dodavatele)
+cenným papírem
+
+e © nakupovány za účelem obchodování
+
+e | oceňují se pořizovací cenou
+
+zajišťovacím prostředkem - podrozvahové účty
+
+e © kzajištění pohledávek z obchodního styku (nejčastější)
+e | oceňují se nominální hodnotou
+
+e | evidují se pouze v podrozvahové evidenci
+
+O oceňování směnek
+
+směnky k úhradě
+
+e © při vzniku v pořizovací ceně = hodnota pohledávky
+
+e © hodnota směnky se zvyšuje na zvláštním analytickém účtu o alikvotní (podílový)
+úrokový výnos
+
+e | počítá se rozdíl mezi směnečnou sumou (nominální hodnotou) (PC + úrok) a
+pořizovací cenou
+
+nakoupené směnky
+
+e | pořizovací cenou
+
+o směnky jako platební prostředek — výhody z pohledu věřitele (majitele)
+
+obchodovatelnost
+
+snadná vymahatelnost
+
+možnost vymáhat částku na hlavních i vedlejších dlužnících
+
+možnost eskontu směnky (možnost získat od banky úvěr, za který se ručí směnkou)
+
+8
+

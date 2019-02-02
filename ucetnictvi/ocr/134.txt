@@ -1,0 +1,69 @@
+4. Rozsah účetní závěrky
+
+v plném rozsahu
+
+© © musí ji sestavovat všechny akciové společnosti a účetní jednotky s povinností auditu
+ve zjednodušeném rozsahu
+
+o | sestavují ji všechny ostatní účetní jednotky, které nemají povinnost auditu
+
+S. Audit
+
+povinnost vyplývá ze zákona o účetnictví
+nezávislá kontrola účetnictví
+podle zákona mají povinnost auditu
+o | akciové společnosti, které za dvě po sobě jdoucí období dosáhly nebo překročily alespoň jedno ze tří kritérií
+o | obchodní společnosti, družstva a fyzické osoby, které za dvě po sobě jdoucí období dosáhly nebo překročily
+minimálně dvě ze tří kritérií
+kritéria
+o — hrubá aktiva celkem (nesnížená o případné oprávky nebo opravné položky) překročila 40 000 000 Kč
+o. roční čistý obrat byl vyšší než 80 000 000 Kč
+o | průměrný přepočtený stav zaměstnanců byl vyšší než 50
+s | 2x poloviční úvazek zaměstnance se počítá za 1 zaměstnance
+tyto firmy pak mají povinnost sestavit účetní závěrku v plném rozsahu
+audit provádí auditor
+auditor
+o | nezávislá osoba
+nesmí mít žádný vztah k firmě (např. nesmí být ve firmě zaměstnán)
+musí mít vysokoškolské vzdělání
+musí být způsobilý k právním úkonům, bezůhonný
+musí absolvovat tři roky praxe a složit auditorské zkoušky
+s | auditorská zkouška
+e © má písemnou formu
+e | je rozdělena na dílčí části
+e | hodnotí ji tříčlenná auditorská komise
+o | musíbýt zapsán v Komoře auditorů pod nezaměnitelným registračním číslem (uvádí se ve zprávě o auditu)
+má kulaté razítko s registračním číslem
+o | provádí kontrolu účetnictví a o provedeném auditu vyhotoví zprávu
+= | zpráva
+e | uvádí se zde výrok auditora (4 druhy)
+bez výhrad — UCE je v pořádku a odpovídá zákonu
+s výhradou — bylo shledáno pochybení, ale bez vážného rozsahu
+záporný výrok — UCE neodpovídá zákonným předpisům
+odmítnutí výroku — ÚJ neposkytla auditorovi potřebné informace k provedení auditu
+
+O O O0 0
+
+o
+
+O O O 0
+
+6. Rozvaha
+
+představuje přehled jednotlivých aktiv a pasiv
+na straně aktiv se hodnotové údaje zapisují do čtyř sloupců
+o | sloupec 1 (brutto)
+= © hrubý stav aktiv v původních pořizovacích cenách (nesnížené o oprávky)
+o | sloupec 2 (korekce)
+= © hodnota oprávek (sk. 07, 08) a opravných položek (u DM, zásob, pohledávek)
+= uvádí se se znaménkem mínus
+o | sloupec 3 (netto)
+= © čistý stav (hrubá aktiva snížená o oprávky a opravné položky)
+= | vyjadřuje reálnou hodnotu aktiv
+o sloupec 4
+= | obsahuje netto stavy z rozvahy z předcházejícího účetního období
+rozvaha
+o — stavová veličina
+o | znázorňuje majetek k určitému datu
+sestavuje se v plném nebo zjednodušeném rozsahu
+

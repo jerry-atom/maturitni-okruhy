@@ -1,0 +1,77 @@
+odměňování společníků
+
+o © společníci, kteří ve firmě pracují, nemají postavení zaměstnanců, ale zákony na ně pohlíží jako na OSVČ
+
+o © společníci tedy nemají příjem ze závislé činnosti, ale mají nárok na podíl na zisku
+
+o © v průběhu účetního období mohou na tento podíl čerpat zálohu, která představuje pohledávku za společníkem na
+účtu 355 — Ostatní pohledávky za společníky a členy družstva
+
+o — je-li na zálohách vyplaceno více než činí přiznané podíly na zisku, musí společníci zálohami přečerpaný zisk vrátit
+o | účet 596 — Převod podílu na výsledku hospodaření společníkům
+o | účtování
+o © Dva společníci si měsíčně vyplácejí zálohu na zisk ve výši 10 000 Kč na jednotlivce. Na konci roku společnost
+skončila se ziskem 200 000 Kč.
+výběr záloh za rok - první společník 120 000 Kč 355 211 VPD
+výběr záloh za rok — druhý společník 120 000 Kč 355 221 VBŮ
+zisk společnosti 200 000 Kč 596 364 ID
+zúčtování záloh 200 000 Kč 364 355 ID
+
+vrácení přečerpaných záloh 1. společník 20 000 Kč 211 355 PPD
+vrácení přečerpaných záloh 2. společník 20 000 Kč 221 355 VBŮÚ
+(v případě doplatku podílů na zisku x Kč 364 221 VBÚ)
+o © společníci jsou povinni ze svých podílů na zisku uhradit SP a ZP
+o © toto pojištění mohou uhradit sami nebo je za ně uhradí společnost
+s | účtování
+předpis pojištění 10 000 Kč 524 336 ID
+úhrada pojištění 10 000 Kč 336 | 221 VBŮ
+
+výsledek hospodaření a jeho rozdělení
+o | celý výsledek hospodaření se rozděluje mezi společníky, a proto účet 710 nemůže mít na konci roku žádný zůstatek
+o | společnost vykazuje zisk
+
+s © účet 364 — Závazky ke společníkům při rozdělování zisku
+
+= | účtování
+
+převod nákladů 710 5. třída ID
+převod výnosů 6. třída 710 ID
+přiznání podílů 596 364 ID
+převod účtu 596 710 596 ID
+
+o © společnost vykazuje ztrátu
+s © účet 354 — Pohledávky za společníky při úhradě ztráty
+
+= | účtování
+
+= převod nákladů 710 5. třída ID
+u © převod výnosů 6. třída 710 ID
+= © podíl na ztrátě 354 596 ID
+=- převod účtu 596 596 710 ID
+
+5. Rozbor komanditní společnosti
+
+mezistupeň mezi osobními a kapitálovými společnostmi
+dva druhy společníků
+o — komplemeníáři
+s podobné postavení jako společníci v. o. s.
+s © ručí veškerým svým majetkem neomezeně
+= výše vkladu není stanovena
+o © komanditisté
+= © podobné postavení jako společníci v s. r. o.
+u © ručí za závazky společnosti do výše svého nesplaceného vkladu
+= © povinný minimální vklad je 5 000 Kč
+musí ji založit minimálně jeden komplementář a jeden komanditista
+společnost musí povinně tvořit základní kapitál
+zisk se rozděluje podle společenské smlouvy (na poloviny nebo jinak) na dvě části
+o © zisk připadající na komplementáře (většinou rovným dílem)
+o © zisk připadající na komanditisty (většinou podle výše vkladů)
+zisk si zdaňuje každý společník sám daní z příjmů FO
+na úhradě ztráty se podílí komplementáři rovným dílem, pokud ve smlouvě není stanoveno jinak
+komanditisté se nepodílí na úhradě ztráty, pokud ve smlouvě není stanoveno jinak
+statutárním orgánem jsou komplementáři
+účast na řízení společnosti mají pouze komplementáři
+komanditista spolurozhoduje s komplementářem stejně o důležitých věcech
+
+7
+

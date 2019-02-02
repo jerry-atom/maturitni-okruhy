@@ -1,0 +1,113 @@
+1000Kč | 321
+5 000 Kč
+
+a) DPH 20 %
+b) neuznaná reklamace
+
+343
+549.315 ID
+
+11 Způsob B
+
+v průběhu roku se nakupované zásoby účtují přímo do nákladů
+
+účet 112 se používá pouze na začátku a na konci roku
+
+účet 111 se nepoužívá
+
+způsob je založený na přesné skladové evidenci
+
+tento způsob využije např. kadeřnictví, které nemůže spočítat N na 1 „výrobek“
+neúčtuje se příjem a výdej zásob ze skladu
+
+všechny složky pořizovací ceny se účtují do nákladů na účet 501
+
+na konci roku se účtuje
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o. převod PZ do spotřeby 20000Kč 501 112 ID
+o zápis KZ 15000Kč 112 501. ID
+
+pořízení z tuzemska
+
+FAP za materiál 10000Kč | 501 FAP
+
+DPH 20 % 2000Kč | 343 (501-nepl.)
+
+celkem 12 000 Kč 321
+
+doprava vlastním autem 2000Kč 501 622 ID
+
+pojištění zásilky 4000Kč 501. 379 ID
+
+provize za zprostředkování 4000Kč 501 211. VPD
+
+přijetí na sklad 20000Kč | neúčtujese © příjemka
+
+výdej ze skladu 12000Kč | neúčtujese © výdejka
+pořízení ze zahraničí
+
+FAP ze zahraničí za mat. 10000Kč 501 321. FAP
+
+clo 2000Kč 501 379. ISD
+
+DPH 20 % výstup 2400Kč 349.. 343. DD
+
+DPH 20 % vstup 2400 Kč 343. 349.. DD
+
+přijetí na sklad 12000Kč | neúčtujese © příjemka
+prodej materiálu
+
+FAV za materiál v prod.c. 10000Kč | 311. 642 FAV
+
+DPH 20 % 2000Kč | 311.343
+
+úbytek prodaného mat. vPC 5000Kč | neúčtujese © výdejka
+inventarizace
+
+provádí se minimálně 1x ročně (rozmezí 4 měsíce před — 1 měsíc po)
+
+manko do normy 2000Kč 501 112 ID
+
+manko nad normu 10000Kč 549 112 ID
+
+přebytek 4000Kč 112 648 ID
+materiál na cestě
+
+2012 - FAP za materiál 10000Kč 501. 321. FAP
+
+DPH 20 % 2000Kč 343. 321.. FAP
+
+2012 - materiál nepřišel 10000Kč 119.501. ID
+
+2013 — příjem materiálu 10000 Kč | neúčtujese © příjemka
+nevyfakturované dodávky
+
+2012 — příjem materiálu 10000 Kč | neúčtujese © příjemka
+
+2012 — nepřišla faktura 10000Kč 501 389 ID
+
+2013 — FAP za materiál 10000Kč 389 321. FAP
+
+DPH 20 % 2000Kč 343. 321
+opravné položky
+
+dočasné snížení materiálu 10000Kč 559 191. ID
+
+a) dočasné snížení pominulo 10 000 Kč 191.559 ID
+
+5
+

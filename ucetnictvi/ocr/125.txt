@@ -1,0 +1,79 @@
+22. ÚČETNÍ UZÁVĚRKA A VÝSLEDEK HOSPODAŘENÍ
+
+Pojmy účetní uzávěrka a závěrka
+
+Etapy uzávěrky
+
+Přípravné práce
+
+Vlastní uzávěrka
+
+Otevření účtů na začátku účetního období
+
+Rozdělení zisku nebo úhrada ztráty
+
+Účetní uzávěrka při individuálním podnikání a při daňové evidenci
+Zvláštnosti při uzávěrce v jednotlivých obchodních společnostech
+
+OJ AVPR UVT
+
+1. Pojmy účetní uzávěrka a závěrka
+
+« | účetní uzávěrka
+o | představuje především uzavření účtů převodem jejich zůstatků na dvojici tzv. uzávěrkových účtů
+s | 702— Konečný účet rozvažný
+= 710— Účet zisků a ztrát
+o | uzavírání účetních knih, zjištění hospodářského výsledku, výpočet a zaúčtování daně z příjmů
+*e | účetní závěrka
+Oo | navazuje na uzávěrku
+o | představuje sestavení účetních výkazů
+
+= rozvaha
+= | výkaz zisku a ztráty
+= | příloha
+
+= přehled o peněžních tocích
+= © přehled o změnách vlastního kapitálu
+
+2. Etapy uzávěrky
+
+e | přípravné práce
+e © vlastní uzávěrka
+
+3. Přípravné práce
+
+e | inventarizace
+o © jestliže má být účetnictví vedeno takovým způsobem, aby bylo ve shodě se skutečností, aby ji pravdivě
+zobrazovalo, musí být se skutečností ověřováno inventarizací
+o © cíle inventarizace
+= © kontrola věcné správnosti účetnictví
+= kontrola reálnosti ocenění majetku a závazků — účetní jednoty musí brát v úvahu všechna předvídatelná rizika a
+možné ztráty, které se týkají majetku a závazků a musí je zaúčtovat)
+o © jako podklad o provedené inventarizaci je třeba mít inventarizační soupisy, které musí být podepsány odpovědnou
+osobou za provedení inventarizace
+o © inventarizace se musí provádět podle Zákona o účetnictví u všech účtů (u dlouhodobého majetku, zásob,
+finančních účtů a zúčtovacích vztahů)
+o © inventarizační rozdíly
+
+= chybějící DHM 549 082 ID
+s nověnalezený odpisovaný DHM 022 082 ID
+= přirozený úbytek zboží 504 132 ID
+= © manko na materiálu 549 112 ID
+= přebytek na zboží 132 648 ID
+= schodek 569 211 ID
+= přebytek na pokladně 211 668 ID
+
+o © viz otázka Inventarizace a oceňování majetku
+
+e | uzávěrkové práce
+
+o | kzískání věrného zobrazení hospodářské a finanční situace účetní jednotky je potřeba
+= promítnout do hospodářského výsledku dlouhodobě i krátkodobě existující rizika a možné ztráty
+u. přiřadit náklady, výdaje, výnosy a příjmy k tomu období, s nímž věcně a časově souvisí
+= zaúčtovat účetní případy, které sice již nastaly, ale ještě k nim nejsou doklady
+
+o | závěrečné operace u zásob
+= společné pro způsob A i B
+= proúčtování zásob na cestě, nevyfakturovaných dodávek a inventarizačních rozdílů zásob
+= © u způsobu B se ještě musí zaúčtovat převod PZ a zápis KZ na základě inventury
+

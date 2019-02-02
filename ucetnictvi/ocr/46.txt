@@ -1,0 +1,68 @@
+všechny složky pořizovací ceny se účtují do nákladů na účet 504
+na konci roku se účtuje
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= | převod PZ do spotřeby 20 000 Kč 504 132.. ID
+= | zápis KZ 15 000 Kč 132.. 504. ID
+pořízení z tuzemska
+FAP za zboží 10 000 Kč 504 FAP
+DPH 20 % 2 000 Kč 343 (504-nepl.)
+celkem 12 000 Kč 321
+doprava vlastním autem 2 000 Kč 504.. 622 ID
+pojištění zásilky 4 000 Kč 504.. 379. ID
+provize za zprostředkování 4 000 Kč 504 | 211 VPD
+přijetí na sklad 20 000 Kč neúčtuje se příjemka
+výdej ze skladu 12 000 Kč neúčtuje se výdejka
+pořízení ze zahraničí
+FAP ze zahraničí za zboží 10 000 Kč 504.. 321.. FAP
+clo 2 000 Kč 504.. 379. JSD
+DPH 20 % výstup 2 400 Kč 349.. 343. DD
+DPH 20 % vstup 2 400 Kč 343.349. DD
+přijetí na sklad 12 000 Kč neúčtuje se příjemka
+prodej zásob
+FAV za zboží v prod.c. 10 000 Kč 311 604.. FAV
+DPH 20 % 2 000 Kč 311 343
+úbytek prodaného zbo. v PC 5 000 Kč neúčtuje se výdejka
+inventarizace
+provádí se minimálně 1x ročně (rozmezí 4 měsíce před — 1 měsíc po)
+manko do normy 2 000 Kč 504 132 ID
+manko nad normu 10 000 Kč 549 132.. ID
+přebytek 4 000 Kč 132 648. ID
+zboží na cestě
+2012 - FAP za zboží 10 000 Kč 504.. 321. FAP
+DPH 20 % 2 000 Kč 343.321. FAP
+2012 - zboží nepřišelo 10 000 Kč 139... 504. ID
+2013 — příjem zboží 10 000 Kč neúčtuje se příjemka
+nevyfakturované dodávky
+2012 — příjem zboží 10 000 Kč neúčtuje se příjemka
+2012 — nepřišla faktura 10 000 Kč 504.. 389. ID
+2013 — FAP za zboží 10 000 Kč 389.321. FAP
+DPH 20 % 2 000 Kč 343. 321
+opravné položky
+dočasné snížení zboží 10 000 Kč 559 196.. ID
+a) dočasné snížení pominulo © 10000 Kč 196 559. ID
+b) snížení se stalo trvalým 10 000 Kč 196.. 559. ID
+b) trvalé snížení 10 000 Kč 549.. 132 ID
+trvalé snížení zboží 10 000 Kč 549 132 ID
+škody
+požár zboží 10 000 Kč 582 132 ID
+náhrada od pojišťovny 10 000 Kč 378.. 688.. ID.
+úhrada od pojišťovny 10 000 Kč 221 378 © VBU
+reklamace
+FAP za zboží 20 000 Kč 504.. 321.. FAP
+DPH 20% 24 000 Kč 343. 321
+příjemka zboží 20 000 Kč neúčtuje se příjemka
+reklamační nárok 5 000 Kč 315. 504. ID
+a) dobropis 5 000 Kč 321.. 315. dobropis
+a) DPH 20 % 1 000 Kč 321 343
+b) neuznaná reklamace 5 000 Kč 549.. 315. ID
+

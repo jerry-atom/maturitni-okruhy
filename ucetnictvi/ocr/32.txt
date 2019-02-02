@@ -1,0 +1,157 @@
+o | skupina C — Časové rozlišení
+rozvaha
+
+o — stavová veličina
+
+o | znázorňuje majetek k určitému datu
+
+sestavuje se v plném nebo zjednodušeném rozsahu
+
+základní struktura rozvahy (ve zjednodušeném rozsahu)
+
+PASIVA
+
+Vlastní kapitál
+
+A. | Základní kapitál
+
+Kapitálové fondy
+
+A.III. Rezervní fondy, nedělitelný fond a
+ostatní fondy ze zisku
+
+A. IV. Výsledek hospodaření minulých let
+A.V. © Výsledek hospodaření běžného
+
+účetního období
+
+Cizí zdroje
+
+B. I. Rezervy
+
+Dlouhodobé závazky
+
+B. III. Krátkodobé závazky
+
+B. IV. Bankovní úvěry a výpomoci
+C. Časové rozlišení
+
+PASIVA
+
+A. součet A. I.— A. V.
+
+A.I | 411,491,419
+
+413
+
+A.III. 421.423, 427
+
+A.IV. 428, 429
+
+A.V. 702, 710— disponibilní zisk/ztráta
+B. součet B. I.— B. IV.
+
+sk. 45
+
+sk. 47
+
+B. III. tř. 3— pasivní účty, sk. 24
+B.IV. 461,231
+
+C. 383, 384
+
+4. Účtování vlastních zdrojů
+
+AKTIVA
+
+A. Pohledávka za upsaný ZK A.
+B. Dlouhodobý majetek
+
+B. I. | Dlouhodobý nehmotný majetek © A.II.
+B.II. | Dlouhodobý hmotný majetek
+
+B. III. Dlouhodobý finanční majetek
+
+C. Oběžná aktiva
+
+C.I. | Zásoby
+
+C. II. | Dlouhodobé pohledávky
+
+C.IT. Krátkodobé pohledávky B.
+
+C. IV. Krátkodobý finanční majetek
+
+D. Časové rozlišení B. II.
+doplňované účty
+
+AKTIVA
+
+A. 353
+
+B. součet B. [.— B. III.
+
+B. I.  sk.01,041,051,sk.07 A. TL
+B.II. sk.02, 031, 032, 042, 052, sk,08, 09
+
+B. III. sk. 06, 043, 053, 096
+
+C. součet C. I.— C. IV.
+
+C.I. — třídal
+
+C.II.  sk.31,35,37-P, 388, 335, 481 B. I.
+C.. sk.31,35,37-P, 388, 335 B. II.
+C.IV. sk.21,22,25, 26,29
+
+D. 381, 382, 385
+
+základní kapitál
+
+o © základní kapitál (účet 411/491) je souhrn peněžitých a nepeněžitých vkladů, které byly vloženy do společnosti při
+
+jejím založení
+
+O O O O0 0
+
+na účet 491 se zachycují
+
+o změnách ZK, který byl zapsán v OR, se účtuje na účtu 411/491
+
+změny ZK v obchodních společnostech, které ještě nebyly zapsány v OR, se účtuje na účtu 419 — Změny ZK (RP)
+změna výše ZK musí být uvedena ve stanovách společnosti a v obchodním rejstříku
+
+u podnikajících FO se místo účtu 411 — Základní kapitál se používá účet 491 — Účet individuálního podnikatele
+
+= osobní vklady (vklady bývají nejčastěji na počátku podnikatelské činnosti, ale mohou být i v průběhu)
+
+= výběry pro osobní spotřebu
+= | hospodářský výsledek
+
+©
+
+může mít i aktivní zůstatek
+o © minimální ZK
+= uakciové společnosti
+
+e © 2 miliony při neveřejné nabídce akcií
+e © 20 milionů při veřejné nabídce akcií
+
+u © u společnosti s ručením omezeným
+e 200000 Kč
+= © ukomanditní společnosti
+e 5000Kč
+= © u veřejné obchodní společnosti
+e © není povinný základní kapitál
+o | účtování (zahajovací rozvaha)
+vklad auta
+vklad hotovosti
+
+150 000 Kč
+50 000 Kč
+
+účet 491 vykazuje zpravidla pasivní zůstatek, ale za určitých podmínek (např. při ztrátě nebo velkém zadlužení)
+
+022 701 ID
+211 701
+

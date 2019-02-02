@@ -1,0 +1,138 @@
+o
+Oo
+
+evidence nákladů na zdravotní a sociální pojištění, které je zaměstnavatel povinen platit za své zaměstnance
+účtování
+
+hrubé mzdy zaměstnanců 90 000 Kč 521 331 ID
+ZP za podnik (9 %) 8 100 Kč 524 336.1.. ID
+SP za podnik (25 %) 22 500 Kč 524 336.1. ID
+
+* | účet 525— Ostatní sociální pojištění
+
+©
+
+Oo
+
+©
+
+©
+
+účtuje se zde o příspěvcích na soukromé životní pojištění a penzijní připojištění, které hradí za zaměstnance
+podnik
+
+pokud je tento příspěvek zakotven v kolektivní nebo jiné obdobné smlouvě, je daňově uznatelným nákladem
+
+v plné výši
+
+na straně zaměstnance je tento příspěvek osvobozen od daně, pokud jeho celková částka nepřesáhne v souhrnu
+24 000 Kč
+
+účtování
+příspěvek na důchodov. přip. 15 000 Kč 525 336.2 ID
+
+* | účet 526— Sociální náklady individuálního podnikatele
+
+O
+
+o
+o
+o
+
+evidují se zde náklady na zdravotní a sociální pojištění podnikatele
+tento účet využívají jednotliví podnikatelé — OSVC
+daňově neuznatelný náklad
+
+účtování :
+zdravotní pojištění OSVC 1 000 Kč 526 336.1. ID
+sociální pojištění OSVC 2 000 Kč 526 336.2 ID
+
+e | účet 527— Zákonné sociální náklady
+
+©
+
+©)
+Oo
+
+účtuje se zde o nákladech, které lze z hlediska zákona o dani z příjmů promítnout do základu daně za účelem
+vytvoření pracovních a sociálních podmínek a péče o zdraví zaměstnanců
+jedná se například o příspěvek na závodní stravování nebo stravenky
+
+účtování
+
+nákup stravenek 12 500 Kč 213 321 ID
+výdej stravenek 12 500 Kč - 213 ID
+daňově účinný N (55 %) 6 875 Kč 527 -
+
+daňově neúčinný N (20 %) 2500 Kč 528 -
+doplatek zaměstnance (25 %) 3125 Kč 335 -
+
++ | účet 528— Ostatní sociální náklady
+
+©
+
+o
+©,
+o
+
+o
+O
+
+o
+
+účtuje se zde o nákladech vyplácených nad rámec stanovený zákony
+příspěvek na závodní stravování nad stanovený limit 55 %
+daňově neuznatelný náklad
+
+účtování
+
+nákup stravenek 12 500 Kč 213 321 FAP
+výdej stravenek 12 500 Kč - 213 ID
+daňově účinný N (55 %) 6 875 Kč 527 -
+
+daňově neúčinný N (20 %) 2500 Kč 528 :
+
+doplatek zaměstnance (25 %) 3125 Kč 335 -
+
+skupina 53 — Daně a poplatky
+účet 531 — Silniční daň
+
+silniční daň je daňově uznatelným nákladem do výše předpisu (bez ohledu na její zaplacení)
+daňově uznatelným nákladem je také silniční daň zaplacená za zaměstnance v případě, kdy mu zaměstnavatel
+vyplácí cestovní náhrady za použití vlastního automobilu na služebních cestách
+
+účtování
+
+předpis silniční daně 4 300 Kč 531 345 ID
+platba záloh na daň 1 000 Kč 345 221 ID
+úhrada doplatku daně 300 Kč 345 221 VBU
+
+účet 532 — Daň z nemovitostí
+
+o | je daňově uznatelným nákladem pouze v případě jejího zaplacení
+o | účtování
+
+o
+
+o
+©)
+©
+O
+
+předpis silniční daně 1 500 Kč 531 345 ID
+úhrada silniční daně 1 500 Kč 345 221 VBU
+
+účet 538 — Ostatní daně a poplatky
+
+spotřeba kolků, úhrada soudních a správních poplatků, poplatky za použití dálnic (dálniční známky)
+zaplacená daň z převodu nemovitostí (uznatelný N jen v případě zaplacení daně), daň dědická a darovací
+dodatečně vyměřené daně (např. DPH — daňově uznatelný N)
+
+daň dědická a darovací je daňově neuznatelný náklad
+
+účtování
+předpis darovací daně 1 000 Kč 538 345 ID
+úhrada darovací daně 1 000 Kč 345 221 VBU
+
+4
+

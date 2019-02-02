@@ -1,0 +1,81 @@
+o | zvýšení
+
+o | snížení
+s
+
+v případě, že s. r. o. chce posílit vlastní kapitál a přitom nechce zvyšovat základní kapitál, umožňuje
+obchodní zákoník tzv. příplatek mimo ZK
+tento způsob je administrativně jednodušší, protože nevyžaduje zápis do OR
+vklady do společnosti, které nezvyšují ZK, se účtují na účet 413 — Ostatní kapitálové fondy
+jde-li o peněžitý vklad, používá se účet 355 — Ostatní pohledávky za společníky
+příplatek může být
+e povinný
+o možnost stanovit společníkům povinný příplatek musí být uvedena ve společenské smlouvě
+o má peněžitou podobu
+e dobrovolný
+o společník může poskytnout příplatek se souhlasem valné hromady
+účtování
+předpis příplatku 200 000 Kč 355 413 ID
+(společník se rozhodl pro hotovost)
+vloženy peníze do společ. 200 000 Kč 211 355 PPD
+
+schvaluje ho valná hromada
+důvody pro snížení ZK
+e © dlouhodobá ztrátovost společnosti
+o účtování
+úhrada ztráty snížením ZK 419 429 ID
+zápis o snížení ZK do OR 411 419 ID
+e © změna rozsahu podnikatelské činnosti
+o účtování
+
+snížení ZK z důvodu změny rozs. 419 365 ID
+úhrada části podílu odpovídající sn. 365 221 VBU
+zápis o snížení ZK do OR 411 419 ID
+
+e ukončení členství společníka ve společnosti
+o účtování závisí na tom, jestli obchodní podíly těchto společníků koupí stávající společníci (V
+tom případě se ZK nesníží) nebo nekoupí
+o v případě, že podíl společníka nikdo neodkoupí, musí společnost společníkovi vyplatit tzv.
+vypořádací podíl
+celková výše ZK a výše vkladu společníka však nesmí klesnout pod minimum stanovené obchodním
+zákoníkem
+
+e — ostatní závazky a pohledávky za společníky
+o © v praxi je běžné, že když se ocitne společnost v dočasné platební tísni, vypomohou jí společníci a naopak
+o © získání půjčky od společníků
+
+společnost má závazek vůči společníkům
+
+krátkodobá půjčka — účet 365 — Ostatní závazky ke společníkům a členům družstva
+
+k účtu 365 se vede analytická evidence podle jednotlivých společníků
+
+dlouhodobá půjčka — účet 479 — Jiné dlouhodobé závazky
+
+společnost může, ale nemusí vyplácet společníkovi úroky
+
+stanovení úroků je lepší, protože společník je motivován, vydělá na tom a pro společnost je to stejně daňově
+účinný náklad
+
+poskytnutí půjčky 100 000 Kč 221. 365. VBŮ
+úrok 10 000 Kč 562 | 365 | ID
+splacení půjčky 110 000 Kč 365. 221. VBŮ
+
+o — poskytnutí půjčky společníkům
+
+společnost má pohledávku za společníkem
+účet 355 — Ostatní pohledávky za společníky a členy družstva
+k účtu 355 se vede analytická evidence podle jednotlivých společníků
+
+účtování
+poskytnutí půjčky 100 000 Kč 355 221. VBŮ
+úrok 10 000 Kč 355. 662 | ID
+splacení půjčky 110 000 Kč 221.. 355. VBŮ
+
+e © závazky ke společníkům ze závislé činnosti
+o © pokud společníci nebo jednatelé pracují pro společnost, je jejich příjem posuzován jako příjem ze závislé činnosti
+o | účet 522 — Příjmy společníků a členů družstva ze závislé činnosti
+o | účet 366— Závazky ke společníkům a členům družstva ze závislé činnosti
+
+5
+

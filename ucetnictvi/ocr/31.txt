@@ -1,0 +1,94 @@
+členění pasiv
+
+DARPVr
+
+e« | složení majetku
+
+6. VLASTNÍ A CIZÍ KAPITÁL
+
+dvojí pohled na majetek z hlediska účetnictví
+
+pasiva ve výkazu Rozvaha
+
+účtování vlastních zdrojů
+
+účtování cizích zdrojů
+
+účtování pasivních účtů časového rozlišení
+
+1. Dvojí pohled na majetek z hlediska účetnictví
+
+o — jaké má firma druhy majetku
+o | představuje aktiva firmy
+« | zdroje krytí majetku
+o | zjakých zdrojů firma majetek pořídila
+o | představují pasiva
+e | aktiva se vždy musí rovnat pasivům
+
+e -vlastní
+
+2.  Clenění pasiv
+
+o © základní kapitál
+
+o fondy
+
+o | výsledek hospodaření minulých let
+o | výsledek hospodaření běžného účetního období
+
+e cizí
+o | rezervy
+o | závazky
+
+o © bankovní úvěry a výpomoci
+
+e | pasivní účty časového rozlišení
+o | 383— Výdaje příštích období
+o © 384— Výnosy příštích období
+
+3. Pasiva ve výkazu Rozvaha
+
+e © výkaz rozvaha představuje přehled jednotlivých aktiv a pasiv
+e © nastraně aktiv se hodnotové údaje zapisují do čtyř sloupců
+o | sloupec 1 (brutto)
+
+hrubý stav aktiv v původních pořizovacích cenách (nesnížené o oprávky)
+
+o | sloupec 2 (korekce)
+
+hodnota oprávek (sk. 07, 08) a opravných položek (u DM, zásob, pohledávek)
+uvádí se se znaménkem mínus
+
+o | sloupec 3 (netto)
+
+čistý stav (hrubá aktiva snížená o oprávky a opravné položky)
+vyjadřuje reálnou hodnotu aktiv
+
+o. sloupec 4
+
+obsahuje netto stavy z rozvahy z předcházejícího účetního období
+
+e © na straně pasiv se hodnotové údaje zapisují do dvou sloupců
+o | stav v běžném účetním období
+o © stav v minulém účetním období
+
+e © pasiva se zapisují do třech skupin
+o | skupina A — Vlastní kapitál
+
+Základní kapitál
+
+Kapitálové fondy
+
+Rezervní fondy, nedělitelný fond a ostatní fondy ze zisku
+Výsledek hospodaření minulých let
+
+Výsledek hospodaření běžného účetního období
+
+o | skupina B— Cizí zdroje
+
+Rezervy
+
+Dlouhodobé závazky
+Krátkodobé závazky
+Bankovní úvěry a výpomoci
+

@@ -1,0 +1,81 @@
+e | doba trvání smlouvy
+
+e | vstupní cena předmětu — za jakou cenu předmět nakoupila leasingová společnost od dodavatele
+o | vstupní cena ale neznamená hodnotu leasingu, který se navyšuje o marži
+splátkový kalendář
+= | příloha k leasingové smlouvě
+= | obsahuje zejména výši jednotlivých splátek, jejich počet a termín jejich splatnosti
+leasingová marže
+= | finanční činnost leasingové společnosti
+= | vyjadřuje navýšení oproti vstupní ceně
+s © zahrnuje náklady a zisku leasingové společnosti
+hodnota leasingu
+= | částka, kterou nájemce za dobu trvání leasingu zaúčtuje do nákladů
+s | nejbezpečnější řešení je provést výpočet tak, že se sečtou všechny leasingové splátky (v případě, že je
+možné si uplatnit odpočet DPH, potom se počítají splátky bez DPH), které mají být nájemcem
+zaplaceny leasingové společnosti
+měsíční nájemné
+= © podíl hodnoty leasingu a doby trvání leasingu v měsících
+
+e © podmínky pro daňovou uznatelnost nájemného
+
+©
+
+nájemné u operativního leasingu je daňové uznatelným nákladem při dodržení zásady věcné a časové
+souvislosti, tj. časového rozlišení (2 kalendářní roky)
+daňovou uznatelnost nájemného u leasingu s povinností či oprávněním odkupu předmětu nájmu řeší Zákon o
+dani z příjmů
+jedná se zejména o tyto podmínky
+= | předmětem nájmu je hmotný majetek, který lze odepisovat
+= © doba nájmu musí trvat nejméně tak dlouho, jako minimální doba odpisování podle ZDP, u nemovitostí
+nejméně 30 let
+« © od 1.4.2009 se změnila minimální doba nájmu hmotného majetku zatříděného v odpisové skupině 2
+(nejméně 54 měsíců) — např. auta, a odpisové skupině 3 nejméně 114 měsíců
+
+e | časové rozlišení nájemného
+
+O
+
+Oo
+
+O O O 0 0
+
+O O O O0 0 0 O0 0
+
+princip časového rozlišení leasingu spočívá v tom, že nájemce zahrnuje nájemné do nákladů ve věcné a časové
+souvislosti po dobu nájmu
+na začátku leasingu se leasingová společnost „jistí“ tak, že požaduje poměrně vyšší částku, než jsou ostatní
+splátky (zvýšená splátka/nultá splátka/záloha
+na nájemné)
+díky navýšené splátce na počátku trvání leasingové smlouvy se bude leasing časově rozlišovat
+nájemce — náklady příštích období
+leasingová společnost — výnosy příštích období
+a) první zvýšená splátka => vždy se časově rozlišuje — účet 381 — Náklady příštích období
+b) běžné měsíční splátky (rovnoměrné) => časové rozlišení — účet 381 (častější) nebo se účtují přímo do nákladů
+— účet 518 — Ostatní služby
+předpis splátek
+381 /379— dle splátkového kalendáře — častější
+518 /321— splátkový kalendář se uvádí do knihy došlých faktur
+na konci každého roku se musí zjistit poměrná část leasingu připadající
+do nákladů daného období
+poměrná část N za příslušný rok = hodnota leasingu / celková doba trvání leasingu * příslušný počet měsíců
+hodnota leasingu = Vstupní cena + marže
+příklad
+= © první zvýšená splátka je 216 000 Kč, běžné měsíční splátky 12 000 Kč (36 splátek po 12 000 Kč), doba
+trvání leasingu 12/2011 — 11/2014
+
+účtování
+
+= 1. způsob
+první zvýšená splátka 216 000 Kč 381 221 (211;379)
+běžné měsíční splátky 12 000 Kč 381 221 (211;379)
+rozpuštění první splátky do N 18 000 Kč 518 381
+výpočet = (216 000 + 36 * 12 000) / 36
+
+u 2. způsob
+první zvýšená splátka 216 000 Kč 381 221 (211;379)
+běžné měsíční splátky 12 000 Kč 518 221 (211;379)
+rozpouštění první splátky 6 000 Kč 518 381
+
+výpočet = 216 000 / 36
+

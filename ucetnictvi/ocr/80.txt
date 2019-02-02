@@ -1,0 +1,221 @@
+zúčtování zálohy
+úhrada FAP
+
+10 000 Kč
+14 000 Kč
+
+321
+321
+
+314
+221
+
+ID ,
+VBÚ
+
+= | v případě, že je záloha poskytnuta v jednom období a zúčtována v následujícím období, dodavatel je
+
+daňový doklad povinen vystavit
+e účtování
+
+poskytnuta záloha
+přijat daňový doklad
+FAP za služby
+DPH 20 %
+celkem
+odečet zálohy
+odečet DPH
+odečet celkem
+úhrada
+
+o | úhrada faktury lze provést i pomocí směnky
+
+20 000 Kč
+
+3 334 Kč
+50 000 Kč
+10 000 Kč
+60 000 Kč
+16 666 Kč
+
+3 334 Kč
+20 000 Kč
+40 000 Kč
+
+314
+343
+518
+343
+
+321
+321
+
+u | cenné papíry, které musí obsahovat předepsané náležitosti
+= © vyjadřují vztah mezi věřitelem a dlužníkem (tj. povinnost dlužníka vyplatit věřiteli ve stanovené době
+
+částku uvedenou na směnce)
+musí mít písemnou podobu
+směnky k inkasu
+
+inkaso = vyinkasování peněz
+
+256.2 — výnosový úrok
+účtování
+
+FAV za výrobky
+
+DPH 20 %
+
+celkem
+
+úhrada FAV směnkou
+úrok
+
+úhrada směnky
+výplata úroku
+
+o | pohledávky v cizí měně
+
+= © ÚJ používá denní kurzy ČNB nebo pevné kurzy
+= © při těchto pohledávkách vznikají kurzové rozdíly
+
+e | při úhradě faktury
+e © nakonci období
+
+= | prokurzové rozdíly se používají podle povahy účty
+
+e | 563— Kurzové ztráty
+e © 663— Kurzové zisky
+
+účet 256 — Dluhové cenné papíry do 1 roku (RA)
+256.1 — Dluhové CP — hodnota původní pohledávky
+
+100 000 Kč
+20 000 Kč
+120 000 Kč
+120 000 Kč
+20 000 Kč
+120 000 Kč
+20 000 Kč
+
+311
+256.1
+256.2
+221
+221
+
+221
+314
+
+321
+314
+343
+
+221
+
+601
+343
+311
+662
+
+256.1
+256.1
+
+VBÚ
+DD
+FAP
+
+ID
+
+VBÚ
+
+FAV
+
+ID
+ID
+VBŮ
+VBŮ
+
+s © na konci období se dosud neuhrazené faktury přepočítávají na českou měnu a vzniká tak kurzový rozdíl
+= © při úhradě faktur se budou zahraniční pohledávky porovnávat s už upravenou hodnotou z konce roku a
+
+znovu vzniká kurzový rozdíl
+u | účtování
+FAV za zboží do Německa
+(1 000 EUR, kurz 25,9 Kč)
+31. 12. kurzový rozdíl
+(kurz 26,1)
+úhrada faktury
+kurzový rozdíl
+FAV za zboží
+DPH 20 % - výstup
+DPH 20 % - vstup
+úhrada
+KR -— ztráta
+o | reklamace
+
+25 900 Kč
+
+200 Kč
+
+25 400 Kč
+700 Kč
+
+100 000 Kč
+
+20 000 Kč
+20 000 Kč
+98 000 Kč
+
+2 000 Kč
+
+311
+
+311
+
+221
+563
+311
+349
+343
+221
+563
+
+604
+
+663
+
+311
+311
+604
+343
+349
+311
+311
+
+FAV
+ID
+
+ID
+ID
+ID
+DD
+DD
+VBŮ
+ID
+
+= © při dodávkách mohou vzniknout nesrovnalosti mezi dodavatelem a odběratelem (poškození, chybějící
+
+množství, špatná kvalita, jiný druh za jinou cenu,...)
+účtuje se o tzv. reklamačním nároku a vzniká tak pohledávka za dodavatelem
+
+účet 315 — Ostatní pohledávky
+účtuje se zde o ceně bez DPH
+
+náhradní dodávku
+
+dodavatel může reklamaci uznat nebo zamítnout
+při uznání může dodavatel poslat odběrateli dobropis na reklamovanou částku nebo mu může dodat
+
+2
+

@@ -1,0 +1,36 @@
+:
+
+e) Výsledek hospodaření za účetní období (součet hospodářského výsledku za běžnou a mimořádnou činnost)
+- © vyjadřuje disponibilní (čistý) zisk, tj. zisk po zdanění
+- © je uveden v rozvaze mezi pasivy jako výsledek hospodaření běžného období
+
+Příloha k účetním výkazům:
+Má pevně stanovený pouze obsah. Účetní jednotky ji mohou sestavit buď v popisné formě, nebo pomocí tabulek.
+Obsahuje:
+1) Obecné údaje o účetní jednotce
+- © Popis účetní jednotky (název, právní forma, sídlo, místo podnikání, předmět podnikání, datum vzniku)
+- © Jména a příjmení členů statutárních a dozorčích orgánů
+- © Údaje o účetních jednotkách, ve který má účetní jednotka větší než 20% podíl
+- © Průměrný přepočtený počet zaměstnanců
+- © Údaje o poskytnutých půjčkách
+2) Informace o účetních metodách a obecných účetních zásadách (z vnitřní směrnice)
+- © Způsoby oceňování jednotlivých složek majetku
+- © Způsob sestavení odpisových plánů a použité odpisové metody
+- © Způsob stanovení opravných položek
+- © Způsob použitý při přepočtu cizích měn na Kč
+- © Způsob stanovení reálné hodnoty
+3) Doplňující informace k rozvaze a k výkazu zisku a ztráty
+- © Důležité skutečnosti, které nelze z rozvahy a výkazu zisku a ztráty vyčíslit
+- © Důležité skutečnosti, ke kterým došlo od rozvahového dne do okamžiku sestavení účetní závěrky (30. 6.)
+- © Rozpis rezerv a dlouhodobých bankovních úvěrů
+- © Doměrky daně z příjmů za minulá účetní období
+- © Informace o výši splatných závazků pojistného na sociálním zabezpečení
+- © Informace o výši splatných závazků veřejného zdravotního pojištění
+- © Informace o výši daňových nedoplatků účetní jednotky
+
+Přehled o peněžních tocích (Cash flow)
+Zachycuje pohyb peněžních prostředků během nějakého období. Je důležitý, protože firma je schopna uhradit závazky pouze
+
+peněžními prostředky (můžeme být v platební neschopnosti — výnosy vznikající vystavením faktur). Výkaz peněžních toků
+doplňuje rozvahu o výkaz zisku a ztráty, protože poskytuje další významný pohled na finanční situaci podniku.
+

@@ -1,0 +1,84 @@
+o | výdaje na dokončené technické zhodnocení hmotného majetku, které v úhrnu u jednotlivého majetku za účetní
+období nepřevýší 40 000 Kč a UJ je nezahrne do PC DHM
+o © pojistné majetkového pojištění
+o © zákonné pojištění odpovědnosti za škody
+o | příspěvky různým právnickým osobám (profesním komorám, sdružením,...)
+= © daňově uznatelné pouze jen pokud členství vyplývá ze zákona (např. Komora daňových poradců,
+Lékařská komora,...)
+o účtování
+
+technické zhodnocení auta do limitu 20 000 Kč 548 211 VPD
+pojistné budovy 10 000 Kč 548 | 221 VBŮ
+pojištění odpovědnosti za škody 15 000 Kč 548 221 VBŮ
+
+účet 549 — Manka a škody z provozní činnosti
+o | účtují se zde manka a škody na jednotlivých druzích dlouhodobého majetku i manka nad normu u zásob
+o | daňově uznatelné do výše náhrad
+
+o | uznatelná v plné výši je škoda způsobená neznámým pachatelem na základě potvrzení od policie nebo škoda
+způsobená živelnou pohromou
+
+o účtování
+manko nad normu na materiálu 15 000 Kč 549 112 ID
+chybějící stroj 20 000 Kč 549 022 ID
+odcizen počítač 15 000 Kč 549 022 ID
+
+skupina 55 — Odpisy, rezervy, komplexní náklady příštích období a opravné položky provozních nákladů
+účet 551 — Odpisy dlouhodobého nehmotného a hmotného majetku
+o | evidují se zde účetní odpisy dlouhodobého majetku v souladu s účetními předpisy
+o | odaňových odpisech se neúčtuje
+o | účtování
+
+odpis budovy 10 000 Kč 551 082 ID
+odpis softwaru 5 000 Kč 551 073 ID
+doúčtování ZC nefunkčního stroje 40 000 Kč 551 082 ID
+vyřazení nefunkčního stroje 99 000 Kč 082 022 ID
+
+účet 552 — Tvorba a zúčtování zákonných rezerv podle zvláštních právních předpisů
+o | zaznamenává se zde tvorba a čerpání rezerv v souladu se zákonem o rezervách
+o | rezervy na opravy DHM
+
+o účtování
+2012 — tvorba zák. rezervy 552 451 ID
+2013 — tvorba zák. rezervy 552 451 ID
+FAP za opravu DM S11 321 FAP
+zůčtování rezervy 451 552 ID
+
+účet 554 — Tvorba a zúčtování ostatních rezerv
+
+o | účtuje se zde tvorba a čerpání rezerv, které nesplňují podmínky zákona o rezervách
+
+o | daňově neuznatelný náklad
+o účtování
+
+2012 — tvorba ostat. rezervy 554 459 ID
+2013 — tvorba ostat. rezervy 554 459 ID
+FAP za opravu DM 511 321 FAP
+zúčtování rezervy 459 554 ID
+
+účet 555 — Tvorba a zúčtování komplexních nákladů příštích období
+o — jedná-li se o více nákladů, které spolu souvisí a musí se časově rozlišit
+o | náklady se sečtou a časové rozlišení se provádí jen jedenkrát
+o — používají se při dlouhodobých kampaních, při přípravě nové výroby nebo prototypu (zkušební vzorek)
+o účtování
+
+spotřeba materiálu 204 000 Kč 501 112 výdejka
+mzdy 400 000 Kč 521 331 ID
+pojistné zaměstnavatele 136 000 Kč 524 336 ID
+nakoupené služby 460 000 Kč 518 321 ID
+
+o | účetní jednotka se rozhodla, že tyto náklady bude rozlišovat po dobu
+4 let = 1200 000 Kč/4 = 300 000 Kč/rok
+
+zúčtování komplexních N 1 200 000 Kč 382 S55 ID
+náklady roku 2012 300 000 Kč S55 382 ID
+náklady roku 2013 300 000 Kč 555 382 ID
+náklady roku 2014 300 000 Kč 555 382 ID
+náklady roku 2015 300 000 Kč S55 382 ID
+
+účet 558 — Tvorba a zůčtování zákonných opravných položek
+o | zaznamenává se zde tvorba a čerpání opravných položek k pohledávkám za podmínek uvedených v zákoně o
+rezervách
+
+6
+

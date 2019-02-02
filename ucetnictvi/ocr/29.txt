@@ -1,0 +1,45 @@
+ 
+
+další účetní případy viz otázka Zúčtovací vztahy — pohledávky
+
+přijetí na sklad 20 000 Kč neúčtuje se příjemka
+výdej ze skladu 12 000 Kč neúčtuje se výdejka
+= další účtování viz otázky Zásoby
+o © finanční oběžný majetek
+= © nákupakcií, prodej akcií
+pořízení akcií 10 000 Kč 259 379 FAP
+provize hotově 1 000 Kč 259 211 VPD
+zařazení 11 000 Kč 251 259 ID
+prodej na fakturu 20 000 Kč 378 661 ID
+vyřazení 15 000 Kč 561 251 ID
+připsány dividendy 50 000 Kč 221. 666. VBŮ
+přecenění CP —sníž. 10 000 Kč 564 251 ID
+přecenění CP —zvýš. 10 000 Kč 251 664 ID
+= viz otázka Finanční účty
+o | pohledávky
+= © za odběrateli
+FAV za zboží 20 000 Kč 311 604 FAV
+DPH 20 % 4 000 Kč 311 343
+úhrada FAV 24 000 Kč 221.. 311. VBŮ
+za zaměstnanci
+záloha na služ. cestu 2500 Kč 335 211 VPD
+vyúčtování celkem 2300 Kč 512 : ID
+zúčtování zálohy 2 500 Kč - 335
+rozdíl do pokladny 200 Kč 211 -
+za finančními institucemi
+DPH — nadm. odp. 50 000 Kč 221. 343. VBŮ
+Spotř.daň — nad.odp. 30 000 Kč 221. 345. VBŮ
+silniční daň — nad. o. 10 000 Kč 221. 345. VBŮ
+daň znem.—nad. od. © 200000 Kč 221. 345. VBŮ
+za společníky
+půjčka společníkovi 90 000 Kč 355. 221. VBŮ
+splacení půjčky 90 000 Kč 221.. 355. VBŮ
+úrok 10 % 9 000 Kč 221 662 VBŮ
+ostatní pohledávky
+požár materiálu 200 000 Kč 582 112 ID
+předpis náhr. od poj. 170 000 Kč 378 688 ID
+úhrada náhrady 170 000 Kč 221. 378. VBŮ
+prodej akcií na FAV 50 000 Kč 378 661 FAV
+DPH 20 % 10 000 Kč 378 343
+úhrada FAV za akcie 60 000 Kč 221. 378. VBŮ
+

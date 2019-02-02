@@ -1,0 +1,20 @@
+6.  Učtování pasivních účtů časového rozlišení
+
+e | 383— Výdaje příštích období
+o © náklad vzniká v běžném období, ale výdaj bude až v následujících obdobích
+o | účtování — nájemné placené pozadu
+
+náklady roku 2012 200 000 Kč 518 383 ID
+náklady roku 2013 200 000 Kč 518 383 ID
+náklady roku 2014 200 000 Kč 518.. 383. ID
+úhrada nájemného 600 000 Kč 383. 221. VBŮ
+
+e | 384— Výnosy příštích období
+o | částky, které byly přijaty v běžném období, ale zcela nebo zčásti patří do výnosů příštích období
+o | účtování — předem přijaté nájemné z hlediska pronajímatele
+
+přijato nájemné 600 000 Kč 221 384 VBŮ
+výnosy roku 2012 200 000 Kč 384 648/602 ID
+výnosy roku 2013 200 000 Kč 384 648/602 ID
+výnosy roku 2014 200 000 Kč 384 648/602 ID
+

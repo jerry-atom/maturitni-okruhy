@@ -1,0 +1,55 @@
+FO, jejichž obrat překročí za předchozí kalendářní rok částku 25 milionů Kč se stávají ÚJ od prvního dne následujícího
+kalendářního roku (dál vedou daňovou evidenci) a účetnictví začínají povinně vést až od prvního dne účetního období
+následujícího po kalendářním roce, ve kterém se staly účetní jednotkou
+při zdaňování se celkový základ daně dělí na 5 dílčích základů
+o © ze závislé činnosti
+z podnikání
+z kapitálového majetku
+Z pronájmu
+ostatní příjmy
+příjmy a výdaje lze rozdělit
+o © mezi manželi (manžel/ka se stává spolupracující fyzickou osobu)
+" je povoleno si rozdělit až 50 % příjmů a výdajů, nejvíce však 540 000 Kč za zdaňovací období
+o © mezi ostatními osobami žijícími v jedné domácnosti
+= je povoleno si rozdělit až 30 % příjmů a výdajů, nejvíce však 180 000 Kč za zdaňovací období
+FO může podnikat
+o | sama
+o © ve sdružení osob
+o © jako tichý společník
+
+O O0 0
+
+2. Daňová evidence individuálního podnikatele
+
+daňová evidence nahradila dřívější jednoduché účetnictví, ale podstata zůstává stejná, pouze je upravena zákonem o dani
+z příjmů (vedou se různé pomocné knihy)
+nejdůležitější knihou je deník příjmů a výdajů (tzv. peněžní deník), kde se zachycuje pouze pohyb finančních prostředků
+na pokladně nebo na bankovním účtu
+forma, způsob a technika vedení daňové evidence není předepsána (podnikatel ji tedy může vést podle vlastního uvážení)
+zápis v peněžním deníku není podvojný, ale jednostranný
+operace, které nezpůsobují změnu v pokladně nebo na bankovním účtu se zapisují pouze do pomocných knih (podnikatel
+všechny doklady archivuje)
+peněžní deník
+o | vesloupci 1 —4 se zachycuje pohyb peněz v pokladně nebo na bankovním účtu
+o | sloupce 5 a 6 představuje v podstatě peníze na cestě
+= | používá se k překlenutí časového nesouladu mezi vyhotovením dokladů
+= | slouží k zaznamenání převodu peněžních prostředků z pokladny na běžný účet a naopak, případně
+k pohybu peněz mezi více BŮ
+= | potřeba používání průběžných položek je vyvolána časovým
+= © nesouladem mezi záznamem pohybu peněž v hotovosti (na základě pokladního dokladu) a na běžném
+účtu, které lze provést až na základě VBŮ
+= — zapisuje se do kříže (pokud je příjem peněz, zapisujeme do výdeje)
+o. dosloupců 7 a 8 se zapisuje cena bez DPH takových případů, které souvisí s hlavní ekonomickou činností (např.
+nákup materiálu do sloupce 7, prodej zboží do sloupce 8)
+o | dosloupců 9 a 10 se podle povahy zapisují daňově neúčinné příjmy nebo výdaje a rozpočítaná částka DPH
+= © do sloupce 9 se bude zapisovat např. přijatý dar (zapíšeme zde i zápis PZ nebo úrok z účtu)
+= © dosloupce 10 se bude zapisovat např. pořízení DM (až při úhradě FAP), poskytnutý dar, výběr na
+osobní potřebu, pojistné OSVČ a DPH
+s © DPH setaké zapisuje podle povahy
+e © pokud máme úhradu faktury vystavené, napíšeme celou částku např. do sloupce 3 (z banky)
+jako příjem, do sloupce 7 cenu bez DPH jako příjem a do sloupce 9 částku DPH také jako
+příjem)
+e © pokud máme úhradu faktury přijaté, napíšeme celou částku např. do sloupce 4 (z banky) jako
+výdaj, do sloupce 8 cenu bez DPH jako výdaj a do sloupce 10 částku DPH také jako výdaj)
+o | ukázka peněžního deníku
+

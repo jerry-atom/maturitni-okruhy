@@ -1,0 +1,58 @@
+zdaňovacím obdobím je
+o kalendářní měsíc — obrat nad 10 milionů Kč
+o kalendářní čtvrtletí — obrat do 2 milionů Kč
+o měsíc nebo čtvrtletí — obrat mezi 2— 10 miliony Kč
+daňové přiznání se podává do 25. dne následujícího po skončení zdaňovacího období
+ve stejném termínu se 1 daň musí zaplatit
+nadměrný odpočet musí finanční úřad vrátit do 30 dnů od podání daňového přiznání
+běžný daňový doklad
+o typickým příkladem je faktura
+o musí obsahovat DIČ, sazbu DPH, cenu bez daně, DPH v Kč, datum plnění nebo přijetí platby
+zjednodušený daňový doklad
+o může se vystavit, pokud cena včetně DPH nepřesáhne 10 000 Kč
+o musí být uvedena cena včetně daně a sazba
+o DPH se rozpočítává pomocí koeficientu (výpočet shora)
+pokud dojde ke zvýšení nebo snížení základu daně, vystavuje se opravný daňový doklad —
+dobropis/vrubopis
+pro účet DPH je vhodné použít analytickou evidenci
+u určitých účetních případů se DPH nepočítá (nedaňový náklad) a účtuje se jen v ceně včetně DPH
+(př. 513 — Reprezentace)
+základem pro výpočet DPH je cena pořízení zboží nebo služby + případná spotřební daň
+DPH při dovozu
+o počítá se z fakturované ceny (+ případná spotřební daň)
+o z fakturované ceny se vypočítá DPH (20 nebo 14 %) a zaúčtuje se jako přidanění a nárok na
+odpočet DPH
+o při účtování přidanění a nároku na odpočet se používá účet 349 — Spojovací účet k DPH
+
+DPH při vývozu
+
+o při vývozu je prodej od DPH osvobozen
+účtování
+FAP za zboží 10 000 Kč 131 . FAP
+DPH 20 % 2000Kč | 343 “
+celkem 12 000 Kč “ 321
+FAV za zboží 10 000 Kč - 604 | FAV
+DPH 20 % 2 000 Kč - 343
+celkem 12000Kč 311 -
+FAP za zboží ze zahraničí © 10 000 Kč 131.321. FAP
+DPH - přidanění 2000Kč 349.. 343. DD
+DPH — nárok na odpočet 2000Kč 343. 349.. DD
+úhrada daně 2000Kč 343 221. VBŮ
+přeplatek daně 2000Kč | 221. 343. VBU
+doměrek DPH 400Kč 538. 343. ID
+
+5, Spotřební daně
+
+mají selektivní (výběrový) charakter
+
+týkají se vybraných výrobků, které škodí životnímu prostředí nebo zdraví člověka
+daňová povinnost vzniká okamžikem výroby nebo dovozu
+
+uplatňují se jen jednou
+
+sazba je pevná částka / MJ nebo %
+
+spotřební daně jsou základem pro výpočet DPH
+
+jsou upraveny zákonem o spotřebních daních
+

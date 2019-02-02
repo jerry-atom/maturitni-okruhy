@@ -1,0 +1,58 @@
+b) snížení se stalo trvalým
+b) trvalé snížení
+trvalé snížení materiálu
+
+e škody
+požár materiálu
+náhrada od pojišťovny
+úhrada od pojišťovny
+
+e reklamace
+FAP za materiál
+DPH 20%
+příjemka materiálu
+reklamační nárok
+a) dobropis
+a) DPH 20%
+b) neuznaná reklamace
+
+e | příjemka — příjem zásob na sklad
+
+10000Kč 191
+10000Kč 549
+10000Kč | 549
+
+10000Kč | 582
+10000Kč | 378
+
+10000Kč 221 378
+20000Kč | 501
+24000Kč 343. 321
+20000 Kč | neúčtuje se
+5000Kč 315 501
+5000Kč 321. 315
+1000Kč 321. 343
+
+5000Kč 549
+
+12 Evidence zásob
+
+e | výdejka— výdej zásob ze skladu do výroby
+e | převodka — předání zásob mezi pobočkami jedné firmy
+e  skladní karta — zachycuje se zde pohyb zásob na skladě
+
+FAP
+
+559 | ID
+112 ID
+112 ID
+112 ID
+688 ID
+VBU
+
+321
+příjemka
+ID
+dobropis
+315. ID
+

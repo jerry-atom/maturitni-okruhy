@@ -1,0 +1,70 @@
+e © daňové
+o
+o
+
+O O O O0
+
+O
+
+upraveny zákonem o dani z příjmu jednotně pro celou republiku
+postup při stanovení daňových odpisů
+= | zařazení majetku do příslušné odpisové skupiny
+e 6óskupin
+e | ke každé skupině stanovena doba odepisování
+e | u každé skupiny je zařazený konkrétní majetek
+e | zatřídění obsahuje příloha 1 zákona o dani z příjmu
+= © volba metody odepisování
+metoda rovnoměrného odepisování
+= | odpisy jsou stále stejně velké, kromě prvního roku, kdy je odpis nižší
+s vl.roce= VC/100 * OS; (odpisová sazba)
+= | vdalších letech = VC/100 * OS;
+metoda zrychleného odepisování
+= © odpis v I. roce je nižší, ale v druhém roce je nejvyšší a postupně se snižuje
+s vl. roce = VC/K; (koeficient)
+= | vdalších letech = (2 * ZC) / (K2— n)
+= | ZC (zůstatková cena) = VC — oprávky
+s © n= počet let, po které již byl majetek odepisován
+sazby a koeficienty udává Zákon o dani z příjmu
+zvolená metoda se v průběhu roku nesmí měnit
+zaokrouhlují se na koruny nahoru
+odepisuje se
+= podle doby používání
+= | nebodo odepsání VC
+neodepisuje se finanční majetek, pozemky, umělecká díla a sbírky
+odepisuje se i majetek s technickým zhodnocením
+= © rovnoměrná metoda
+e © vroce technického zhodnocení (i v následujících letech) se ke vstupní ceně přičte částka
+technického zhodnocení a klasická sazba se změní v sazbu pro zvýšenou vstupní cenu
+s © zrychlená metoda
+e © vroce technického zhodnocení se k zůstatkové ceně přičte částka technického zhodnocení,
+klasický koeficient se změní na koeficient pro zvýšenou vstupní cenu a počet let se začne
+odečítat znovu od 0
+firma si může zvýšit odpis v 1. roce používání o 20% (zemědělci), o 15 % (odpisy čističek vod) nebo 10%
+(všechny ostatní firmy), pouze však z 1. - 3. odpisové skupiny nově koupeného majetku
+" | rovnoměrná metoda
+e | výpočet je stejný, akorát se změní sazby podle tabulky pro příslušné procento navýšení
+= © zrychlená metoda
+e | výpočet je stejný, akorát v prvním roce se vypočítá klasický odpis a přičte se k němu procento
+(10%, 15% nebo 20%) ze vstupní ceny a vyjde nám celkový odpis, ze kterého se počítá
+v následujících letech
+účtování odpisů
+s © MD 551 — odpisy dlouhodobého nehmotného a hmotného majetku
+= © Doprávky pro daný rok (skupina 07, 08)
+= o odpisech se účtuje v každém roce odepisování
+
+e © účetní i daňové odpisy se uvádí v účetnictví i na inventárních kartách majetku
+
+Funkce odpisů
+
+e © nákladová — pomocí odpisů přenášíme hodnotu DM do nákladů
+e © zdrojová — odpisy jsou pro firmu zdrojem financování DM
+
+6. Vyřazení DM
+
+vky = VC)
+
+M ID, POV
+FAV
+
+VBÚ
+

@@ -1,0 +1,160 @@
+e | evidence leasingového předmětu
+
+o | vsouvislosti s účtováním o leasingu se doporučuje k leasingovým smlouvám sestavovat inventární (evidenční)
+karty, které obsahují veškeré nutné údaje pro kontrolu správnosti výpočtu a způsobu účtování
+o | samotný předmět leasingu se po dobu nájmu eviduje pouze v rámci podrozvahové evidence — např. účet 751 —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Najatý DM
+o | příklad
+= | splátkový kalendář
+
+Datum splátky Vstupní cena Finanční činnost Celkem
+
+20. 122011 150 000 . 150 000
+
+20. 12.2011 8 000 2 000 10 000
+
+20. 1.2012 8 000 2 000 10 000
+
+20.11.2015 8 000 2 000 10 000
+
+Celkem 630 000 120 000 750 000
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= | finanční činnost = leasingová marže
+u | hodnota leasingu = VC + marže
+
+= | evidenční karta — vyplňujeme sami
+
+= | Datum převzetí předmětu do užívání 20.12.2011
+= | Hodnota leasingu 750 000 Kč
+= | Doba trvání nájmu 60 měsíců
+
+= | Měsíční nájemné 12 500 Kč
+
+= © měsíční nájemné = podíl N připadajících na dané období
+
+období v daném roce
+= výpočet = 750 000 / 60 * 1 = 12500 Kč
+
+= hodnota leasingu / počet období => skutečné N za období (měsíc, čtvrtletí, rok) * příslušný počet
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Rok Počet měsíců Daňové náklady
+2011 l 12 500
+2012 12 150 000
+2013 12 150 000
+2014 12 150 000
+2015 12 150 000
+2016 11 137 500
+Celkem 60 750 000
+
+ 
+
+ 
+
+e © daň z přidané hodnoty u leasingu
+
+o — ohledně DPH je nutno rozlišovat, jestli jde o smlouvu uzavřenou do konce roku 2008 nebo po roce 2008
+
+o. do31.12.2008
+= © DPH bylo stanoveno u jednotlivých splátek
+
+= © DPH se uplatňuje na základě splátkového kalendáře, který plní i funkci daňového dokladu
+
+s | účtování
+předpis zvýšené splátky
+
+ZD 150 000 Kč 381
+DPH 20 % 30 000 Kč 343
+předpis měsíční splátky
+
+ZD 10 000 Kč 381
+DPH 20 % 2 000 Kč 343
+platba zvýšené i pravidelné splátky 192 000 Kč 379
+poměrná část nájemného 12 500 Kč 518
+
+o. od1.1.2009
+
+379
+379
+
+379
+379
+221
+381
+
+FAP
+
+FAP
+
+VBŮ
+ID
+
+= © způsob uplatňování DPH jak z hlediska nájemce, tak i z hlediska pronajímatele, závisí na druhu
+
+leasingu
+= | leasing s povinností odkupu předmětu nájmu
+
+e © DPH se uplatňuje jednorázově, a to ke dni vzniku práva nájemce užívat předmět leasingu
+
+(nejčastěji den předání)
+
+e | částka daně se vypočítá z celkové hodnoty všech splátek včetně částky kupní ceny, za kterou
+
+má být předmět smlouvy převeden nájemci
+
+z této částky se pak počítá DPH
+viz zelená učebnice strana 180
+
+6
+
+daňovým dokladem nemůže být splátkový kalendář, ale zpravidla jím je běžný daňový doklad
+základ daně = záloha + (měsíční splátka * počet měsíců) + kupní cena
+

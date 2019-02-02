@@ -1,0 +1,59 @@
+= účtuje vydání dluhopisů jako závazek a současně jako pohledávku za budoucími majiteli
+dluhopisů
+= | prodejem dluhopisů se tato pohledávky zruší
+= pokud splatnost přesahuje do dalších účetních období, je potřeba nabíhající úrok (náklad)
+časově rozlišit
+o | účtování z pohledu emitenta
+emise dluhopisů
+
+10000Kč 375 | 241 (473) ID
+
+prodej dluhopisů 10000Kč © 221. 375 VBŮ
+čas. rozl. úroků (10 % p.a.) 1000Kč | 562 383 ID
+předpis úroků za další rok 1 000 Kč 562 383 ID
+zpětný odkup dluhopisů 10000Kč | 241(473) - VBŮ
+úrok za první rok 1 000 Kč 383 -
+úrok za druhý rok 1000Kč | 383 -
+celkem vyplaceno 12 000 Kč - 221
+
+o účtování z pohledu majitele
+nákup dlouhod. dluhopisů 200 000 Kč 043 | 221 VBŮ
+zařazení do majetku 200 000 Kč © 065.1 043 ID
+
+čas. rozl. úroků(10 % p.a.) 20000Kč | 065.2 662 (665-dlou.) ID
+čas. rozl. za další rok 20000Kč © 065.2 662 (665) ID
+
+zpětný odkup (nom.hodn.) 200 000 Kč - 065.1 VBŮ
+úrok za první rok 20 000 Kč . 065.2
+úrok za druhý rok 20 000 Kč - 065.2
+
+celkem přijato 240 000Kč 221 :
+e směnky
+o  CP,který vyjadřuje vztah věřitele a dlužníka
+o | dlužník má povinnost vyplatit věřiteli ve stanovené době částku uvedenou na směnce + úrok
+o © musí mít písemnou podobu a musí obsahovat náležitosti předepsané směnečným zákonem
+o  1když jsou směny cenným papírem, v UCE mohou vystupovat v různých podobách
+= jako zajišťovací prostředek
+e směnky slouží k zajištění pohledávek z obchodního styku
+e oceňují se nominální hodnotou
+e evidují se v podrozvahové evidence
+= jako cenný papír
+e jestliže jsou nakoupeny za účelem obchodování
+e oceňují se pořizovací cenou
+e evidují se na účtech 256, 253, 063, 065
+= jako platební prostředek
+e jestliže jsou použity k úhradě pohledávek a závazků
+e vúůčetnictví majitele se evidují jako cenné papíry
+e oceňují se pořizovací cenou (hodnotou původní pohledávky)
+e z pohledu dlužníka směnka představuje závazek na účtu 322 — směnky k úhradě (popř.
+278 — Dlouhodobé směnky k úhradě)
+e tyto směnky se rozlišují analyticky jako hodnota pohledávky / závazku a úroku
+
+o | směnky jako platební prostředek
+
+= © směnky k inkasu
+inkaso = vyinkasování peněz
+účet 256 — Dluhové cenné papíry do 1 roku (RA)
+256.1 — Dluhové CP — hodnota původní pohledávky
+256.2 — výnosový úrok
+

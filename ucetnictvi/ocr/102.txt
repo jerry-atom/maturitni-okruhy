@@ -1,0 +1,60 @@
+uhrazeno SP 3150Kč © 336.1 221. VBÚ
+
+uhrazeno ZP 1350Kč © 3362 221. VBŮ
+uhrazeny ostatní srážky 3000Kč 379 221. VBŮ
+náhrada za PN společníka 4000Kč | 521.2 331. ID
+výplata čistých mezd 8900Kč 331. 221. VBŮ
+
+o | příjmy z podnikání
+= příjmy z podnikání se týkají OSVČ
+= jejich daň se může vypočítat buď z účetnictví, nebo z daňové evidence
+= v případě vedení účetnictví se zjistí výsledek hospodaření firmy, k němu se přičtou daňově
+neúčinné náklady (526, 513, 543,...), odečtou se daňově neúčinné výnosy (účet 662) a
+vypočítá se daň (19%)
+v případě vedení daňové evidence se zjistí rozdíl mezi příjmy a výdaji, přičtou se položky
+zvyšující rozdíl (např. čerpání rezerv), odečtou se položky snižující rozdíl (např. odpisy) a
+vypočítá se daň (19 %)
+
+= účtování
+daňová povinnost 10000Kč |. 591.. 341.. ID
+zúčtování záloh 5000Kč 341.. 591. ID
+daňový bonus 2000Kč 341.. 591.. ID
+
+o | příjmy z kapitálového majetku
+= odděleně se zdaňují výnosové úroky (např. úroky z účtu)
+= účtování
+úroky z účtu 105 Kč 221. 662  VBÚŮ
+
+o | přůmy z pronájmu
+= pronájem musí být dlouhodobý
+= pro účely zdanění se zjišťuje rozdíl mezi příjmy a výdaji
+= příjmy jsou ve skutečné výši, ale výdaje si FO může uplatňovat buď ve skutečné výší (vše
+musí dokladovat) nebo % z příjmů — tzv. paušálem (nemusí vše dokladovat)
+= účtování
+FAV za pronájem budovy © 20000Kč | 311. 602. FAV
+o | ostatní příjmy
+= spadají sem příležitostné příjmy (např. přebytky ze zahrady, příležitostný pronájem,...)
+= zdaňuje se pouze v případě, že souhrn těchto příjmů přesáhl 20 000 Kč
+= účtování
+prodej meruněk 22000Kč 211. 601.. PPD
+
+o daň z příjmů FO může být běžná nebo srážková (u obou je sazba 15 %)
+= běžná daň je uvalena na mzdy nad 5 000 Kč a vchází do ročního zúčtování
+= srážková daň se používá na mzdy do 5 000 Kč, při zdanění dividend, úroků z hypoték, úroků
+ze stavebního spoření,...
+
+daň z příjmů právnických osob
+
+o plátcem této daně jsou obchodní společnosti
+
+o | výše daně se vypočítá z výsledku hospodaření společnosti zjištěného v účetnictví (výnosy —
+náklady)
+
+o kHV se přičtou náklady daňově neúčinné (např. 513, 543), odečtou se výnosy daňově neúčinné a
+přičte se nebo se odečte rozdíl mezi účetními a daňovými odpisy
+
+o takto zjištěný základ daně se upraví o odčitatelné položky (např. ztráta z minulých let, dary
+splňující test daru)
+
+o snížený základ daně se zaokrouhlí na 1 000 Kč dolů a vypočítá se daň (19 %)
+

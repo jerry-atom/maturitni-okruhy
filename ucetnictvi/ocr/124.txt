@@ -1,0 +1,55 @@
+při zrušení společnosti mají přednostní právo na výplatu svého vkladu komanditisté a zbytek případného majetku se dělí
+
+stejně jako zisk
+
+vznik k. s.
+
+o | společnost s ručením omezeným vzniká dnem zápisu do obchodního rejstříku a v tento den se sestavuje zahajovací
+rozvaha a otevírají se účty hlavní knihy
+
+o | sestavení zahajovací rozvahy
+
+s © aktivní účty Aktiva / 701
+s | pasivní účty 701 / Pasiva
+
+= | nastraně aktiv zpravidla bývá účet 353 — Pohledávky za upsaný základní kapitál
+e používá se, když společníci dosud nesplatili své vklady
+e © můžeme k účtu vést analytickou evidenci podle jednotlivých společníků
+běžné účetní případy jsou účtovány u k. s. obdobně jako u ostatních obchodních společností
+
+rozdělení zisku a zdanění
+o © k.s. je poplatníkem daně z příjmů PO
+o | proúčely zdanění se u k. s. zjišťuje základ daně za společnost jako celek
+o © odtakto zjištěného ZD se odečtou podíly připadající na jednotlivé komplementáře a zbylý základ je základem daně
+komanditní společnosti
+o © rozdělení podílů na zisku se určí poměrem stanoveným ve společenské smlouvě, jinak na poloviny mezi
+komanditisty a komplementáře
+o © komplementáři
+= © podíl na zisku si zdaňují daní z příjmů FO, podobně jako společníci v. o. s.
+o © komanditisté
+=. zisk se zdaňuje daní z příjmů PO
+= © podíl na zisku vyplacený jednotlivým společníkům zdaňuje k. s. srážkovou daní (2012 — 15 %)
+o | účtování
+o © Dva společníci (1 komplementář, 1 komanditista) mají k. s. Zisk se dělí rovným dílem. Zisk činí 214 000 Kč.
+
+podíl na zisku komplementáře 107 000 Kč 596 364 ID
+povinnost k dani z příjmů k. s. 20 330 Kč 591 341 ID
+úhrada daně 20 330 Kč 341 221 VBŮ
+převod nákladů 1 937 000 Kč 710 5.tř. ID
+převod výnosů 2 151 000 Kč 6.tř.. 710 ID
+převod účtu 596 107 000 Kč 710 596 ID
+převod účtu 591 20 330 Kč 710 591 ID
+zúčtování čistého zisku k. s. 86 670 Kč 710 702 ID
+
+(107 000 Kč — 20 330 Kč)
+o | Dva společníci (1 komplementář, | komanditista) mají k. s. Ztráta se dělí rovným dílem. Ztráta činí 214 000 Kč.
+
+podíl na ztrátě komplementáře 107 000 Kč 354 596 ID
+povinnost k dani z příjmů k. s. 20 330 Kč 591 341 ID
+úhrada daně 20 330 Kč 341 221 VBU
+převod výnosů 1 937 000 Kč 6.tř. 710 ID
+převod nákladů 2 151 000 Kč 710 5. ID
+převod účtu 596 107 000 Kč 596 710 ID
+převod účtu 591 20 330 Kč 710 591 ID
+zúčtování ztráty k. s. 86 670 Kč 702 710 ID
+

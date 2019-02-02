@@ -1,0 +1,57 @@
+výplata podílů na zisku, dividend (u a. s.)
+úhrada ztráty z minulých let
+
+zvýšení základního kapitálu
+
+ponechání jako nerozdělený zisk
+
+o | zákonný rezervní fond
+e | u společnosti s ručením omezeným
+e | společnost vytváří rezervní fond v době a ve výši určené ve společenské smlouvě
+e | společnost je povinna ho vytvořit z čistého zisku vykázaného v účetní závěrce za rok, v němž
+poprvé zisk vytvoří, a to ve výši nejméně 10 % z čistého zisku, avšak ne více než 5 %
+z hodnoty základního kapitálu
+e | tento fond se ročně doplňuje o částku určenou ve společenské smlouvě nebo ve stanovách,
+nejméně však 5% z čistého zisku, až do výše rezervního fondu určené ve společenské smlouvě
+nebo ve stanovách, nejméně však do výše 10%
+= © u akciové společnosti
+e | procenta jsou jednou tak velké
+o — podíl na zisku a dividendy představují závazek společnosti ke společníkům — účet 364 — Závazky ke
+společníkům při rozdělování zisku
+o © podíl na zisku a dividendy se zdaňují tzv. srážkovou daní přímo u zdroje
+(2011— 15%)
+o | předepisuje se daň a vzniká závazek k FÚ — účet 342
+
+o — společníkům se vyplácí čistý podíl na zisku / dividenda
+
+o | účtování
+s © ziskk prvnímu dni období 701 431 ID
+s | příděl do zákonného rezervního fondu 431 421 ID
+u © příděl do ostatních fondů 431 423/1 ID
+« © předpis dividend 431 364 ID
+= © předpis daně z dividend 364 342 ID
+= výplata čistých dividend 364. 221. VBŮ
+= | úhrada ztráty z minulých let 431 429 ID
+= | zvýšení základního kapitálu 431 419 ID
+= | nerozdělený zisk z minulých let 431 428 ID
+
+úhrada ztráty
+
+o | ztráta se k prvnímu dni účetního období zachycuje na účtu 431
+o | ztráta může být hrazena
+
+s ze zákonného rezervního fondu
+
+« | znerozděleného zisku minulých let
+
+= | společníky (vzniká pohledávka na účtu 354)
+
+= | zbytek ztráty nemusí být uhrazen
+o účtování
+
+= © ztráta k prvnímu dni období 431 701 ID
+= | úhrada ztráty ze zákonného fondu 421 431 ID
+s | úhrada ztráty — nerozdělený zisk 428 431 ID
+= | úhrada ztráty společníky 354 431 ID
+= | zbytek ztráty neuhrazen 429 431 ID
+

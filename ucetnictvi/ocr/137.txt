@@ -1,0 +1,54 @@
+= | informace o výši splatných závazků pojistného na sociálním zabezpečení
+= | informace o výši splatných závazků veřejného zdravotního pojištění
+= | informace o výši daňových nedoplatků účetní jednotky
+
+9. Přehled o peněžních tocích — výkaz cash flow
+
+nepovinná součást účetní závěrky
+poskytuje informaci o přírůstku nebo úbytku peněžních prostředků a peněžních ekvivalentů
+peněžní prostředky — peníze v hotovosti, na bankovních účtech a ceniny
+peněžní ekvivalenty — likvidní finanční majetek (krátkodobé cenné papíry)
+vychází z účetního výsledku hospodaření a ten se postupně upravuje o různé operace, které mají vliv na pohyb peněžních
+prostředků
+
+o | př. vystavené faktury odběratelům
+
+= | ve výsledku hospodaření se přičítalo, ale nebylo zahrnuto do peněžních toků => ve výkazu se odečte
+
+při sestavování výkazu se čerpá z rozvahy, výsledovky, ale i ze samotného účetnictví (z některých syntetických a
+analytických účtů
+přehled o peněžních tocích je rozdělen do tří částí
+
+o | provozní činnost
+
+o | investiční činnost
+
+o | finanční činnost
+
+10. Přehled o změnách vlastního kapitálu
+
+nepovinná součást účetní závěrky
+informuje o zvýšení nebo snížení jednotlivých složek vlastního kapitálu (změny ZK, fondy, výsledek hospodaření
+minulých let,...)
+
+11. Povinnosti související s účetní závěrkou
+
+účetní jednotka musí odevzdat účetní závěrku spolu s přiznáním k dani z příjmů místně příslušnému finančnímu úřadu
+o | termíny pro odevzdání
+= © do 31.3. (nebo do 3 měsíců po skončení období) pro účetní jednotky bez povinnosti auditu, kterým
+daňové přiznání nesestavuje daňový poradce (většina firem)
+= do 30.6. (nebo do 6 měsíců po skončení období) pro účetní jednotky s povinným auditem a pro ÚJ,
+kterým daňové přiznání sestavuje daňový poradce
+schválení účetní závěrky
+o | schvaluje ji nejvyšší orgán společnosti (např. valná hromada) do 6 měsíců po skončení účetního období
+sestavení výroční zprávy
+o | povinně je vyhotovují auditované firmy, ostatní jen dobrovolně
+o | výročními zprávami se firma prezentuje navenek
+o | obsah
+= © základní údaje o firmě — sídlo, předmět činnosti, členové představenstva
+= © činnosti za uplynulý rok
+= vybrané údaje z účetních výkazů (nebo celá rozvaha, výkaz zisku a ztrát a příloha)
+= © správa auditora
+o | vkroužkové podobě, na křídovém papíru,...
+zveřejnění účetní závěrky a výroční zprávy do sbírky listin obchodního rejstříku (jen firmy, které jsou v OR zapsané)
+

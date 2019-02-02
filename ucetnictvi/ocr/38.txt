@@ -1,0 +1,64 @@
+e v případě, že na konci účetního období máme jen fakturu, ale fyzicky materiál nebo zboží ještě
+nemáme na skladě, účtujeme na účtech
+o 119— Materiál na cestě
+
+o 139 — Zboží na cestě
+
+e | při dočasném snížení hodnoty materiálu se účtují opravné položky — skupina 19
+
+e  vokamžiku pořízení
+O pořizovací cena
+
+= nakupované zásoby
+u | cena pořízení + vedlejší pořizovací náklady
+
+o vlastní náklady
+
+3. Ocenění zásob
+
+= ocenění zásob vlastní výroby
+
+= | přímé náklady (jednicové)
+e | dají se přesně zjistit na jeden výrobek
+e | př. mzdy, cena materiálu
+
+= | nepřímé náklady (režijní)
+
+e | nedají se přesně zjistit na jeden výrobek
+
+e | př. odpisy, energie
+e | při výdeji materiálu ze skladu
+o při nákupu materiálu jsou ceny rozdílné, a proto vzniká problém při ocenění vydávaného
+
+materiálu
+o 3 metody (vybranou metodu firma uvede ve své vnitropodnikové směrnici)
+= FIFO
+e first in, first out (první dovnitř, první ven)
+e © vydávaný materiál se oceňuje postupně od nejstarší zásoby k zásobě novější
+e př. ÚJmákl. 1. počáteční zásobu materiálu 100 kg,
+e cena 720 Kč/kg
+o 14.1. nákup 200 kg 700 Kč/kg
+o 25.1. výdej 70 kg
+o 27.1. nákup 100 kg 750 Kč/kg
+o 30.1. výdej 290 kg
+o 25.1.  70kg* 720Kč = 50 400 Kč
+o 30.1. 290kg
+
+30kg*720Kč= 21600 Kč
+
+200 kg * 700 Kč = 140 000 Kč
+
+60 kg * 750 Kč= 45 000 Kč
+206 600 Kč
+
+o průměrná cena = 206 600 Kč / 290 = 712,41 Kč
+
+= | vážený aritmetický průměr proměnlivý
+e | průměrná cena se zjišťuje pro každý výdaj materiálu
+MNS v Kč + poslední přírůstek v Kč
+MNS v MJ + poslední přírůstek v MJ
+e | výpočet se provádí ze skladní karty
+e př.K1.S.má ÚJ na skladě 400 kg, cena 30 Kč/kg. Během května byl následující
+
+pohyb
+

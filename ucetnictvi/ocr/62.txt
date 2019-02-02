@@ -1,0 +1,59 @@
+o za ceniny odpovídá konkrétní osoba, se kterou je podepsána dohoda o hmotné odpovědnosti
+o inventura se dělá minimálně jednou ročně
+
+O | při inventarizaci mohou nastat tři skutečnosti
+
+= manko
+
+= přebytek
+
+= shoda
+
+o účtování je podobné jako v pokladně
+
+přebytek 20000Kč 213. 668. ID
+manko 10000Kč | 569 213. ID
+předpis manka k náhradě 10000Kč 335 668. ID
+úhrada manka přes BŮ 5000Kč 221 335. VBÚŮ
+úhrada manka hotově 1 000 Kč 211.1 335 | PPD
+zbytek srážkou ze mzdy 4000Kč 331.335. ID
+
+5. Bankovní účty
+
+zachycují se na účtu 221 (RA)
+na bankovních účtech má firma většinu peněžních prostředků potřebných k financování své činnosti
+zůstatek by měl být vždy aktivní
+při založení účtu se vyhotovuje smlouva o vedení účtu
+o náležitosti — obě smluvní strany, typ účtu, způsob zasílání výpisu z účtu (v papírové podobě
+nebo elektronicky)
+součástí smlouvy je tzv. podpisový vzor
+o jsou zde uvedena jména a podpisy osob, které jsou oprávněné disponovat s účtem
+o stanovena konkrétní forma — jeden podpis, kombinace podpisů nebo razítko
+
+s účtem se disponuje pomocí příkazů k úhradě
+o jednotlivý — slouží k provedení jedné platby
+o hromadný — slouží k provedení více plateb v jeden den
+o. trvalý — používá se pro pravidelně se opakující platby
+příkazy se podávají buď v papírové neb elektronické podobě
+vyhotovování příkazu k úhradě — viz ekonomická cvičení — Platební styk
+banka zasílá svým klientům každý měsíc automaticky výpis z bankovního účtu (pokud chce klient
+výpis častěji, musí za službu zaplatit nebo se na něj podívat na počítači pomocí elektrického
+bankovnictví)
+ve výpisu je uvedeno účtování z hlediska banky, tj. účtování opačné než v ÚJ
+podle výpisu se také kontroluje stav příslušného bankovního účtu v účetnictví ÚJ
+ke dni účetní závěrky zasílá banka účetní jednotce závěrečný výpis z účtu jako doklad k provedení
+inventarizace na bankovních účtech (dokladová inventura)
+příklady přírůstků na bankovním účtu — úhrada odběratelské faktury, odvod nadlimitu z pokladny,
+úroky z účtu
+příklady úbytků na bankovním účtu — úhrada dodavatelské faktury, bankovní poplatky, doplnění
+pokladny, výplata mezd
+druhy bankovních účtů
+o běžný účet
+= © ÚJ zde má peněžní prostředky potřebné k financování své činnosti
+u zůstatek je vždy aktivní
+o  kontokorentní účet
+= může mít i záporný zůstatek
+= na tomto účtu banka poskytuje tzv. kontokorentní úvěr
+
+4
+

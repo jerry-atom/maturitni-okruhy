@@ -1,0 +1,66 @@
+e | notářské poplatky, soudní výlohy, cestovné společníků
+e © do60000 Kč se účtují jako drobný nehmotný majetek na účet 518 nebo se účtují na jednotlivé určité účty
+(cestovné — 512,...)
+
+e © nad 60 000 Kč se účtují na účet 011, patří do dlouhodobého nehmotného majetku a podle zákona o dani
+Z příjmů se odepisují s přesností na měsíce
+
+změny ZK
+o © základní kapitál (účet 411) je souhrn peněžitých a nepeněžitých vkladů, které byly vloženy do společnosti při jejím
+založení
+o | o změnách ZK, který byl zapsán v OR, se účtuje na účtu 411
+o © změny ZK, které ještě nebyly zapsány v OR, se účtuje na účtu 419 — Změny ZK (RP)
+o © změna výše ZK musí být uvedena ve stanovách společnosti a v obchodním rejstříku
+o | zvýšení
+u dalšími vklady do společnosti
+e © upsáním nových akcií
+o postup je stejný jako při založení nové a. s.
+o jistina — peněžní částka, kterou společníci splatí při první schůzce a tím se zavazují být společníky
+o účtování
+úhrada jistiny 211 (221) 379 PPD, VBŮ
+upsání (emise) nových akcií v celkové částce, ke které se společníci zavázali
+353 419 ID
+zúčtování jistiny 379 353. ID
+splácení akcií autem 022 353 ID
+splácení do pokladny 211 353. PPD
+zápis do OR 419 411 ID
+o | nepeněžité vklady do společnosti jsou oceňovány v reprodukční pořizovací ceně stanovené soudním
+znalcem
+o při zvyšování ZK může vzniknout emisní ážio — rozdíl mezi emisním kurzem (např. prodejní cena) a
+jmenovitou hodnotou akcií (1 000 Kč a násobky)
+o emisní ážio se zachycuje na účtu 412 — Emisní ážio (RP)
+= tvoří vlastní zdroje krytí majetku
+u | může zůstat na účtu 412 nebo s ním a. s. může naložit dle vlastního uvážení (např. v budoucnu
+zvýšit ZK)
+o  emisním ážiem se společnost brání ředění kapitálu
+o opakem emisního ážia je emisní disážio
+o účtování
+emise akcií
+nominální hodnota - 419 ID
+emisní ážio - 412
+tržní hodnota 353 -
+úhrada (trž. hodn.) 221.. 353. VBŮ
+e © vydáním dluhopisů vyměnitelných za akcie
+o účtování
+emise dluhopisů 375 241 (473)ID
+prodej dluhopisů 221 375 VBŮ
+úrok 562 379 ID
+výměna dluh. za akc. 241 (473) - ID
+úrok 379 -
+změna ZK - 419
+zápis do OR 419 411 ID
+s z vlastních zdrojů
+e © musíbýt schváleno valnou hromadou
+e © auditor musí účetní závěrku schválit s výrokem bez výhrad
+e © zvýšení ZK může být provedeno
+o vydáním nových akcií a jejich bezplatným rozdělením mezi akcionáře
+o zvýšením jmenovité hodnoty dosavadních akcií
+e © ve společnosti, která zvyšuje ZK z vlastních zdrojů, se výše vlastního kapitálu nemění, ale mění se jen
+struktura vlastních zdrojů
+= kombinovaným způsobem
+o | snížení
+
+= ZK nemůže být snížen pod zákonem stanovenou minimální hranici (2 nebo 20 milionů)
+= osnížení ZK rozhoduje valná hromada
+s kesnížení ZK dochází
+

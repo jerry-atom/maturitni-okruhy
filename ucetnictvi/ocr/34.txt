@@ -1,0 +1,88 @@
+o | účtování — ztráta
+
+ztráta k prvnímu dni období 431 701 ID
+úhrada ztráty ze zákonného fondu 421 431 ID
+úhrada ztráty — nerozdělený zisk 428 431 ID
+úhrada ztráty společníky 354 431 ID
+zbytek ztráty neuhrazen 429 431 ID
+
+e | rezervy
+
+5. Účtování cizích zdrojů
+
+o — cizí zdroj krytí majetku
+o | skupina 45
+= © 451 — Rezervy podle zvláštních právních předpisů
+= © 453 — Rezerva na daň z příjmů
+= | 459— Ostatní rezervy
+o © tvorba rezerv se účtuje do nákladů
+= © 55S2— Tvorba a zúčtování zákonných rezerv — daňově účinný N
+u 554— Tvorba a zúčtování ostatních rezerv — daňově neúčinný N
+
+provozní náklady
+
+"© S74— Tvorba a zúčtování finančních rezerv — daňově neúčinný N
+
+finanční náklady
+
+= © S84— Tvorba a zůčtování mimořádných rezerv — daňově neúčinný N
+
+mimořádné náklady
+
+o © členění rezerv
+=- zákonné
+
+podnikatelská rezerva, daň z příjmů, záruční opravy
+
+nejčastější případ — rezerva na opravy hmotného majetku a rezervy bankovnictví
+
+ÚJ může tvořit rezervu na opravy hmotného majetku podle zákona za podmínek
+o © pokud je vlastníkem příslušného hmotného majetku
+o © pokud je rezerva tvořena na opravu hmotného majetku (ne na technické zhodnocení nebo údržbu)
+o © pokud je doba odepisování 5 a více let (od 2. odpisové skupiny)
+
+zákon také stanovuje minimální a maximální dobu tvorby rezerv
+
+rezervy se tvoří každoročně, více než 1 období, netvoří se v roce čerpání rezervy
+
+na konci roku se rezervy podléhají inventarizaci
+
+účtování
+2012 — tvorba zák. rezervy 552 451 ID
+2013 — tvorba zák. rezervy 552 451 ID
+FAP za opravu S11 321 FAP
+zúčtování rezervy 451 552 ID
+
+u | ostatní rezervy
+
+jejich tvorba upravena vnitropodnikovou směrnicí
+daňově neúčinné (nejsou zohledněny při výpočtu základu DaP)
+účtování — tvorba rezervy na daň z příjmů
+
+2012-tvorba rezervy 500 Kč 591 459 ID
+zaplacené zálohy 400 Kč 341.. 221. VBŮ
+celková daň 515 Kč 591 341 ID
+použití rezervy 500 Kč 459 591 ID
+doplatek daně 115 Kč 341.. 221. VBŮ
+
+o | viz otázka Casové rozlišení
+
+e | závazky
+
+o | vůči dodavatelům - vyplývají z obchodního styku při prodeji na FAP
+= | účtování
+
+FAP za zboží 20 000 Kč 131 321 FAP
+DPH 20 % 4 000 Kč 343 321
+
+příjem zboží na sklad 20 000 Kč 132 131 příjemka
+úhrada FAP 24 000 Kč 321 221 VBŮ
+
+o — vůči zaměstnancům
+
+závazky vyplývající z pracovně právních vztahů k zaměstnancům
+účtují se zpravidla měsíčně na základě zúčtovací výplatní listiny
+viz otázka Evidence práce a mezd
+
+účtování
+

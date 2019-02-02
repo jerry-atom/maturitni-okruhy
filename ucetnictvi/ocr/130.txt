@@ -1,0 +1,78 @@
+P
+
+7. Účetní uzávěrka při individuálním podnikání a při daňové evidenci
+e © schéma výpočtu daně z příjmů fyzických osob
+
+Účetní výsledek hospodaření /UCE/
+
++ Náklady nad rámec daňových předpisů - daňově neúčinné náklady (účty 526, 513, 545,...)
+- Výnosy nad rámec daňových předpisů (účet 662)
+
+Rozdíl příjmy — výdaje /DE/
+
++ Položky zvyšující rozdíl mezi příjmy a výdaji (např. čerpání rezerv)
+
+- Položky snižující rozdíl mezi příjmy a výdaji (např. odpisy)
+
+Dilčí základ daně podle 8 7 zákona o daních z příjmu
+
+Zdanitelné příjmy podle $ 6 zákona o daních z příjmu
+
++ Pojistné na SP a ZP hrazené zaměstnavatelem (* 0,34)
+
+Dílčí základ daně podle $ 6 zákona o daních z příjmů
+
+Příjmy z kapitálového majetku dle $ 8 zákona o daních z příjmů (úroky z účtu)
+
+ 
+
+Příjmy zpronájmo podle $$
+Výdaje z pronájmu podle $ 9 (mohou být uplatňovány ve skutečné výši nebo % (paušálem))
+Dilčí základ daně podle 8 9 zákona o daních z příjmů
+
+ 
+
+KOD Z v L
+UJStatilí DLÍJITY 7 V LU
+
+- Výdaje podle $ 10
+
+ 
+
+Dílčí základ daně podle 8 10 zákona o daních z příjmů
+Součet dílčích základů daně
+
+8 IS zákona:
+
+dar (provádí se test daru — u FO — max 10 % ze ZD, min 1 000 Kč, dobročinné účely
+
+úroky z hypotečních úvěrů (do 300 000 Kč)
+
+příspěvky na životní pojištění (do 12 000 Kč)
+
+příspěvky na penzijní připojištění — zaplacená částka se sníží o 6 000 Kč, maximálně si však můžeme uplatnit 12 000 Kč
+o — příspěvky odborové organizaci
+
+Celkem $ 15
+
+O O O0 0
+
+Součet dílčích základů daně po odečtu 8 15 (zaokrouhluje se na 100 Kč dolů)
+
+Vypočtená daň dle $ 16 zákona o daních z příjmů (rok 2012 — 15 %)
+
+Sleva na dani - $ 35 ba (sleva na poplatníka, invaliditu, studenta, manželku — příjem do 68 000 Kč)
+Daň po slevě před daňovým zvýhodněním na děti (pokud vyjde záporné číslo, píšeme 0)
+
+Daňové zvýhodnění na děti - $ 35 c (sleva na děti)
+
+Celková daň za r. 2012
+
+Zaměstnavatelem sražené zálohy na daň ze závislé činnosti
+Ostatní zálohy uhrazené v r. 2012
+
+Celkové zúčtování (přeplatek nebo nedoplatek)
+
+Zaměstnavatelem sražené zálohy na daň ze závislé činnosti
+Octatní zálahvyv nhrazené v r 201)
+

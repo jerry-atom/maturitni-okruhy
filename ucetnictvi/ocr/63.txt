@@ -1,0 +1,54 @@
+=. Vrozvaze se pak uvádí pasivní zůstatek na straně pasiv jako krátkodobý úvěr
+o devizový účet
+= devizy — bezhotovostní peněžní prostředky v cizí měně
+"tyto peněžní prostředky však musí být přepočítávány do české měny pohyblivým
+kurzem ČNB nebo pevným kurzem ÚJ (stanoveno
+ve vnitropodnikové směrnici)
+o. ferminované vklady
+= s výpovědní Ihůtou do jednoho roku
+= pokud je limit jednoho roku překročen, účtují se ve skupině 06 — dlouhodobý finanční
+majetek
+o na BŮ se evidují také vkladové listy (druh cenných papírů) do jednoho roku
+
+V případě, že má podnik více bankovních účtů, zavádí se analytická evidence
+při chybě na bankovním účtu se souvztažně účtuje na účtech 378 — Jiné pohledávky nebo 379 — Jiné
+závazky (podle povahy) a po opravě v dalším výpisu se z těchto účtů chybné částky odepíší
+pro překlenutí časového nesouladu mezi vyhotovením dokladů se používá účet
+261 — Peníze na cestě
+o  ubankovních účtů se používá v případech
+= odvodu nadlimitu z pokladny
+= při převodu peněž mezi dvěma bankovními účty u různých bank
+= při převodu peněž mezi bankovním a úvěrovým účtem
+
+účtování
+úhrada odběratelské faktury 10000Kč © 221. 311. VBŮ
+úhrada dodavatelské faktury 12000Kč © 321. 221. VBŮ
+bankovní poplatky 1000Kč © 568 221. VBŮ
+úroky z účtu 2000Kč 221. 662  VBÚ
+úroky z úvěru 8000Kč © 562 221. VBŮ
+výplata mezd 80000Kč © 331. 221. VBŮ
+odvod nadlimitu z pokladny 10000Kč © 261.. 211.1 VPD
+odvod nadlimitu z pokladny 10000Kč © 221. 261. VBÚŮ
+poskytnutí dlouhodobého úvěru 60000Kč © 221. 261. VBŮ
+poskytnutí dlouhodobého úvěru 60000Kč © 261. 461.. VŮÚ
+
+6. Krátkodobý finanční majetek
+
+účtová skupina 25
+majetkové, dlužné a ostatní cenné papíry s předpokládanou dobou držení do 1 roku
+peníze lze investovat různými způsoby (za předpokladu, že jeho cena poroste) např. do CP (nákup
+akcií, obligací,...)
+zisk z cenných papírů může mít podobu
+o dividendy, podílu na zisku — zejména dlouhodobý finanční majetek — 0. třída
+o zisku v případě prodeje CP — zejména 2. účtová třída
+o úroku — u dluhových cenných papírů
+
+ocenění cenných papírů
+o  kokamžiku pořízení
+= pořizovací cenou (cena pořízení + vedlejší pořizovací náklady — např. provize a
+poplatky)
+= všechny složky PC jsou zachyceny na kalkulačním účtu 259 — Pořizování
+krátkodobého finančního majetku
+o ke konci rozvahového dne
+= reálnou hodnotou
+

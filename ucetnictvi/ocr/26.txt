@@ -1,0 +1,76 @@
+= skupina 24 - Krátkodobé finanční výpomoci
+e © emitované krátkodobé dluhopisy — 241
+e | ostatní krátkodobé finanční výpomoci — 249
+= skupina 25 — Krátkodobé cenné papíry a podíly a pořizovaný krátkodobý finanční majetek
+e © majetkové cenné papíry k obchodování — 251
+vlastní akcie a vlastní obchodní podíly — 252
+dluhové cenné papíry k obchodování — 253
+vlastní dluhopisy — 255
+dluhové cenné papíry se splatností do jednoho roku držené do splatnosti — 256
+ostatní cenné papíry — 257
+e | pořizování krátkodobého finančního majetku — 259
+= skupina 26 — Převody mezi finančními účty
+e | peníze na cestě — 261
+= skupina 29 — Opravné položky ke krátkodobému finančnímu majetku
+© | opravná položka ke krátkodobému finančnímu majetku — 291
+
+o © pohledávky
+= vůči firmám (P- sk. 31, Z— sk. 32)
+= vůči zaměstnancům (sk. 33)
+s | vůči institucím SP a ZP (účet 336)
+= | vůči společníkům nebo členům družstva (P — sk. 35, Z— sk. 36)
+s | vůči finančnímu úřadu (sk. 34 a 37)
+
+4) Oceňování majetku
+
+různé druhy oceňování vyplývají ze zákona o účetnictví
+pořizovací cena
+
+o | používá se při klasicky nakupovaném majetku (např. na fakturu, hotově)
+
+o | skládá se z ceny pořízení (cena majetku) a vedlejších pořizovacích nákladů (doprava, pojištění, provize,...)
+reprodukční pořizovací cena
+
+o | stanovuje ji soudní znalec na základě znaleckého posudku
+
+o | používá se v případě vložení staršího majetku do společnosti nebo při darování majetku
+vlastní náklady
+
+o © firmasi cenu majetku počítá sama
+
+o © používá se, když si firma majetek vyrábí sama
+nominální hodnota
+
+o | používá se při ocenění peněz nebo cenin
+
+o | cena, která je na bankovkách (ceninách) vytištěna
+zůstatková cena
+
+o — zjišťuje se při výpočtu odpisů
+
+o | vypočítá se jako vstupní cena — oprávky (souhrn všech odpisů)
+
+o © za zůstatkovou cenu může firma majetek vyřadit z obchodního majetku firmy, prodat nebo darovat
+reálná hodnota
+
+o © vzniká u cenných papírů
+
+o | hodnota CP v daný okamžik na peněžním trhu
+
+o © viz. otázka Cenné papíry
+
+S) Aktiva ve výkazu Rozvaha
+
+výkaz Rozvaha představuje přehled jednotlivých aktiv a pasiv
+na straně aktiv se hodnotové údaje zapisují do čtyř sloupců
+o | sloupec 1 (brutto)
+s | hrubý stav aktiv v původních pořizovacích cenách (nesnížené o oprávky)
+o | sloupec 2 (korekce)
+= hodnota oprávek (sk. 07, 08) a opravných položek (u DM, zásob, pohledávek)
+= | uvádí se se znaménkem mínus
+o | sloupec 3 (netto)
+u | Čistý stav (hrubá aktiva snížená o oprávky a opravné položky)
+= | vyjadřuje reálnou hodnotu aktiv
+o sloupec 4
+= | obsahuje netto stavy z rozvahy z předcházejícího účetního období
+

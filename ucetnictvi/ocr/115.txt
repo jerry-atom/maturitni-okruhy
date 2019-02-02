@@ -1,0 +1,84 @@
+e | výpočet základu daně
+o | rozdíl daňových příjmů a výdajů v peněžním deníku (sloupec 7 — 8) musí být upraven o nepeněžní operace na
+straně příjmů 1 výdajů dle zákona o dani z příjmů
+o | nepeněžitými operacemi se rozumí skutečnosti, které ovlivní základ daně, ale nevyvolají pohyb peněz
+= | příklad příjmových nepeněžních operací (+)
+e | Čerpání rezerv
+= | příklady výdajových nepeněžních operací (-)
+e roční odpisy DM
+e | zůstatková cena vyřazeného DM
+© © poměrná část nájemného z finančního leasingu
+e © tvorba rezerv
+= | plně v kompetenci podnikatele je rozhodnutí, jestli tyto operace doplní do deníku příjmů a výdajů na
+konci roku nebo o ně upraví základ daně v rámci daňového přiznání
+o | schéma výpočtu daně
+
+Výpočet daně z příjmu fyzických osob
+
+Účetní výsledek hospodaření /UCE/
+
++ Náklady nad rámec daňových předpisů - daňově neúčinné náklady (účty 526, 513, 545,...)
+- Výnosy nad rámec daňových předpisů (účet 662)
+
+Rozdíl příjmy — výdaje /DE/
+
++ Položky zvyšující rozdíl mezi příjmy a výdaji (např. čerpání rezerv)
+
+- Položky snižující rozdíl mezi příjmy a výdaji (např. odpisy)
+
+Dílčí základ daně podle 8 7 zákona o daních z příjmu
+
+Zdanitelné příjmy podle 8 6 zákona o daních z příjmu
+
++ Pojistné na SP a ZP hrazené zaměstnavatelem (* 0,34)
+
+Dílčí základ daně podle $ 6 zákona o daních z příjmů
+
+Příjmy z kapitálového majetku dle $ 8 zákona o daních z příjmů (úroky z účtu)
+
+ 
+
+Příjmy z pronájmopodte $9
+Výdaje z pronájmu podle $ 9 (mohou být uplatňovány ve skutečné výši nebo % (paušálem))
+Dilčí základ daně podle 8 9 zákona o daních z příjmů
+
+ 
+
+Ostatní příjmy =$10
+- Výdaje podle $ 10
+Dílčí základ daně podle 8 10 zákona o daních z příjmů
+
+Součet dílčích základů daně
+
+S IS zákona:
+
+dar (provádí se test daru — u FO — max 10 % ze ZD, min 1 000 Kč, dobročinné účely
+
+úroky z hypotečních úvěrů (do 300 000 Kč)
+
+příspěvky na životní pojištění (do 12 000 Kč)
+
+příspěvky na penzijní připojištění — zaplacená částka se sníží o 6 000 Kč, maximálně si však můžeme uplatnit 12 000 Kč
+příspěvky odborové organizaci
+
+O O O O0 0
+
+Celkem $ 15
+
+Součet dílčích základů daně po odečtu 8 15 (zaokrouhluje se na 100 Kč dolů)
+
+Vypočtená daň dle $ 16 zákona o daních z příjmů (rok 2012 — 15 %)
+
+Sleva na dani - $ 35 ba (sleva na poplatníka, invaliditu, studenta, manželku — příjem do 68 000 Kč)
+Daň po slevě před daňovým zvýhodněním na děti (pokud vyjde záporné číslo, píšeme 0)
+
+Daňové zvýhodnění na děti - $ 35 c (sleva na děti)
+
+Celková daň za r. 2012
+
+Zaměstnavatelem sražené zálohy na daň ze závislé činnosti
+
+Ostatní zálohy uhrazené v r. 2012
+
+Celkové zúčtování (přeplatek nebo nedoplatek)
+

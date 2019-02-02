@@ -1,0 +1,85 @@
+DMWRPUVT
+
+5. MAJETEK A JEHO VYJÁDŘENÍ V ROZVAZE
+
+majetek a jeho zachycení v účetnictví
+
+dvojí pohled na majetek z hlediska účetnictví
+podrobné členění majetku
+
+oceňování majetku
+
+aktiva ve výkazu Rozvaha
+
+účtování jednotlivých aktiv
+
+1) Majetek a jeho zachycení v účetnictví
+
+majetek (neboli aktivum firmy) se zachycuje v 0. až 3. účtové třídě
+
+dlouhodobý majetek
+o © nehmotný — zachycuje se ve skupině 01
+o | hmotný
+
+= | odepisovaný — zachycuje se ve skupině 02
+s | neodepisovaný — zachycuje se ve skupině 03
+o | finanční
+= © zachycuje se ve skupině 06
+o © ve skupině 04 se zachycují veškeré pořízení dlouhodobého majetku
+= | 041 — Pořízení dlouhodobého nehmotného majetku
+u 042- Pořízení dlouhodobého hmotného majetku
+u 043 — Pořízení dlouhodobého finančního majetku
+o — veskupině 05 se zachycují veškeré zálohy poskytnuté na dlouhodobý majetek
+s © 051 — Poskytnuté zálohy na dlouhodobý nehmotný majetek
+= 052- Poskytnuté zálohy na dlouhodobý hmotný majetek
+= © 053— Poskytnuté zálohy na dlouhodobý finanční majetek
+o © ve skupině 07 se zachycují oprávky k dlouhodobému nehmotnému majetku
+ve skupině 08 se zachycují oprávky k dlouhodobému hmotnému majetku
+o © ve skupině 09 se zachycují oprávky k dlouhodobému majetku
+= © patří sem oprávky k finančnímu majetku a oprávky ostatnímu DM
+oběžný majetek (zásoby)
+o | zásoby — zachycují se v 1. účtové třídě
+o — finanční oběžný majetek — zachycuje se v 2. účtové třídě
+o | pohledávky — zachycují se ve 3. účtové třídě
+
+O
+
+2) Dvojí pohled na majetek z hlediska účetnictví
+složení majetku
+
+o — jaké má firma druhy majetku
+
+o © představuje aktiva firmy
+
+zdroje krytí majetku
+
+o | zjakých zdrojů firma majetek pořídila
+o | představují pastva
+
+aktiva se vždy musí rovnat pasivům
+
+3) Podrobné členění majetku
+dlouhodobý majetek
+
+o | hmotný- dělí se na movitý a nemovitý (pozemek, budova nebo stavba spojená
+pevným základem se zemí), odepisuje se účetními i daňovými odpisy, skupina 02 a 03
+Pozemky (bez ohledu na PC, neodepisuje se) - 031, budovy a stavby - 021
+Umělecká díla, sbírky a předměty z drahých kovů (bez ohledu na PC, neodepisují se) - 032
+Samostatné movité věci - 022
+Pěstitelské celky trvalých porostů - 025
+Základní stádo a tažná zvířata - 026
+Drobný hmotný majetek do ceny stanovené ÚJ — účtuje do nákladů — účet 501
+na účet 029 — Jiný dlouhodobý hmotný majetek
+e © účtujeme tehdy, když majetek nelze zařadit do předchozích účtů
+e © příklad - technické zhodnocení majetku, pokud nezvyšuje jeho pořizovací cenu (technického
+zhodnocení na pronajatém majetku)
+o © nehmotný — odepisuje se účetními i daňovými odpisy, skupina 01
+u Zřizovací výdaje - 011
+e © výdaje spojená se založením firmy, soudní, notářské poplatky, náklady na pracovní cesty, mzdy,odměny
+= Nehmotné výsledky výzkumné a odborné činnosti - 012
+e © technologické postupy, projekty, receptury
+= Software - 013
+e © nakoupené nebo vytvořené programové vybavení počítačů
+
+1
+

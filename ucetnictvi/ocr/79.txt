@@ -1,0 +1,102 @@
+SBRBPVT
+
+14. ZÚČTOVACÍ VZTAHY — POHLEDÁVKY
+
+pojem zůčtovací vztahy
+
+druhy pohledávek
+
+evidence pohledávek
+
+inventarizace pohledávek
+
+opravné položky k pohledávkám a odpis pohledávek
+
+1. Pojem zúčtovací vztahy
+
+dodavatelsko-odběratelské vztahy, vztahy k zaměstnancům, finančnímu úřadu, institucím SP a ZP, které vznikají
+prodejem na fakturu
+jsou upraveny
+
+o © zákonem o účetnictví
+
+o | zákonem o rezervách
+
+o | českými účetními standardy
+závazky
+
+o © povinnost ÚJ uhradit nebo dodat zboží, poskytnout službu nebo jiné plnění svým odběratelům
+
+o | krátkodobé — do I roku — 3. účtová třída
+
+o | dlouhodobé — nad 1 rok— 4. účtová třída — skupina 47 — Dlouhodobé závazky
+pohledávky
+
+o — nárok ÚJ na úhradu peněžní částky od dlužníka
+
+o | 3.účtová třída — krátkodobé i dlouhodobé
+
+o | rozhodnutí o krátkodobosti a dlouhodobosti se provádí v okamžiku vzniku pohledávky
+
+o | výjimky tvoří zálohy na DM (skupina 05) a zálohy na zásoby (účty 151 nebo 153)
+podstatou vzniku pohledávek a závazků je časový nesoulad mezi okamžikem provedení výkonů (dodávky výrobků,
+poskytnutí služeb) a okamžikem úhrady
+saldokonto
+
+o © ÚJ musí evidovat pohledávky a závazky
+
+o | ukaždého dlužníka nebo věřitele si vede analytickou evidenci — konto
+
+o | zůstatek analytického účtu — saldo
+
+o | soubor těchto analytických účtů se tedy nazývá saldokonto
+nelze provádět kompenzaci (vyrovnání) pohledávek a závazků (výjimka je mezi stejnými subjekty)
+u pohledávek a závazků se musí správně určit den uskutečnění účetního případu
+doba splatnosti pohledávek a závazků není řešena právními předpisy, proto je nutná její úprava ve smlouvě
+při nedodržení doby splatnosti vzniká dodavateli na základě penalizační faktury nárok na úrok z prodlení
+pohledávky a závazky může ÚJ mít
+
+o — vůči firmám (P— sk. 31, Z— sk. 32)
+
+o © vůči zaměstnancům (sk. 33)
+
+o © vůči institucím SP a ZP (účet 336)
+
+o © vůči společníkům nebo členům družstva (P — sk. 35, Z— sk. 36)
+
+o — vůči finančnímu úřadu (sk. 34 a 37)
+
+2. Druhy pohledávek
+
+za odběrateli
+
+o | vyplývají z obchodního styku při prodeji na fakturu vystavenou
+= | účtování
+
+FAV za zboží 20 000 Kč 311 604 FAV
+DPH 20% 4 000 Kč 311 343
+úhrada FAV 24 000 Kč 221 311 VBU
+
+o | dodavatel může od odběratele vyžadovat poskytnutí zálohy (na nákup speciálních surovin, materiálu,...) a tím
+vzniká odběrateli pohledávka
+
+= © poskytnuté zálohy může ÚJ mít
+e naDM-sk.05
+
+na materiál — účet 151
+
+na zboží — účet 153
+
+zaměstnancům — účet 335
+
+ostatní — účet 314 — Poskytnuté provozní zálohy (RA)
+
+= v případě, že je záloha poskytnuta a zúčtována ve stejném období, daňový doklad se neúčtuje
+e © účtování
+
+poskytnuta záloha 10 000 Kč 314.. 221. VBŮ
+FAP za služby 20 000 Kč 518. 321. FAV
+DPH 20 % 4 000 Kč 343 321
+
+l
+

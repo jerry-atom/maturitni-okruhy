@@ -1,0 +1,172 @@
+rozvaha
+
+O
+o
+
+sestavuje se v plném nebo zjednodušeném rozsahu
+
+stavová veličina
+
+znázorňuje majetek k určitému datu
+
+základní struktura rozvahy (ve zjednodušeném rozsahu)
+AKTIVA
+
+DannnnwwwWwow>
+
+I.
+I
+
+„JIL
+
+I.
+NN
+
+„.
+IV.
+
+Pohledávka za upsaný ZK
+Dlouhodobý majetek
+Dlouhodobý nehmotný majetek
+
+A.
+
+A.IL
+
+Dlouhodobý hmotný majetek
+Dlouhodobý finanční majetek
+
+Oběžná aktiva
+Zásoby
+
+Dlouhodobé pohledávky
+Krátkodobé pohledávky
+
+Krátkodobý finanční majetek
+
+Casové rozlišení
+
+dlouhodobý majetek
+
+o
+u
+
+ 
+
+B. II.
+
+/
+
+PASIVA
+
+Vlastní kapitál
+
+A.I. — Základní kapitál
+
+Kapitálové fondy
+
+A.III. Rezervní fondy, nedělitelný fond a
+ostatní fondy ze zisku
+
+A. IV. Výsledek hospodaření minulých let
+A.V. © Výsledek hospodaření běžného
+účetního období
+
+Cizí zdroje
+
+B.L Rezervy
+
+Dlouhodobé závazky
+
+B. III. Krátkodobé závazky
+
+B. IV. Bankovní úvěry a výpomoci
+C. Časové rozlišení
+
+6) Učtování jednotlivých aktiv
+
+042 - FAP
+343 -
+
+- 321
+022 042. ID
+321 221 VBŮ
+042 321 FAP
+
+349 343 DD
+343 349 DD
+
+042 | 379. JSD
+022. 042. ID
+321 221 VBŮ
+379. 221 VBŮ
+
+5xX růz.úč ID
+042 624 ID
+022 042 ID
+
+022 082
+031 413
+
+ID
+ID
+022 413 ID
+ID
+ID
+
+022 | 411
+022 | 411
+052 221 VBÚ
+343. 052 | DD
+042 - FAP
+343 -
+- 321
+- 052 © ID
+- 343
+321 -
+321. 221 VBÚ
+
+hmotný
+nákup na fakturu z ČR
+FAP za auto 200 000 Kč
+DPH 20% 40 000 Kč
+celkem 240 000 Kč
+zařazení auta 200 000 Kč
+zaplacena FAP 240 000 Kč
+nákup na fakturu ze zahraničí
+FAP za auto 200 000 Kč
+DPH výstup 40 000 Kč
+DPH vstup 40 000 Kč
+clo 20 000 Kč
+zařazení 220 000 Kč
+FAP zaplac. 240 000 Kč
+zapl. clo 20 000 Kč
+pořízení ve vlastní režii
+N na výr. skříně 20000 Kč
+aktivace 20 000 Kč
+zařazení 20 000 Kč
+nalezení
+e © př. při novém vyměřování zjištěn nový pozemek
+odepisovaný 10 000 Kč
+neodepisovaný 10 000 Kč
+darování
+dar auta 100 000 Kč
+vklad do firmy
+vklad auta 150 000 Kč
+vklad společníků do firmy
+vklad auta 150 000 Kč
+zálohy
+poskytnuta záloha 10000 Kč
+přijat DD 20% 1 667 Kč
+FAP 20 000 Kč
+DPH 20% 4 000 Kč
+celkem 24 000 Kč
+zůčtování bez DPH 8 333 Kč
+odečet DPH 20% 1 667 Kč
+odečet celkem 10 000 Kč
+úhrada FAP 14 000 Kč
+odpisy
+odpis auta 10 000 Kč
+
+551 082 ID
+

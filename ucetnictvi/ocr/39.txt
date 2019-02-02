@@ -1,0 +1,147 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+datum změna u šrná jednolka k 9) Cena/MJ F ; Kč 7
+příjmy | výdaje | zásoby příjmy | výdaje zásoba
+1.5. PZ 400 30 12 000
+9. 9. nákup 200 600 291 3800 17 800
+12.5.. | nákup 600 1200 28| 16 800 34 600
+18.5. |výdej 900 700 28,8 14 400 20 200
+24.5.  |nákup |300 kg 1 000 30| 9000 29 200
+27.5.. |výdej 700 300 29,2 20 440 8 760
+18.5.= 34600 Kč /1 200 kg = 28,8 Kč/MJ
+= vážený aritmetický průměr periodický
+e | průměrná cena se nezjišťuje pro každý výdej, ale stanoví se průměrná cena, která
+platí pro určité období (zpravidla 1 měsíc)
+e | průměrná cena se zjišťuje vždy z předchozího období
+e | výpočet průměrné ceny
+PZ MNS v Kč + Y přírůstků v Kč
+PZ MNS v MJ + Y přírůstků v MJ
+e | př. Průměrná cena pro květen byla 27 Kč. Stanovte cenu pro červen.
+datum | změna „měrná jednotka (kg) Cena/MJ ma = Kč ;
+příjmy | výdaje | zásoby příjmy | výdaje | zásoba
+1.5. PZ 400 30 12 000
+9. 9. nákup 200 600 29 o 800 17 800
+12.5. |nákup 600 1 200 28 16 800 34 600
+18.5.  |výdej 900 700 27 13 500| 21100
+24.5.  |nákup 300 1 000 30 9 000 30 100
+27.5.. |výdej 700 300 20 18 900| 11200
+1100 31 600
+e | průměrná cena pro červen
+12 000 + 31 600
+400 + 1100
+9 | Způsoby účtování zásob
+e způsob A
+e způsob B
+
+V momentě výdeje
+používá se účet pořízení (111)
+pořízení z tuzemska
+FAP za materiál
+DPH 20 %
+celkem
+doprava vlastním autem
+pojištění zásilky
+provize za zprostředkování
+
+10 Způsob A
+
+v průběhu roku se zásoby účtují na příslušný rozvahový účet (112) a do nákladů se dostává až
+
+10000Kč | Ill FAP
+2000Kč | 343 (111-nepl.)
+
+12 000 Kč 321
+
+2000 Kč 111. 622 ID
+
+4 000 Kč 111 379 ID
+4000Kč 111.211. VPD
+
+3
+

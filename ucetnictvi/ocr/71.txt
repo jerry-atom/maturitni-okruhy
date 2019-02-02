@@ -1,0 +1,70 @@
+3. Učtování cenných papírů
+
+e © majetkové cenné papíry
+
+o nákup CP
+= účtování
+nákup akcií 10000Kč | 259 (043) 379. FAP
+provize 2000Kč © 259(043) 221. VBŮ
+zařazení 12000Kč © 251 (061,2,3) 259 (043) ID
+o  úpis CP
+= | společník upsal vklad
+e účtování
+úhrada jistiny 211 (221). 379 PPD, VBŮ
+upsání (emise) nových akcií v celkové částce, ke které se společníci zavázali
+353. 419 ID
+zůčtování jistiny 379.. 353. ID
+splácení akcií autem 022 353. ID
+splácení do pokladny 211.353. PPD
+zápis do OR 419.411 ID
+
+ÚJ nakupuje dlouhodobé CP u společnosti, která navyšuje svůj ZK
+e účtování
+
+upsání vkladů podrozvahová evidence ID
+splacení vkladů 378 | majetkové účty (např. VBÚ)
+zápis do OR 06x | 367 ID
+
+zůčtování 367.. 378 ID
+
+případné další splácení 367 | 221 VBŮ
+
+o výnosy z držení majetkových CP
+
+mají podobu podílů na zisku (dividend)
+
+dividendy jsou zdaňovány srážkovou daní (2012 — 15 %)
+
+daň sráží společnost, která dividendy vyplácí, takže příjemce dostane již čistý zisk
+tento výnos nezvyšuje základ daně z příjmů (nedaňový výnos)
+používají se účty
+
+e 665— Výnosy z dlouhodobého finančního majetku
+
+e 666— Výnosy z krátkodobého finančního majetku
+
+účtování
+
+přijaté čisté dividendy 50000Kč © 221. 665 (666) VBŮ
+
+o prodej a vyřazení majetkových cenných papírů
+
+účet 661 — Tržby z prodeje cenných papírů a podílů
+účet 561 — Prodané cenné papíry a podíly
+porovnáním těchto účtů ÚJ zjistí, jestli na obchodu vydělala nebo prodělala
+účtování
+tržby z prodeje CP (prod. cena) 20000Kč | 378. 661.. FAV
+vyřazení prodaných CP (poř. cena) 15000Kč © 561 251 ID
+
+e | dluhové cenné papíry
+o představují majetek vlastníka dluhopisů a závazek emitenta
+o | majitel dluhopisů
+
+určuje, jestli se jedná o dlouhodobé nebo krátkodobé dluhopisy a jestli je hodlá držet do
+splatnosti nebo ne
+
+výnos z držení dluhopisů má podobu úroků, které se v případě potřeby musí časově
+rozlišovat
+
+o | emitent dluhopisů
+

@@ -1,0 +1,54 @@
+7, NAKUPOVANÉ ZASOBY
+zásoby a jejich členění
+zachycení zásob v účetnictví
+ocenění zásob
+způsoby účtování zásob
+způsob A
+způsob B
+evidence zásob
+
+JDA RUN
+
+1. Zásoby a jejich členění
+
+e © Materiálové zásoby — skupina 11 (především účet 112)
+o suroviny (základní materiál) — hmoty, které přecházejí při výrobní činnosti zcela nebo z části od
+výrobku a tvoří jeho podstatu
+o | pomocné látky — hmoty, které přecházejí také přímo do výrobku, netvoří však jeho podstatu (př.
+nitě v oděvech)
+o | provozovací látky — hmoty, které jsou nezbytné pro provoz podniku jako celku (př. paliva,
+mazadla, čisticí prostředky)
+o náhradní díly — předměty určené k uvedení hmotného majetku do původního stavu (př. blatníky
+u auta)
+o obaly — slouží k ochraně a dopravě nakoupeného materiálu, zboží a vlastností výrobků
+= vratné (v případě, že jejich cena přesáhne cenu stanovenou účetní jednotkou, eviduje
+se jako dlouhodobý majetek)
+= nevratné — dodány zákazníkovi společně s výrobkem
+e © zásoby vlastní výroby — skupina 12
+o nedokončená výroba — účet 121
+= produkty, které již prošly některými výrobními operacemy1, takže již nejsou
+materiálem, ale ještě nejsou hotovým výrobkem
+o polotovary vlastní výroby — účet 122
+= produkty, které ještě neprošly všemi výrobními operacemi a musí být proto
+dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu
+= odděleně skladované a evidované
+o výrobky — účet 123
+= produkty, které už prošly všemi výrobními operacemi 1 výstupní technickou
+kontrolou, takže už mohou být předmětem prodeje
+e  zvířata— účet 124
+o | mladá zvířata, zvířata ve výkrmu, ryby, kožešinová zvířata, včelstvo, hejna slepic, kachen,
+perhček
+e © zboží — skupina 13 (především účet 132)
+o všechny statky a služby, které podnik nakupuje za účelem dalšího prodeje
+o © mohou to být i výrobky vlastní výroby, jestliže jsou prodávány ve vlastních prodejnách
+
+2. Zachycení zásob v účetnictví
+
+e © zásoby se zahrnují do aktiv a zachycují se v účtové třídě 1
+e | materiálové zásoby se účtují ve skupině 11
+e © zásoby vlastní výroby a zvířata se účtují ve skupině 12
+e | zboží se účtuje ve skupině 13
+e | při pořízení zásob se používají účty pořízení
+o účet 111 — pořízení materiálu
+o účet 131 — pořízení zboží
+

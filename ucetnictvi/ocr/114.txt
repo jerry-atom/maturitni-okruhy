@@ -1,0 +1,161 @@
+e | zaznamenávání DPH
+o. rozlišuje se zapisování DPH
+s u neplátců — DPH se stává automaticky součástí celkové účtované částky bez nutnosti jejího rozlišení
+v deníku příjmů a výdajů
+s u plátců — DPH se v peněžním deníku zachycuje do sloupců 9 nebo 10 jako nedaňové příjmy nebo
+výdaje (podle povahy)
+o © o DPH se proto musí vést evidence v pomocné knize (kniha evidence DPH)
+o | konečný zůstatek DPH (nadměrný odpočet / daňová povinnost) se zjistí jako DPH z uskutečněných zdanitelných
+plnění — DPH z přijatých ZP
+o | ukázka knihy evidence DPH
+Uskutečněná ZP s místem plnění v tuzemsku (ZS)
+
+ 
+
+P. č. Doklad Velikost plnění DPH — 20 % Poznámka
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Přijatá ZP s místem plnění v tuzemsku (ZS) — plný nárok
+
+ 
+
+P. č. Doklad Velikost plnění DPH 20 % Poznámka
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+kniha pohledávek a závazků
+
+o | slouží podnikateli, aby měl přehled o tom, kdo a kolik dluží jemu a komu a kolik dluží on
+
+o © vrámci knih pohledávek a závazků se rozlišují knihy přijatých a vydaných faktur
+
+o © na tuto knihu jsou kladeny největší nároky, a proto tato kniha musí obsahovat tyto informace
+
+= © oddělené sledování jednotlivých pohledávek a závazků podložených účetními doklady (např. faktury)
+podle jednotlivých dlužníků a věřitelů
+označení (číslování) dokladů
+datum vzniku pohledávky (závazku)
+částku
+datum splatnosti
+způsob úhrady (hotově nebo převodem z BŮ)
+= | identifikační údaje pro spárování pohledávky nebo závazku s platbou
+
+o | ukázka knih přijatých a vydaných faktur
+
+Kniha vydaných faktur (odběratelé)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Datum Číslo faktury Odběratel Částka Datum . Uhrada Cislo Poznámka
+splatnosti dne dokladu
+Kniha přijatých faktur (dodavatelé)
+Číslo faktur v : CÍ
+Datum — : Dodavatel Cástka Datum , Uhrada Císlo Poznámka
+interní | dodavat. splatnosti dne dokladu
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+e | další evidence
+
+o | dlouhodobý majetek — inventární karty
+
+o | zásoby — skladní karty (kniha zásob)
+
+o — finanční majetek
+= © pokladna (pokladní kniha / peněžní deník)
+= © bankovní účet (peněžní deník)
+= | ceniny (kniha cenin)
+
+o | auta- kniha jízd
+
+o | služby — kniha zakázek
+
+o | Zaměstnanci
+s © mzdové listy
+= © karta na svěřené předměty
+
+ 
+

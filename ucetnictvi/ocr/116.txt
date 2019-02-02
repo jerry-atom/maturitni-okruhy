@@ -1,0 +1,54 @@
+ď
+
+3.. Učetnictví individuálního podnikatele
+
+e | fyzická osoba může vést účetnictví v plné nebo ve zjednodušené verzi
+e © plná verze účetnictví
+o © firma používá veškeré účty
+e © zjednodušený rozsah účetnictví
+o © mohou ho vést FO, které jsou účetními jednotkami a nemají povinný audit
+o  tytoÚJ
+= | sestavují účtový rozvrh, ve kterém mohou uvést syntetické účty pouze na úrovni účtových skupin (tzv.
+skupinové účty)
+s © mohou spojit účtování v deníku s účtováním v hlavní knize
+= © nemusí uplatňovat zásadu opatrnosti (u odpisů používají pouze daňové)
+= © nepoužívají ustanovení zákona o účetnictví týkající se rezerv a opravných položek
+e © zahájení účetnictví
+o | místo účtu 411 — Základní kapitál se používá účet 491 — Účet individuálního podnikatele
+o | naúčet 491 se zachycují
+= | osobní vklady (vklady bývají nejčastěji na počátku podnikatelské činnosti, ale mohou být i v průběhu)
+= | výběry pro osobní spotřebu
+= | hospodářský výsledek
+o účet 491 vykazuje zpravidla pasivní zůstatek, ale za určitých podmínek (např. při ztrátě nebo velkém zadlužení)
+může mít 1 aktivní zůstatek
+o | sestavuje se zahajovací rozvaha a otevírají se účty
+"=  aktiva/ 701
+s 701/ pasiva
+e © ukončení účetního období
+o | používá se účet 702 pro převod rozvahových účtů a účet 710 pro převod výsledkových účtů
+e | účtování odměn
+o | fyzická osoba se nemůže sama zaměstnat, ale může si kdykoliv bez omezení převádět volné peněžní prostředky
+pro svoji osobní spotřebu
+o | účtování
+výběr z pokladny 10 000 Kč 491 211 VPD
+e © zdravotní a sociální pojištění
+o | podnikající FO zpravidla platí v průběhu roku měsíční zálohy na SP a ZP
+o | používá se účet 526 — Sociální náklady (daňově neúčinný)
+o | vyměřovacím základem pro výpočet ZP a SP je 50 % z příjmů ze samostatné výdělečné činnosti po odpočtu
+výdajů
+o zdravotní pojištění je pro OSVČ povinné a sazba je 13,5 % ze základu daně
+o © pojistné na sociální pojištění se skládá ze tří částí
+= © pojistné na důchodové zabezpečení — povinné
+= | příspěvek na státní politiku zaměstnanosti — povinné
+= © pojistné na nemocenské pojištění — dobrovolné
+= © sazba na důchodové pojištění a na státní politiku zaměstnanosti
+je 29,2 % z vyměřovacího základu
+= © sazba na nemocenské pojištění činí 2,3 % z vyměřovacího základu
+o | za účelem vyčíslení vyměřovacího základu se sestavuje formulář Přehled o příjmech a výdajích OSVČ
+u | sestavuje se samostatně pro výpočet SP i ZP
+o FO platí zálohy na SP a ZP
+= © v minimální výši — FO, která začíná podnikat, vykazuje ztrátu nebo má nízké příjmy
+= | na základě údajů z minulého období
+o | účtování
+předpis ZP a SP 10 000 Kč 526 336 ID
+

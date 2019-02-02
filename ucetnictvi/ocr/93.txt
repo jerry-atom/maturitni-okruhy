@@ -1,0 +1,118 @@
+FAV za prodej stroje 20 000 Kč 311 641
+DPH 20 % 4 000 Kč 311 343
+úhrada FAV 24 000 Kč 221 311
+vyřazení stroje z DM 80 000 Kč 082 022
+
+účet 642— Tržby z prodeje materiálu
+
+FAV
+
+VBÚ
+ID
+
+o — protějším účtem je nákladový účet 542
+
+o © porovnáním s účtem 542 vyčíslíme výsledek z daných prodejů (zisk nebo ztrátu)
+
+o | účtuje se zde o tržbách docílených prodejem
+
+o | účtování
+FAV za prodaný materiál 10 000 Kč 311 642 FAV
+DPH 20 % 2 000 Kč 311 343
+výdej materiálu ze skladu 15 000 Kč 542 112 výdejka
+úhrada FAV 12 000 Kč 221. 311. VBŮ
+
+účet 644 — Smluvní pokuty a úroky z prodlení
+
+o | účtují se zde smluvní sankce, např. ve vztahu k odběratelům
+
+o | účtování
+FAV za zboží 10 000 Kč 311 604 FAV
+DPH 20 % 2 000 Kč 311 343
+pozdní úhrada 12 000 Kč 221. 311. VBŮ
+pokuta za pozdní úhradu 4 000 Kč 311 644 ID
+úhrada pokuty 4 000 Kč 221. 311. VBŮ
+
+účet 646— Výnosy z odepsaných pohledávek
+o | účtují se zde úhrady pohledávek, které byly v minulosti odepsány na vrub nákladů
+vstupují do ZD (s výjimkou případu, kdy tato pohledávka nebyla daňově uznána jako nákladová položka)
+
+Oo
+Oo
+
+účtování
+
+uhrazená odepsaná pohled. 15 000 Kč 221 646
+
+účet 648 — Ostatní provozní výnosy
+firma zde účtuje o výnosech, které patří do provozních, ale svým charakterem neodpovídají náplní ostatních účtů
+
+o
+ve skupinách 60 — 64
+o | čerpání dotace na úhradu provozních nákladů
+o | výnosy z prodeje cenin
+o | náhrady soudních výloh od dlužníků
+o | přebytky na majetku při inventarizacích
+o | účtování
+manko na materiálu 5 000 Kč 549 112
+předpis manka k náhradě 5 000 Kč 335 648
+přebytek na zboží 10 000 Kč 132 648
+prodej cenin na hotově-nepl. 3 000 Kč 211 648
+nárok na dotaci ze stát. rozp. 15 000 Kč 378 346
+příjem dotace 15 000 Kč 221 378
+použití provozní dotace 15 000 Kč 346 648
+skupina 66 — Finanční výnosy
+účet 661 — Tržby z prodeje cenných papírů a podílů
+o | používá se při prodeji cenných papírů
+o | protějším účtem je účet 561
+o | účtování
+prodej akcií na fakturu 13 000 Kč 378 661
+vyřazení akcií 10 000 Kč 561 251
+prodej dluhopisů hotově 25 000 Kč 211 661
+úbytek dluhopisů 20 000 Kč 561 253
+účet 662 — Úroky
+o | úroky z běžného účtu nebo z poskytnutých půjček
+o účtování
+úrok z účtu 500 Kč 221 662
+úrok z poskytnuté půjčky 8 000 Kč 221 662
+
+účet 663 — Kurzové zisky
+
+©)
+©,
+©
+
+účtuje se zde rozdíl vzniklý z pohybu kurzů Kč k cizím měnám
+u peněžních prostředků, pohledávek a závazků v cizí měně
+účtování
+
+FAP za materiál 10 000 EUR
+úhrada FAP — kurz 26 Kč
+rozdíl — ztráta
+
+250 000 Kč 111 321
+240 000 Kč 321 221
+10 000 Kč 321 663
+
+VBÚ
+
+ID
+ID
+ID
+PPD
+ID
+VBŮ
+ID
+
+ID
+ID
+PPD
+ID
+
+VBŮ
+VBÚ
+
+FAP
+VBU
+ID
+

@@ -1,0 +1,62 @@
+daň z minerálních olejů — benzín, nafta, topné oleje
+daň z lihu — líh, ovocné destiláty, lihoviny, destiláty
+daň z piva
+daň z vína a meziproduktů — révová vína, šumivá vína
+daň z tabákových výrobků — cigarety, cigaretový a žvýkací tabák
+předmět spotřebních daní
+o vybrané výrobky vyrobené v tuzemsku a výrobky do tuzemska dovezené
+vznik daňové povinnosti
+o okamžikem výroby nebo dovozu
+o ke zdanění dochází v okamžiku propuštění zboží do volného oběhu
+o vznik povinnosti daň přiznat a zaplatit je při uvedení vybraného výrobku do volného oběhu,
+při dovozu nebo dnem odběru tabákových nálepek
+správcem je celní orgán
+zdaňovací období, daňové přiznání, splatnost daně
+o  zdaňovacím obdobím všech spotřebních daní je kalendářní měsíc
+o daňové přiznání plátce předkládá do 25. dne po skončení zdaňovacího období (u lihu do 55
+dnů)
+o při výrobě a dovozu tabákových výrobků plní úlohu daňového přiznání objednávka
+tabákových nálepek
+o. při dovozu plní funkci daňového přiznání JSD a daň je splatná do 10 dnů od vyměření cla
+o daň je splatná jednorázově do 40 dnů
+o pouze při překročení měsíčního limitu 10 milionů Kč, odvádí plátce stanovené zálohy
+základ daně — množství vybraného výrobku v měrných jednotkách
+vystavování daňových dokladů
+o při tuzemské výrobě jsou plátci povinni vystavit daňový doklad
+o náležitosti jsou shodné s náležitostmi dokladů u DPH
+o navíc musí obsahovat množství vyskladněných výrobků a výši spotřební daně
+účtování je podobné jako u DPH
+pro evidenci spotřebních daní se používá účet 345 — Ostatní daně a poplatky
+u neplátců se spotřební daň stává součástí pořizovací ceny
+plátci rozlišují spotřební daň na vstupu (při nákupu) a na výstupu (při prodeji)
+výsledný vztah k FÚ se vypočítá jako daň na výstupu — daň na vstupu
+
+účtování
+
+FAP za cigarety 20 000 Kč 131 - FAP
+DPH 20 % 4000Kč | 343 -
+
+spotřební daň 5000Kč | 345 =
+
+celkem 29 000 Kč - 321
+
+FAV za prodej alkoholu 20 000 Kč “ 601.. FAV
+DPH 20 % 4 000 Kč - 343
+
+spotřební daň 5 000 Kč - 345
+
+celkem 29000Kč | 311 -
+úhrada spotřební daně 5000Kč 345. 221. VBU
+
+6. Dotace
+
+nenávratně poskytnuté finanční prostředky ze státního rozpočtu (účet 346) nebo z jiných rozpočtů
+(účet 347)
+dotace jsou přísně účelové (při použití dotace na jiný účel se pak dotace musí vrátit)
+dva druhy dotací
+O provozní
+= slouží k úhradě provozních nebo finančních nákladů
+= | př. dotace na zřízení pracovního místa, na přijetí absolventa
+
+7
+

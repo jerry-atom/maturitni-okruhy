@@ -1,0 +1,63 @@
+e účet 063 — Realizovatelné CP a podíly (dlouhodobé)
+e účet 257 — Ostatní realizovatelné cenné papíry (krátkodobé)
+" cenné papíry emitované účetní jednotkou
+e CP, jejichž emitentem je sama účetní jednotka
+e vúůčetnictví firmy se objevují výjimečně
+e vrozvaze se zachycují na straně Pasiv s mínusem, protože vyjadřují snížení zdrojů
+účetní jednotky
+e účet 252— Vlastní akcie a vlastní obchodní podíly
+e účet 255 — Vlastní dluhopisy
+
+2. Oceňování cenných papírů
+
+© © oceňování k momentu pořízení
+
+O
+O
+
+O
+O
+
+CP se oceňují pořizovacími cenami (cena pořízení + vedlejší pořizovací N)
+typickými vedlejšími pořizovacími náklady jsou u CP poplatky a provize makléřům, poradcům
+a burzám
+součásti PC však nejsou úroky z úvěrů na pořízení CP a náklady spojené s držením CP
+při pořizování se jednotlivé složky PC účtují nejdříve na pořizovací účty (259 — u
+krátkodobých, 043 — u dlouhodobých)
+pokud ÚJ nakoupila CP v cizí měně, přepočítá se jejich hodnota na českou měnu kurzem
+stanoveným ve vnitropodnikové směrnici
+při oceňování úbytku CP, které byly pořízeny za různé ceny, se používá
+
+= | metoda průměrných cen
+
+= metoda FIFO
+
+e © oceňování k rozvahovému dni
+
+O
+O
+O
+
+CP se oceňují reálnou hodnotou
+reálná hodnota je tržní hodnota vyhlášená na burze
+pokud tato hodnota není k dispozici, oceňují se kvalifikovaným odhadem nebo posudkem
+soudního znalce
+přecenění se účtuje
+= © u CP k obchodování výsledkově
+e v případě nákladů — 564 nebo 566
+e v případě výnosů — 664 nebo 666
+= urealizovatelných CP se rozdíl zachycuje na účtu 414 — Oceňovací rozdíly z přecenění
+majetku a závazků
+účtování u CP k obchodování
+
+ 
+
+zvýšení hodnoty akcií 5 000 Kč 251.. 664 ID
+
+snížení hodnoty akcií 5 000 Kč 564.. 251 ID
+účtování u realizovatelných CP
+
+zvýšení hodnoty akcií 5 000 Kč 063. 414 ID
+
+snížení hodnoty 5 000 Kč 414 063. ID
+

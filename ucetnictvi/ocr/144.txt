@@ -1,0 +1,71 @@
+Vnitropodnikové účetnictví vedené v samostatném okruhu
+
+e © tento způsob používají velké výrobní podniky, které mají velký počet středisek, složitou organizační strukturu
+apod.
+
+e | celá evidence představuje dva oddělené okruhy účtování
+
+ 
+
+Finanční účetnictví $ = Vnitropodnikové účetnictví
+
+e © mezi okruhy existují vazby v podobě tzv. spojovacích účtů (Spojovací účet k zásobám, k nákladům,
+k výnosům)
+e © v tomto způsobu vedení účetnictví se používají účtové třídy 8. a 9.
+e © rozdíl mezi centralizovanou a decentralizovanou formou je i u vnitropodnikového účetnictví vedeného
+v samostatném okruhu stejný:
+o v centralizované formě se VŮ vede v jedné účtárně za všechna střediska podniku, v decentralizované
+formě každé středisko vede své účetnictví samostatně
+
+o v decentralizované formě je pro zúčtování vnitropodnikových výkonů (dodávek mezi HS) v účtovém
+rozvrhu každého střediska navíc účet Střediskové převody (999)
+
+Náklady a výnosy hospodářských středisek
+
+Náklady
+e | prvotní — převzaté u finančního účetnictví
+e | druhotné — z dodávek výkonu od jiných HS
+
+Výnosy
+e | prvotní — jsou to především tržby převzaté z finančního účetnictví
+e © druhotné — vznikají z dodávek střediskových výkonů ostatním střediskům
+
+Učtování ve výrobním středisku
+
+Náklady střediska Hlavní výroba — účtování
+810 — Náklady střediska Hlavní výroba / 995 — Spojovací účet k nákladům
+810 — Náklady střediska Hlavní výroba / 9xx — Výnosy dodávajících středisek
+
+Výnosy střediska Hlavní výroba — účtování
+
+Přírůstek: 961 — Nedokončená výroba / 9xx — Střediskové výnosy hlavní výroby
+
+Úbytek: 963 — Výrobky / 961 — Nedokončená výroba
+
+(u decentralizované evidence se ještě použije účet 999 — Střediskové převody; pokud má účet Nedokončené výroby
+počáteční stav, zaúčtujeme účtem 991 — Spojovací účet k zásobám)
+
+Zjištění částky provedených výkonů výrobních činností
+e | částky provedených výkonů ve středisku Výroba se zjišťují pomocí Výkazu provedených a odvedených
+výkonů
+Zjištění částek provedených výkonů při změnách stavu nedokončené výroby
+e © provedené výkony = odvedené výkony + konečný stav NV — počáteční stav NV
+Účtování v odbytovém středisku
+e © pohyb výrobků se sleduje pomocí účtu 963 — Výrobky, přebírá je z účtu 961 — Nedokončená výroba
+
+Př.
+
+963 — Výrobky / 961 — Nedokončená výroba (předání dokončených výrobků do odbytového skladu)
+
+963 — Výrobky / 9xx — Výnosy HS Zásobování (kalkulovaná zásobovací režie na odvedené výkony)
+
+963 — Výrobky / 9xx — Výnosy HS Správa (kalkulovaná správní režie na odvedené výkony)
+
+963 — Výrobky / 991 — Spojovací účet k zásobám (pokud zásoba výrobků má počáteční stav)
+
+Spojovací účet k výnosům / Tržby z prodeje výrobků (tržby za prodané výrobky)
+
+Náklady na prodané výrobky / Výrobky (úbytek prodaných výrobků)
+
+Náklady na prodané výrobky / Střediskové výnosy Odbytu (kalkulované odb. náklady na prodané výrobky)
+

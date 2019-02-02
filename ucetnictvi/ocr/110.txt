@@ -1,0 +1,75 @@
+e | Rezervy
+
+DPH 20 % 3 000 Kč 343
+celkem 18 000 Kč 321
+rozdíl 3 000 Kč 502 389 ID
+
+o © cizí zdroj krytí majetku
+
+o | skupina 45
+
+= 451 — Rezervy podle zvláštních právních předpisů
+s 453 — Rezerva na daň z příjmů
+s 459 — Ostatní rezervy
+o | tvorba rezerv se účtuje do nákladů
+= 552— Tvorba a zúčtování zákonných rezerv — daňově účinný N
+« | 554— Tvorba a zúčtování ostatních rezerv — daňově neúčinný N
+
+provozní náklady
+
+= © S74 — Tvorba a zúčtování finančních rezerv — daňově neúčinný N
+
+finanční náklady
+
+= 584— Tvorba a zúčtování mimořádných rezerv — daňově neúčinný N
+
+mimořádné náklady
+
+o — členění rezerv
+= zákonné
+
+v případech stanovených Zákonem o rezervách pro zjištění základu daně z příjmů
+podnikatelská rezerva, daň z příjmů, záruční opravy
+nejčastější případ — rezerva na opravy hmotného majetku a rezervy bankovnictví
+ÚJ může tvořit rezervu na opravy hmotného majetku podle zákona za podmínek
+o © pokud je vlastníkem příslušného hmotného majetku
+o © pokud je rezerva tvořena na opravu hmotného majetku (ne na technické zhodnocení nebo údržbu)
+o © pokud je doba odepisování 5 a více let (od 2. odpisové skupiny)
+ÚJ nemůže tvořit rezervu na tyto opravy hmotného majetku
+o © na opravy majetku určeného k likvidaci
+o © na opravy důsledků škod vzniklých nahodilou událostí
+o © na každoročně pravidelně se opakující opravy
+o | nanehmotný majetek
+o © na majetek zařazený v 1. odpisové skupině
+o © pokudnení vlastníkem
+zákon také stanovuje
+o © minimální dobu tvorby rezervy
+= © nesmí být tvořena pouze 1 zdaňovací období
+o © maximální dobu tvorby rezervy
+s © podle jednotlivých odpisových skupin
+a 2. skupina— 3 zdaňovací období
+= © 3. skupina— 6 zdaňovacích období
+= © 4. skupina— 8 zdaňovacích období
+= © 5.a6. skupina— 10 zdaňovacích období
+tvorba rezervy
+o | každoročně
+o © netvoří se v roce zahájení opravy
+o © nesmí se tvořit pouze 1 období
+o | roční výše rezervy
+= předpokládaná hodnota opravy/počet let bez roku zahájení opravy
+vychází z rozpočtu, ze kterého musí být zřejmé, co se bude opravovat a jaká je předpokládaná
+částka oprav
+o © pokud bude podle zákona rezerva opožděna, musí se zrušit
+o © nakonci každého účetního období se musí inventarizovat rezervy
+s © zhlediska odůvodněnosti— jestli stále trvá důvod pro provedení oprav
+= © zhlediska jejich výše-— jestli výše rezervy odpovídá
+o © abybyl vzniklý náklad daňově uznatelný, musí být peněžní prostředky vytvořené rezervy
+převedeny na samostatný bankovní účet
+
+O
+
+2012 — tvorba zák. rezervy 552 451 ID
+2013 — tvorba zák. rezervy 552 451 ID
+FAP za opravu S11 321 FAP
+zúčtování rezervy 451 552 ID
+

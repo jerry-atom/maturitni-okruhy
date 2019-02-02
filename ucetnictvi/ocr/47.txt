@@ -1,0 +1,46 @@
+6. Zásoby vlastní výroby
+
+e © nedokončená výroba
+o | nedokončená výroba — účet 121
+= | produkty, které již prošly některými výrobními operacemi, takže již nejsou materiálem, ale ještě
+nejsou hotovým výrobkem
+o | polotovary vlastní výroby — účet 122
+= | produkty, které ještě neprošly všemi výrobními operacemi a musí být proto dokončeny nebo
+zkompletovány do hotových výrobků v dalším výrobním procesu
+= | odděleně skladované a evidované
+= př. díly automobilů
+o | výrobky — účet 123
+= | produkty, které už prošly všemi výrobními operacemi 1 výstupní technickou kontrolou, takže už
+mohou být předmětem prodeje
+e | oceňování zásob vlastní výroby
+o | vlastní náklady (přímé náklady + část nepřímých)
+o — zjišťování vlastních nákladů
+= | skutečné vlastní náklady
+= © náklady zjištěné podle operativních kalkulací
+
+e | účtování
+o | způsob A
+o přírůstcích a úbytcích se účtuje v průběhu roku
+přírůstky nedokončené výr. 10 000 Kč 121 611 příjemka
+
+úbytky nedokončené výr. 10 000 Kč 611 121.. výdejka
+přebytek 5 000 Kč 121... 611.. ID
+
+manko do normy 5 000 Kč 611 121.. ID
+manko nad normu 10 000 Kč 549 121 ID
+
+o | způsob B
+= © na počátku roku se účtuje jen počáteční zůstatek, který se na konci roku souvztažně odepíše jako
+snížení výnosů a zaúčtuje se zásoba zjištěná inventarizací
+odepsání PZ na nedok. v. 80 000 Kč 611 121.. ID
+zaúčtování KZ na ned. v. 95 000 Kč 121 611 ID
+
+7. Evidence zásob
+
+e | příjemka — příjem zásob na sklad
+
+e | výdejka— výdej zásob ze skladu do výroby
+
+* | převodka— předání zásob mezi pobočkami jedné firmy
+e | skladní karta — zachycuje se zde pohyb zásob na skladě
+

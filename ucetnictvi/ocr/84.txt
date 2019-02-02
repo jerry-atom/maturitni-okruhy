@@ -1,0 +1,223 @@
+« | účtují se v5. účtové třídě
+
+e © v průběhu roku se účtují ve většině případů na straně MD
+
+e | časově se rozlišují
+
+Zásady pro účtování nákladů
+
+e | účtuje se zde tzv. narůstajícím způsobem od začátku roku (tzn. na začátku období vykazují nulový zůstatek)
+
+e © při uzavírání účetních knih se zůstatky účtů převádějí na účet 710
+
+e © analytická evidence musí účetní jednotka přizpůsobit ustanovením zákona o dani z příjmů
+e © opravy nákladů minulých let se účtují do běžného období na účtech nákladů, kterých se opravy týkají
+e © při účtování nákladů platí zákaz kompenzace
+
+4. Rozbor účtování jednotlivých nákladových druhů
+
+e © skupina 50 — Spotřebované náklady
+
+« | účet 501— Spotřeba materiálu
+
+o | eviduje se zde spotřebovaný materiál příslušného účetního období
+
+do pojmu materiál se zahrnuje spotřeba základního materiálu, mazadel, čisticích potřeb, obalů atd.
+účtuje se zde o výdeji drobného hmotného majetku do užívání
+drobné nákupy za hotové (podle vnitropodnikové směrnice)
+spotřeba tiskopisů, odborných časopisů a knih
+
+spotřeba pohonných hmot (u vozidel zahrnutých v majetku i u vozidel v nájmu)
+
+spotřeba ochranných pracovních prostředků, jednotného pracovního oblečení
+
+přirozený úbytek zásob v rámci norem stanovených směrnicí
+
+při způsobu B u materiálu se zde účtují jednotlivé složky pořizovací ceny materiálu (cena materiálu, provize,
+
+O O O O0 0 0 0 0
+
+doprava,...)
+
+účtování
+
+spotřeba materiálu
+
+výdej drobného majetku
+nákup odborných novin
+nákup odborných knih
+spotřeba pohonných hmot
+nákup oblečení pro zam.
+manko do normy u mat.
+
+O
+
+nákup mat. — zp. B od nepl.
+
+doprava materiálu
+příjem na sklad
+e | účet 502— Spotřeba energie
+
+10 000 Kč
+10 000 Kč
+30 Kč
+
+2 000 Kč
+2 000 Kč
+5 000 Kč
+1 000 Kč
+10 000 Kč
+1 000 Kč
+11000 Kč
+
+501
+501
+501
+501
+501
+501
+501
+501
+501
+
+112
+112
+211
+211
+211
+211
+112
+321
+211
+
+neúčtuje se
+
+výdejka
+ID
+
+VPD
+VPD
+VPD
+VPD
+
+ID
+
+FAP
+VPD
+příjemka
+
+o | účtuje se zde o spotřebované elektrické energii, páře, plynu a vodě, které jsou určeny k energetickým účelům
+
+o účtování
+
+FAP za plyn
+
+DPH 20 %
+
+úhrada FAP za plyn
+
+FAP za elektřinu
+
+DPH 20 %
+
+úhrada FAP za elektřinu
+e | účet 504— Prodané zboží
+
+o — používá se při účtování úbytku prodaného zboží (v pořizovací ceně)
+
+10.000 Kč
+2 000 Kč
+12 000 Kč
+20 000 Kč
+4 000 Kč
+24 000 Kč
+
+501
+343
+321
+501
+3453
+321
+
+321
+321
+221
+321
+321
+221
+
+FAP
+
+VBŮ
+FAP
+
+VBŮ
+
+o | tento účet se používá i při způsobu B u zboží a účtuje se zde o jednotlivých složkách pořizovací ceny zboží
+
+(cena zboží, provize, doprava,...)
+
+o | účtování
+prodej zboží
+DPH 20 %
+úbytek zboží
+způsob B — nákup zboží
+DPH 20 %
+provize obchodníkovi
+doprava zboží
+příjem zboží na sklad
+
+e © skupina SI - Služby
+e | účet S11— Opravy a udržování
+
+10 000 Kč
+2 000 Kč
+7 000 Kč
+
+10 000 Kč
+2 000 Kč
+2 000 Kč
+3 000 Kč
+
+15 000 Kč
+
+311
+311
+504
+504
+343
+504
+504
+
+604
+343
+132
+211
+211
+211
+211
+
+neúčtuje se
+
+o účtují se zde náklady na opravy nebo udržování majetku
+
+o | účtování
+FAP za opravu stroje
+
+10 000 Kč
+
+S11
+
+321
+
+FAV
+
+výdejka
+VPD
+VPD
+
+VPD
+příjemka
+
+FAP
+

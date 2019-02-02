@@ -1,0 +1,81 @@
+vklad na BŮ 200 000 Kč 221 701
+
+vklad materiálu 100 000 Kč 112 701
+nesplaceno 100 000 Kč 353 701
+základní kapitál 600 000 Kč 701 411
+
+o © další účtování o ZK (snižování / zvyšování) viz. otázka Obchodní společnosti
+
+fondy
+o © firma se řídí obchodním zákoníkem, ze kterého vyplývá povinnost tvorby fondů a rozhodnutím vrcholného orgánu
+o © ze zisku se poskytuje
+= © příděl do zákonného rezervního fondu — VŽDY!
+= příděly do ostatních fondů — firma je tvoří dobrovolně (např. sociální fond pro potřeby zaměstnanců — divadla,
+příspěvky na dovolenou,...)
+o | zákonný rezervní fond
+s © u společnosti s ručením omezeným
+e © společnost vytváří rezervní fond v době a ve výši určené ve společenské smlouvě
+e © společnost je povinna ho vytvořit z čistého zisku vykázaného v účetní závěrce za rok, v němž poprvé zisk
+vytvoří, a to ve výši nejméně 10 % z čistého zisku, avšak ne více než 5 % z hodnoty základního kapitálu
+e © tento fond se ročně doplňuje o částku určenou ve společenské smlouvě nebo ve stanovách, nejméně však
+5% z čistého zisku, až do výše rezervního fondu určené ve společenské smlouvě nebo ve stanovách,
+nejméně však do výše 10%
+= © uakciové společnosti
+e © procenta jsou jednou tak velké
+o | účtování - zisk
+
+zisk k prvnímu dni období 701 431 ID
+příděl do zákonného rezervního fondu 431 421 ID
+příděl do ostatních fondů 431 423/1 ID
+
+o | účtování - ztráta
+ztráta k prvnímu dni období 431 701 ID
+úhrada ztráty ze zákonného fondu 421 431 ID
+úhrada ztráty z ostatních fondů 423/1. 431 ID
+
+výsledek hospodaření minulých let
+
+o | tvoří se ze zisku
+
+o | může se jím pokrýt ztráta
+
+o. účty
+
+= © 428— Nerozdělený zisk minulých let
+= © 429— Nerozdělená ztráta minulých let
+
+o — účtování - zisk
+zisk k prvnímu dni období 701 431 ID
+nerozdělený zisk z minulých let 431 428 ID
+
+o | účtování- ztráta
+ztráta k prvnímu dni období 431 701 ID
+úhrada ztráty ze zákonného fondu 421 431 ID
+zbytek ztráty neuhrazen 429 431 ID
+
+výsledek hospodaření běžného účetního období
+
+o © firma může vykázat zisk nebo ztrátu
+
+o | hospodářský výsledek se zjistí jako výnosy — náklady
+
+o | doúčetnictví se zisk i ztráta zapisují k prvnímu dni následujícího období, ve kterém byl HV vykázán v zahajovací
+rozvaze
+
+o — do zahajovací rozvahy se zapisuje tzv. disponibilní zisk (zisk po zdanění) nebo ztráta
+
+o — ze zisku se tvoří zákonný rezervní fond (povinně) a dále se z něj může přispívat do ostatních fondů, vyplatit
+společníkům (zdaňuje se srážkovou daní) nebo se zisk nechá jako nerozdělený a převádí se do dalších let
+
+o | účtování — zisk
+
+zisk k prvnímu dni období 701 431 ID
+příděl do zákonného rezervního fondu 431 421 ID
+příděl do ostatních fondů 431 423/1 ID
+předpis dividend 431 364 ID
+předpis daně z dividend 364 342 ID
+výplata čistých dividend 364. 221. VBŮ
+úhrada ztráty z minulých let 431 429 ID
+zvýšení základního kapitálu 431 419 ID
+nerozdělený zisk z minulých let 431 428 ID
+

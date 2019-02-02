@@ -1,0 +1,20 @@
+o směnky k úhradě
+
+účet 322 — Směnky k úhradě (RP) — do 1 roku
+
+- účet 478 — Dlouhodobé směnky k úhradě (RP) — nad 1 rok
+používají se, když účetní jednotka místo zaplacení předá odběrateli směnku
+průvodní závazek tak (dodavatelé) se změní na závazek směnečný
+úrok — účet 562
+účtování
+FAP za stavební práce 1 000 000 Kč 042 - FAP
+DPH 20 % 200 000 Kč 343 -
+celkem 1 200 000 Kč - 321
+úhrada dodavateli směnkou 1 200 000 Kč 321.. 322.1 ID
+úrok 200 000 Kč 562 | 322.2 ID
+VBŮ — směnka proplacena
+a) úhrada směnky 1 200 000 Kč 322.1 221. VBŮ
+b) výplata úroku 200 000 Kč 3222 221. VBŮ
+
+10
+

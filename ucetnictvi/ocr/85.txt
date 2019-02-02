@@ -1,0 +1,137 @@
+DPH 20 % 2 000 Kč 343 321
+
+e | účet 512— Cestovné
+
+o
+o
+©)
+
+O
+
+používá se při vyúčtování služební cesty zaměstnance
+
+při účtování se musí vzít v úvahu ustanovení zákoníku práce, ve kterém je uvedena řada limitů
+
+při překročení limitů je i tento náklad daňové uznatelný v plné výši, ale zaměstnavateli vzniká povinnost
+zaměstnanci tento rozdíl „přidaniť“, tj, zvýšit o něj jeho základ pro výpočet daně z příjmů FO, ale i SPa ZP
+účtování
+
+záloha na služební cestu 10 000 Kč 335 211 VPD
+předložení vyúčtování
+
+skutečné náklady 8 000 Kč 512 - PPD
+zúčtování zálohy 10 000 Kč - 335
+
+rozdíl 2 000 Kč 211 -
+
+e | účet 513— Náklady na reprezentaci
+
+o
+
+O O O O0
+
+účtuje se zde o výdajích na pohoštění a občerstvení
+
+pohoštění — i poskytování nealkoholických nápojů zaměstnancům na pracovišti
+nelze uplatnit odpočet DPH na vstupu
+
+daňově neuznatelný náklad
+
+účtování
+nákup občerstvení na jednání 5 000 Kč 513 211 VPD
+pití zaměstnancům 1 000 Kč 513 211 VPD
+
+e — účet 518 — Ostatní služby
+
+©
+
+O O O O O0 0 0 0 0 O0
+
+o
+
+©
+©,
+o
+
+o
+
+o
+©,
+o
+
+o
+
+©
+Oo
+
+o
+
+široké využití účtu
+
+nákup drobného nehmotného majetku
+
+poštovní známky vydané do spotřeby
+
+telefonní služby
+
+televizní a rozhlasové poplatky
+
+náklady na inzerci, propagaci, výstavy
+
+úhrady za úklid, praní a čištění prádla
+
+náklady na poradenskou činnost, právnickou pomoc, vzdělání pracovníků
+nájemné (musí se časově rozlišovat)
+
+malé technické zhodnocení na nehmotném majetku do 40 000 Kč
+
+účtování
+
+nákup drobného softwaru 2 000 Kč 518 211 VPD
+výdej poštovních známek 5 000 Kč 518 213 ID
+FAP za telefonní služby 10 000 Kč 518 321 FAP
+DPH 20 % 2 000 Kč 343 321
+
+školení zaměstnanců 4 000 Kč 518. 221. VBŮ
+daňové poradenství hotově 10 000 Kč 518 21 VPD
+nájemné za rok 2012 15 000 Kč 518 381 ID
+technické zhod. softwaru 5 000 Kč 518 211 VPD
+
+skupina 52 — Osobní náklady
+účet 521 — Mzdové náklady
+
+nároky, které uplatňují zaměstnanci, na základě pracovněprávních vztahů
+hrubé mzdy ze závislé činnosti zaměstnanců
+odměny podle dohod o pracovní činnosti nebo o provedení práce zaměstnanců
+
+účtování
+hrubé mzdy zaměstnanců 10 000 Kč 521 331 ID
+daň z příjmů FO 1 200 Kč 331 342 ID
+
+účet 522— Příjmy společníků a členů družstva ze závislé činnosti
+
+nároky, které uplatňují společníci, na základě pracovněprávních vztahů
+hrubé mzdy ze závislé činnosti společníků
+odměny podle dohod o pracovní činnosti nebo o provedení práce společníků
+
+účtování
+hrubé mzdy společníků 10 000 Kč 522 366 ID
+daň z příjmů FO 1 200 Kč 366 342 ID
+
+účet 523 — Odměny členům orgánů společnosti a družstva
+
+účtují se zde odměny členům kolektivních statutárních orgánů obchodních společností (např. odměny členům
+představenstva a. s.)
+
+daňově neuznatelný náklad
+
+účtování
+
+odměny členům představ. 50 000 Kč 523 221 VBU
+
+účet 524 — Zákonné sociální a zdravotní pojištění
+
+účet slouží k evidenci nákladů na sociální zabezpečení a na příspěvek na státní politiku zaměstnanosti
+
+3
+

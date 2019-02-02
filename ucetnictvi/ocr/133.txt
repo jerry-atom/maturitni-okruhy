@@ -1,0 +1,78 @@
+S O ON AVRUVT
+
+23. ÚČETNÍ ZÁVĚRKA
+
+pojmy uzávěrka a závěrka
+
+obsah účetní závěrky
+
+druhy účetní závěrky
+
+rozsah účetní závěrky
+
+audit
+
+rozvaha
+
+výkaz zisku a ztráty
+
+příloha
+
+přehled o peněžních tocích — výkaz cash flow
+přehled o změnách vlastního kapitálu
+povinnosti související s účetní závěrkou
+
+1. Pojmy účetní uzávěrka a závěrka
+
+účetní uzávěrka
+o | představuje především uzavření účtů převodem jejich zůstatků na dvojici tzv. uzávěrkových účtů
+s | 702— Konečný účet rozvažný
+= © 710— Účet zisků a ztrát
+o | uzavírání účetních knih, zjištění hospodářského výsledku, výpočet a zaúčtování daně z příjmů
+účetní závěrka
+o | navazuje na uzávěrku
+o | představuje sestavení účetních výkazů
+
+2. Obsah účetní závěrky
+
+účetní závěrka navazuje na uzávěrku
+podstatou je vykázat k poslednímu dni účetního období (k rozvahovému dni) stavy jednotlivých druhů majetku, závazků,
+vlastního kapitálu, nákladů, výnosy a vyčíslení hospodářského výsledku
+tyto skutečnosti se zaznamenávají do účetních výkazů
+o. rozvaha
+s | formulář
+o | výkaz zisku a ztráty
+= | formulář
+o | příloha
+= není formulář, je v pravomoci firmy, není stanovena forma, jen obsah
+formuláře vydává nakladatelství Bilance a můžeme ho koupit např. ve Svazu účetních, ve specializovaných prodejnách
+(SEVT) a v papírnictví
+formuláře jsou pro různé typy organizací různé
+tyto výkazy má povinnost sestavovat každá účetní jednotka
+kromě uvedených výkazů se však mohou vyhotovovat ještě dva další
+o | přehled o peněžních tocích
+o | přehled o změnách vlastního kapitálu
+jednotlivé výkazy musí obsahovat následující údaje o účetní jednotce
+o | název účetní jednotky
+místo podnikání
+identifikační číslo
+právní formu
+předmět podnikání
+rozvahový den
+o | okamžik sestavení účetní závěrky
+na každém výkazu se vzadu uvádí datum sestavení výkazu, právní forma účetní jednotky, předmět podnikání a podpisový
+VZOr
+
+O O O 0 0
+
+3. Druhy účetní závěrky
+
+řádná
+o | sestavuje se k rozvahovému dni (poslední den účetního období)
+mimořádná
+
+o | sestavuje se v mimořádných situacích (např. ke dni zrušení účetní jednotky bez likvidace, ke dni, který předchází
+vstupu firmy do likvidace nebo konkurzu, při krádeži, při změně odpovědného pracovníka apod.)
+mezitímní
+o | sestavuje se, pokud si to vyžadují zvláštní právní předpisy
+

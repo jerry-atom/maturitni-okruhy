@@ -1,0 +1,77 @@
+m | Ocenitelná práva - 014
+e © know-how, licence, předměty průmyslových autorských práv (chráněné vzory, ochranné známky)
+= Goodwill - 015
+e © kladný nebo záporný rozdíl mezi oceněním majetku a závazků
+= Drobný nehmotný majetek do ceny stanovené ÚJ — účtuje se do N - účet 518
+= naúčet 019 — Jiný dlouhodobý nehmotný majetek
+e | účtujeme tehdy, když majetek nelze zařadit do předchozích účtů
+e © příklad - technické zhodnocení majetku, pokud nezvyšuje jeho pořizovací cenu (technického
+zhodnocení na pronajatém softwaru)
+
+o | finanční (není stanoven limit) — neodepisuje se
+= Cenné papíry, které má firma déle než 1 rok — skupina 06
+e | CPs více než 40% podílem — 061
+
+CP s 20— 40% podílem — 062
+CP s podílem do 20% - 063
+Dluhopisy držené do splatnosti — 065
+Jiný dlouhodobý finanční majetek - 069
+= Půjčky poskytnuté jiným podnikům delší než 1 rok
+
+e © Dlouhodobé půjčky a úvěry — 066
+
+e | Ostatní půjčky (př. vklad tichého společníka) — 067
+= | Jiný dlouhodobý finanční majetek — 069
+
+e © termínované vklady s výpovědní lhůtou delší než 1 rok
+
+* | oběžný majetek
+o | zásoby
+s | materiálové zásoby — skupina 11 (především účet 112)
+e © suroviny (základní materiál) — hmoty, které přecházejí při výrobní činnosti zcela nebo z části od výrobku
+a tvoří jeho podstatu
+e © pomocné látky — hmoty, které přecházejí také přímo do výrobku, netvoří však jeho podstatu (př. nitě
+v oděvech)
+e © provozovací látky — hmoty, které jsou nezbytné pro provoz podniku jako celku (př. paliva, mazadla,
+čisticí prostředky)
+náhradní díly — předměty určené k uvedení hmotného majetku do původního stavu (př. blatníky u auta)
+obaly — slouží k ochraně a dopravě nakoupeného materiálu, zboží a vlastností výrobků
+o vratné (v případě, že jejich cena přesáhne cenu stanovenou účetní jednotkou, eviduje
+se jako dlouhodobý majetek)
+o nevratné — dodány zákazníkovi společně s výrobkem
+= zásoby vlastní výroby — skupina 12
+e © nedokončená výroba — účet 121
+o produkty, které již prošly některými výrobními operacemi, takže již nejsou
+materiálem, ale ještě nejsou hotovým výrobkem
+e © polotovary vlastní výroby — účet 122
+o produkty, které ještě neprošly všemi výrobními operacemi a musí být proto
+dokončeny nebo zkompletovány do hotových výrobků v dalším výrobním procesu
+o odděleně skladované a evidované
+e | výrobky- účet 123
+o produkty, které už prošly všemi výrobními operacemi i výstupní technickou
+kontrolou, takže už mohou být předmětem prodeje
+
+s zvířata— účet 124
+
+e © mladá zvířata, zvířata ve výkrmu, ryby, kožešinová zvířata, včelstvo, hejna slepic, kachen, perliček
+= zboží — skupina 13 (především účet 132)
+
+e © všechny statky a služby, které podnik nakupuje za účelem dalšího prodeje
+
+e © mohou to být i výrobky vlastní výroby, jestliže jsou prodávány ve vlastních prodejnách
+
+ 
+
+o | finanční oběžný majetek
+
+= skupina 21 — Peníze
+e © pokladna- 211
+e | ceniny—213
+
+= skupina 22— Učty v bankách
+e © bankovní účty — 221
+
+= skupina 23 — Krátkodobé bankovní úvěry
+e © krátkodobé bankovní úvěry — 231
+e | eskontní úvěry — 232
+

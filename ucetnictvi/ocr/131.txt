@@ -1,0 +1,47 @@
+ÚČETNÍ UZÁVĚRKA
+
+Přípravné práce před účetní uzávěrkou:
+Inventarizace majetku a závazků
+
+1. Porovnání skutečného stavu majetku a závazků se stavem účetním, vyčíslení inventarizačních rozdílů a jejich zaúčtování
+a. skutečný stav je nižší než stav účetní
+e © normao přirozených úbytcích — účtování jako běžná spotřeba (501, 504), náklad daňově uznatelný
+e © manko- provozní náklad (549, 569), náklad daňově uznatelný pouze do výše případných náhrad
+e © „odpis“ zaniklých závazků — zánik subjektu věřitele, účtování do provozních výnosů na účet 648
+b. skutečný stav je vyšší než stav účetní
+e © přebytek nakoupených zásob — 1../648
+přebytek zásob vlastní výroby — 12./61.
+přebytek finančního majetku — 211 (213)/668
+přebytek dlouhodobého majetku odpisovaného — 02./08.
+Přebytek dlouhodobého majetku neodpisovaného — 03./413
+2. Porovnání účetní hodnoty majetku s hodnotou reálnou a zaúčtování případných rozdílů
+e © reálná hodnota je nižší - účtuje se jako trvalé snížení 549 (582)/112
+e © dočasné snížení hodnoty — 559/09., 19., 29., 39.
+e © u vybraných cenných papírů lze účetní hodnotu i navyšovat na úroveň hodnoty reálné, avšak ne přes opravné
+položky (564/251, 251/664, 566/253, 253/666, 257/414, 414/257)
+
+Závěrečné operace u zásob
+
+Porovnání faktur a příjemek k dodávkám - nevyfakturované dodávky 111(139)/389, vyfakturované ale nepřevzaté 119(139)/111
+(131).
+
+Kontrola časového rozlišení nákladů a výnosů (užší pojetí)
+
+Účtujeme pouze částku, která věcně i časově souvisí s daným obdobím (381 — 385, nájemné, předplatné).
+
+Zaúčtování dohadných položek
+
+Zaúčtování závazků a pohledávek, které věcně patří do běžného období, ale jejich přesná výše není známa (nevyčíslená — 388,
+389).
+
+Tvorba a zúčtování rezerv
+
+Zaúčtování tvorby rezerv na v budoucnu očekávané náklady (oprava hmotného majetku), čerpání již dříve vytvořených rezerv na
+náklady, vzniklé během roku, popř. rozpuštění nevyčerpaných rezerv, které už dále nesmí vykazovat zůstatek (pominuly důvody).
+
+Zaúčtování kurzových rozdílů
+
+Hodnotu majetku a závazků v cizí měně je nutno přepočítat kurzem ČNB platným k poslednímu dni účetního období (563, 663).
+
+Výpočet daně z příjmu
+

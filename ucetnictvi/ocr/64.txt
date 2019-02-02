@@ -1,0 +1,87 @@
+= výjimku tvoří CP držené do splatnosti, CP představující majetkovou účast a kromě a
+vlastní akcie a podíly
+
+= reálná hodnota je tržní hodnota vyhlášená na tuzemské nebo zahranění burze nebo
+hodnota stanovená kvalifikovaným znalcem
+
+= přecenění na reálnou hodnotu je možno provést i v průběhu účetního období
+
+= o změně reálné hodnoty se účtuje
+
+u CP k obchodování
+o  výsledkově
+o  zaůčtuje se finanční N nebo V (skupina 56 nebo 66) a souvztažně se zvýší
+nebo sníží hodnota příslušného CP (251 nebo 253)
+u ostatních realizovatelných CP
+o  rozvahově
+o účtuje se na účtu 414 — Oceňovací rozdíly z přecenění majetku a závazků
+podle povahy na straně MD nebo D a souvztažně na daných majetkových
+účtech
+o | při prodeji se oceňovací rozdíl stornuje opačným zápisem a úbytek CP se
+zaúčtuje do N v pořizovací ceně
+
+analytická evidence se vede podle jednotlivých druhů cenných papírů, podle emitentů a nominálních
+hodnot, popř. i podle měn
+při prodeji se tržba zaúčtuje jako finanční výnos na účet 661 — Tržby z prodeje cenných papírů a
+
+podílů
+
+účetní hodnota (pořizovací cena nebo reálná hodnota) se promítne do finančních nákladů na účet 561
+— Prodané cenné papíry a podíly
+
+druhy krátkodobého finančního majetku:
+
+cenné papíry k obchodování
+o CP, které jsou nakupovány a drženy se záměrem jejich prodeje na burze nebo v RM-systému
+o zisk = prodejní cena — nákupní cena
+
+jetkové CP k obchodování (akcie)
+
+ 
+
+o dělení
+= ma
+o
+o
+o
+o
+o
+o
+
+se záměrem prodeje a nákupu v jednom roce
+
+účet 251 — Majetkové CP k obchodování
+
+prodej — účet 661 — Tržby z prodeje CP a podílů
+
+vyřazení — účet 551 — Prodané CP a podíly
+
+kalkulační pořizovací účet 259
+
+dividendy vyplývající z akcií jsou zachycovány na účtu 666 — Výnosy
+
+z krátkodobého finančního majetku
+
+přecenění akcií se účtuje výsledkově — účty 564 nebo 664 — náklady/výnosy
+z přecenění CP
+
+nákup - za hotové, na fakturu nebo převodem z účtu
+
+účtování
+
+pořízení akcií na fakturu 259.. 379. FAP
+provize hotově 259.. 211. VPD
+zařazení 251.259 ID
+prodej na fakturu 378. 661. ID
+vyřazení 561.251. ID.
+připsány dividendy na BŮ 221.. 666. VBU
+přecenění CP —snížení hodn. 564.251. ID
+přecenění CP —zvýšení hodn. 251.. 664 ID
+
+= dluhové cenné papíry (dluhopisy)
+
+dlužný papír, ve kterém se emitent zavazuje, že věřiteli vyplatí po předem
+stanovené době nominální hodnotu + úrok
+
+6
+

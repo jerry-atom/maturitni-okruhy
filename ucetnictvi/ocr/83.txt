@@ -1,0 +1,72 @@
+15. NÁKLADY
+
+pojmy náklad a výdaj
+
+členění nákladů
+
+zásady pro účtování nákladů
+
+rozbor účtování jednotlivých nákladových druhů
+
+PBUVT
+
+1. Pojmy náklad a výdaj
+
+e | náklad— spotřeba živé a zvěcnělé práce vyjádřena v penězích
+
+« | výdaj— úbytek jakéhokoliv majetku
+
+e | nekaždý náklad je zároveň i výdajem
+
+e © náklady se musí časově rozlišovat, aby bylo účetnictví vedeno úplně a správně
+o | 38T — Náklady příštích období
+o  382— Komplexní náklady příštích období
+o | 383— Výdaje příštích období
+
+2. Členění nákladů
+* účetní
+o | provozní
+= | náklady, které vznikly v souvislosti s běžným provozem podniku
+= skupina 50— 55 a účet 597
+o | finanční
+= © náklady spojené s peněžními prostředky nebo cennými papíry
+s | skupina 56— 57 a účet 598
+o | mimořádné |
+= © náklady zachycující neobvyklé operace vzhledem k běžné činnosti účetní jednotky
+s © skupina 58
+e | kalkulační
+o | přímé (jednicové)
+= | dají se přesně zjistit na jeden výrobek (např. mzdy, materiál)
+o nepřímé (režijní)
+= nedají se přesně zjistit na jeden výrobek (např. odpisy, energie)
+e | další členění
+o | prvotní náklady (externí)
+= | vznikají ve vztahu podniku k jeho okolí a jsou zpravidla externí povahy
+= např. spotřeba materiálu, spotřeba energie dodané jiným podnikem
+o | druhotné náklady (vnitropodnikové, interní)
+= | vznikají spotřebou vnitropodnikových výkonů odebraných od jiného střediska
+= | např. provedení opravy stroje jiným útvarem (střediskem) v jedné firmě
+e | další členění
+o | variabilní (proměnlivé)
+= © jsou závislé na objemu produkce (např. spotřeba materiálu, úkolové mzdy výrobních dělníků)
+= | proporcionální (lineární)
+e © jsou závislé na změnách objemu výroby a úměrně se s objemem výroby mění
+e | jsou jednicové
+e | představují základní část variabilních nákladů.
+e | při nezměněných podmínkách jsou stále stejné, např. základní materiál
+= © nadproporcionální (progresivní)
+e © jejich celková výše roste rychleji než objem výroby
+e | souvisejí s neplánovanými výkony ve výrobním procesu (např. přesčasové a noční příplatky,
+růst spotřeby pohonných hmot při zvýšení rychlosti, opravy strojů)
+= © podproporcionální (degresivní)
+e | jejich celková výše roste pomaleji než objem výroby (např. pomocný materiál, náklady na
+opravy a údržbu)
+o fixní (stálé)
+= © jsou nezávislé na objemu vyráběné produkce (např. odpisy majetku, časové mzdy zaměstnanců)
+e | daňové
+o | daňově uznatelné
+= © snižují základ daně
+o | daňově neuznatelné
+= | ovlivňují účetní výsledek hospodaření
+= | např. účty 513, 528, 541, 543, 545
+

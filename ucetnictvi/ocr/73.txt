@@ -1,0 +1,72 @@
+e účtování
+
+FAV za výrobky 100 000Kč - 601. FAV
+DPH 20 % 20000Kč |- 343
+
+celkem 120000Kč 311 -
+
+úhrada FAV směnkou 120000 Kč 256.1 311. ID
+
+úrok 20000 Kč 256.2 662 ID
+
+úhrada směnky 120000Kč 221. 256.1 VBÚ
+výplata úroku 20000Kč 221. 256.1 VBŮ
+
+= | směnky k úhradě
+e účet 322— Směnky k úhradě (RP) — do 1 roku
+
+e účet 478 — Dlouhodobé směnky k úhradě (RP) — nad 1 rok
+e používají se, když účetní jednotka místo zaplacení předá odběrateli směnku
+e průvodní závazek tak (dodavatelé) se změní na závazek směnečný
+e úrok- účet 562
+e účtování
+FAP za stavební práce 1 000 Kč 042 - FAP
+DPH 20 % 200 Kč 343 -
+celkem 1 200 Kč - 321
+úhrada dodavateli směnkou 1 200 Kč 321.. 322.1 ID
+úrok 200 Kč 562 | 3222 ID
+VBŮ — směnka proplacena
+a) úhrada směnky 1 200 Kč 322.1 221. VBŮ
+b) výplata úroku 200 Kč 322.2 221. VBŮ
+
+o výhody směnky z pohledu věřitele (majitele)
+= © obchodovatelnost — je možné ji prodat před dnem splatnosti
+= | snazší vymahatelnost (např. u soudu)
+= © možnost vymáhat směnečnou pohledávku 1 na vedlejších dlužnících (ručitelích)
+e každý, kdo jednou směnku vlastnil, se v případě jejího postoupení stává ručitelem za
+směnečný dluh a tato skutečnost se zaznamenává na rub směnky tzv. indosamentem
+= © možnost směnku eskontovat — před dnem splatnosti směnku postoupit bance a získat za ni
+peněžní prostředky ve formě tzv. eskontního úvěru
+
+o  eskont směnky
+
+= prodej směnky bance před termínem její splatnosti
+
+= nastává, jestliže majitel směnky potřebuje peníze před termínem splatnosti směnky
+
+= banka směnku posoudí (posuzuje její bonitu = kvalitu) a pokud se banka rozhodne,
+sepíše s klientem smlouvu o eskontu směnky a firmě je poskytnut eskontní úvěr
+
+= banka si sráží tzv. diskont (úrok) + další poplatky (562 a 568)
+
+= jakmile majitel směnky směnku proplatí, banka zasílá firmě oznámení (avízo) o
+proplacení směnky a eskontní úvěr je splacen 232/313
+
+= účet 232 — Eskontní úvěry (RP)
+
+= účet 313 — Pohledávky za eskontované cenné papíry (RA)
+
+= účtování
+FAV za výrobky 1 000 000 Kč - 601.. FAV
+DPH 20 % 200 000 Kč - 343
+celkem 1 200 000 Kč 311 -
+úhrada směnkou 1 200 000 Kč 256.1 311. ID
+směnka k eskontu
+a) pořizovací cena © 1 200 000 Kč “ 256.1 ID
+b) směnečná hodnota 1 500 000 Kč 313 -
+c) úrok 300 000 Kč - 662
+VBŮ - poskytnutí eskontního úvěru
+a) směnečná hodnota 1 500 000 Kč - 232 | VBU
+
+5
+

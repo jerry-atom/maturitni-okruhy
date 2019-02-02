@@ -1,0 +1,76 @@
+3. INVENTARIZACE A OCEŇOVÁNÍ MAJETKU
+
+pojem inventarizace
+
+právní úprava inventarizace
+
+rozdíl pojmů inventarizace a inventura
+druhy inventarizace
+
+postup při inventarizaci
+
+termíny inventarizace
+
+vyhlášení inventarizace
+
+inventanzační rozdíly
+
+účtování inventarizačních rozdílů
+oceňování majetku
+
+Z POU AVAVN—
+
+©
+
+1. Pojem inventarizace
+
+e © nástroj k přezkoušení věcné správnosti účetnictví
+e © inventarizace je jednou z činností, která přispívá k úplnosti, průkaznosti a správnosti údajů v účetnictví
+e © účelem inventarizace je ověřit, jestli účetní stav majetku a závazků odpovídá skutečnosti
+
+2. Právní úprava inventarizace
+
+e © povinnost inventarizace vyplývá ze zákona o účetnictví
+e © inventarizace najdeme v V. části zákona o účetnictví, v paragrafech $29 a $30
+
+3.. Rozdíl pojmů inventarizace a inventura
+
+* | inventarizace
+o | zahrnuje inventuru i celý soubor dalších prací (např. porovnání skutečného stavu se stavem účetním, zjištění
+inventarizačních rozdílů, vyšetření příčin vzniku inventarizačních rozdílů, vypracování návrhu na jejich
+vypořádání,...)
+e | inventura
+o | zjištění skutečného stavu majetku a závazků a zaznamenání tohoto stavu
+
+o | prokaždou zkontrolovanou položku se vyhotovuje tzv. inventurní soupis
+
+4. Druhy inventarizace
+e © podle periodicity
+o | řádná
+= © periodická
+e © provádí se k okamžiku sestavení účetní závěrky
+e © inventarizují se veškerá aktiva a závazky za každé období s výjimkou zásob a dlouhodobého
+hmotného majetku
+= © průběžná
+e © provádí se postupně v průběhu celého účetního období
+e © pouze u zásob a dlouhodobého movitého majetku
+e © termín průběžné inventarizace si stanovuje sama účetní jednotka
+o © mimořádná
+= | provádí se v mimořádných případech, jako je vznik podniku, jeho sloučení, rozdělení, uzavření dohody o
+hmotné odpovědnosti zaměstnance, po živelné pohromě, krádeži,...
+e | podle způsobu provádění
+o zická
+s provádí se u hmotného majetku
+= materiál, zboží, pokladna, stroje, zařízení
+u © skutečné stavy se zjišťují přepočtením, převážením a přeměřením
+o | dokladová
+= provádí se u položek, u kterých nelze provést fyzická inventura
+= © pohledávky, závazky, náklady a výdaje příštích období, rezervy, peníze na účtech, nehmotný majetek
+e © podle množství majetku
+
+o | úplná
+u týká se všech složek majetku a závazků
+o dílčí
+
+= | týká se jen některých složek majetku a závazků
+

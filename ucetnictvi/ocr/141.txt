@@ -1,0 +1,91 @@
+Rozpočtování výnosů
+e © rozpočet výnosů má dva podklady
+o plánovaný objem výroby
+o | vnitropodnikové ceny jednotlivých výkonů, které se stanoví na úrovni vlastních nákladů
+
+Kalkulace
+Pojmy
+
+a) Předmět kalkulace
+a) pořizované výkony - NÁKUPNÍ KALKULACE
+b) vlastní výkony — VÝROBNÍ KALKULACE
+c) odbytové výkony - PRODEJNÍ KALKULACE
+
+2. Kalkulační jednice
+
+e © výkon vymezený množstvím, časem nebo jinou veličinou (např. 1 ks, 1 t, 1 kg, 1 strojová hodina)
+3. Kalkulované množství
+e © určitý počet kalkulačních jednic, pro které se stanovují celkové náklady
+
+Druhy výrobní kalkulace
+e © předběžná
+o stanovení nákladů a ceny na kalkulační jednici
+o podklad — plán + [HN
+e výsledná
+o | následné zjištění nákladů a ceny na kalkulační jednici
+o podklad — účetnictví
+
+Předběžná kalkulace
+e  normovaná
+o operativní
+= © poklad operativní normy při každé změně podmínek se mění
+o plánované
+= © podklad THN stanovené na určité období, na delší období
+e | rozpočtová
+o | nejsou známy THN, podle porovnatelných výrobků
+
+Kalkulační vzorec
+e struktura
+o | závisí na druhu činnosti, technologie a organizace
+o ve vnitropodnikové směrnici — v kompetenci účetní jednotky
+e © dokumentace — kalkulační list
+
+Kalkulační metody
+e © způsob stanovení nákladů na kalkulační jednici
+a) stanovení přímých nákladů
+o pomocí THN
+b) stanovení nepřímých nákladů
+o. rozpočítávání pomocí metod
+1. dělením — prostým nebo s poměrovými čísly
+2. přirážková
+Prosté dělení
+e výroba 1 druhu výrobku
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+adání: Úkoly: Přímý materiál 250,--
+norma spotřeby materiálu na výrobek 2,5 kg 1. Výpočet kalkulovaného množství. Přímé mzdy 27,-
+cena materiálu 100 Kč/kg 670 000 = 900g — 3 700 000 — 277g Přímé náklady 277,-
+výkonová norma 4 ks/h, mzdový tarif 80 Kč/h Výrobní režie + zásobovací režie 528,--
+
+=/0 s => kalkulované
+34 % pojištění. 9 14k k Vlastní náklady výroby 805,--
+konkurence vyrábí stejně kvalitní výrobek množství Zisk 95,--
+prodejní cena výrobku 900 Kč/ks bez DPH Prodejní cena bezDPH © 900,--
+roční režijní ina Kan, 3 jek 000 Kč ši 2. Sestavení předběžné operativní kalkulace do DPH 180,--
+nema chce dosáhnoutročního zisku ve vý přiloženého kalkulačního listu. Prodejní cena vč. DPH 1 080,-
+
+ 
+
+ 
+

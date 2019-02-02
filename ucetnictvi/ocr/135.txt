@@ -1,0 +1,94 @@
+e © základní struktura rozvahy (ve zjednodušeném rozsahu)
+
+AKTIVA PASIVA
+
+A. Pohledávka za upsaný ZK A. Vlastní kapitál
+
+B. Dlouhodobý majetek A.I | Základní kapitál
+
+B. I. | Dlouhodobý nehmotný majetek © A.II. Kapitálové fondy
+
+B.II. | Dlouhodobý hmotný majetek A. III. Rezervní fondy, nedělitelný fond a
+B. III. Dlouhodobý finanční majetek ostatní fondy ze zisku
+
+C. Oběžná aktiva A. IV. Výsledek hospodaření minulých let
+C.I. | Zásoby A.V. © Výsledek hospodaření běžného
+
+C. II. | Dlouhodobé pohledávky účetního období
+
+C. III. Krátkodobé pohledávky B. Cizí zdroje
+
+C. IV. Krátkodobý finanční majetek B. I. Rezervy
+
+D. Časové rozlišení B.II. Dlouhodobé závazky
+
+B. III. Krátkodobé závazky
+B. IV. Bankovní úvěry a výpomoci
+
+C. Časové rozlišení
+e © doplňované účty
+AKTIVA PASIVA
+A. 353 A. součet A. — A. V.
+B. součet B. [ — B. III. A.I. | 411,491,419
+B. I sk.01,041,051, sk. 07 A.. 413
+B.II. sk. 02, 031, 032, 042, 052, sk,08, 09 A.INMI. 421.423, 427
+B. III. sk. 06, 043, 053, 096 A. IV. 428, 429
+C. součet C. I.— C. IV. A.V. 702, 710 — disponibilní zisk/ztráta
+C.I. | třída l B. součet B. I.— B. IV.
+C.I. | sk.31,35,37-P, 388, 335, 481 B. I. sk. 45
+C.IM. sk.31, 35, 37-P, 388, 335 B.II.  sk.47
+C. IV. sk.21, 22,25, 26,29 B. III. tř. 3— pasivní účty, sk. 24
+D. 381,382, 385 B. IV. 461,231
+C. 383, 384
+
+e © základní kontrolní vazby
+o | Aktiva celkem (netto) = Pasiva celkem
+o | Položka ve výkazu zisku a ztráty Výsledek hospodaření za účetní období = položka v rozvaze A. V. Výsledek
+hospodaření běžného roku
+e © příklad výkazu Rozvaha viz strana 206 a 207 v zelené učebnici
+
+7. Výkaz zisku a ztráty
+
+toková veličina — ukazuje hospodaření za určité období (zpravidla 1 rok)
+
+podle stávající právní úpravy může být sestavován v druhovém nebo účelovém členění
+sestavuje se v plném nebo zjednodušeném rozsahu
+
+barevně a písmeny jsou označeny náklady
+
+bíle a římskými čísly jsou označeny výnosy
+
+wow?
+
+© © ve výkazu najdeme dva ukazatele
+o | obchodní marže
+o — přidaná hodnota
+
+e © základní struktura výkazu zisku a ztráty
+
+I. Tržby za prodej zboží 604
+
+A. Náklady vynaložené na prodané zboží 504
+
+Obchodní marže I. - A.
+
+II. Výkony 601, 602, 611, 612, 613, 614, 621, 622, 623, 624
+
+B. Výkonová spotřeba 501, 502, 503, 511, 512, 513, 518
+
++ Přidaná hodnota I. — A. + II. — B.
+
+C. Osobní náklady 521, 522, 523, 524, 525, 526, 527, 528
+
+D. Daně 531, 532, 538
+
+E. Odpisy dlouhodobého nehmotného a hmotného majetku 551
+
+III. Tržby z prodeje dlouhodobého majetku a materiálu 641, 642
+
+F. Zůstatková cena prodaného dlouhodobého majetku a materiálu 541, 542
+G. Změna stavu rezerv a opravných položek v provozní oblasti a komplexních nákladů příštích období (+/-)552, (+/-)554,
+(+/-)555, (+/-)558, (+/-)559
+
+IV. Ostatní provozní výnosy 644, 646, 648
+

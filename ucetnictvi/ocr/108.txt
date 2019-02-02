@@ -1,0 +1,102 @@
+PBMVT
+
+19. ČASOVÉ ROZLIŠENÍ
+
+vysvětlení pojmů
+
+důvody časového rozlišení
+
+rozbor časového rozlišení v užším pojetí
+rozbor časového rozlišení v širším pojetí
+
+1. Pojmy
+
+Při účtování v průběhu roku může dojít k časovému nesouladu mezi nákladem a výdajem a mezi příjmem a výnosem
+
+náklad — spotřeba živé a zvěcnělé práce vyjádřena v penězích
+výdaj — úbytek jakéhokoliv majetku
+
+výnos — výkon firmy vyjádřený v penězích
+
+příjem — přírůstek jakéhokoliv majetku
+
+2. Důvody časového rozlišení
+
+z důvodu správného vyčíslení hospodářského výsledku musí být v nákladech a výnosech daného roku zaúůčtovány jen ty
+
+náklady a výnosy, které do daného roku patří a musí se vyloučit náklady a výnosy, které tam nepatří
+
+tato skutečnost se řeší pomocí časového rozlišení
+
+časové rozlišení se řeší, jestliže se účetní případy týkají více než jednoho období
+
+pokud dojde k chybě v časovém rozlišení, mohou být porušeny
+
+o | účetní předpisy (zákon o účetnictví)
+
+o | daňové předpisy (zákon o dani z příjmů)
+
+konkrétní informace se uvádějí ve vnitropodnikové směrnici
+
+české účetní standardy povolují určité výjimky, kdy se časové rozlišení nemusí používat
+
+o © jedná-li se o nevýznamné částky do 100 Kč, které moc neovlivní hospodářský výsledek firmy (př. Předplatné
+časopisů)
+
+o © jedná-li se o pravidelně se opakující platby
+
+o časovém rozlišení se účtuje v 3. účtové třídě, ve skupině 38
+
+3.  Casové rozlišení v užším pojetí
+
+na těchto účtech se účtuje v případě, kdy jsou známy 3 faktory
+o | účel vynaložené částky — na co
+
+o — přesná částka — kolik
+
+o © období, k němuž se částka vztahuje — od kdy do kdy
+všechny tři podmínky musí být splněny současně
+
+účty
+
+o
+
+381 — Náklady příštích období
+
+382 — Komplexní náklady příštích období
+383 — Výdaje příštích období
+
+384 — Výnosy příštích období
+
+385 — Příjmy příštích období
+
+O O O 0
+
+Náklady příštích období
+
+o — výdaj je uskutečněn v běžném období, ale náklad patří zčásti nebo zcela do dalších období
+o | účet 381 (rozvahový aktivní)
+
+o — příklad — předem placené nájemné
+
+úhrada nájemného 600 000 Kč 381.. 221. VBŮ
+náklady roku 2012 200 000 Kč 518 381 ID
+náklady roku 2013 200 000 Kč 518 381 ID
+náklady roku 2014 200 000 Kč 518. 381. ID
+
+o © celková částka se musí rozpočítat na měsíce (podle data pořízení) nebo na celé roky
+Komplexní náklady příštích období
+o © jedná-li se o více nákladů, které spolu souvisí a musí se časově rozlišit
+
+o © náklady se sečtou a rozlišení se provádí jen jedenkrát
+o © používají se při dlouhodobých kampaních, při přípravě nové výroby nebo prototypu (zkušební vzorek)
+o | účet 382 (rozvahový aktivní)
+o | účet 555 — tvorba a zúčtování komplexních nákladů příštích období
+spotřeba materiálu 204 000 Kč 501 112 výdejka
+mzdy 400 000 Kč 521 331 ID
+pojistné zaměstnavatele 136 000 Kč 524 336 ID
+
+nakoupené služby 460 000 Kč 518 321 ID
+
+1
+

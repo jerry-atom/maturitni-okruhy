@@ -1,0 +1,68 @@
+v okamžiku pořízení
+O | pořizovací cena
+= | nakupované zásoby
+=. cena pořízení + vedlejší pořizovací náklady
+o | vlastní náklady
+= | ocenění zásob vlastní výroby
+= přímé náklady (jednicové)
+e dají se přesně zjistit na jeden výrobek
+e př. mzdy, cena materiálu
+= | nepřímé náklady (režijní)
+e nedají se přesně zjistit na jeden výrobek
+e př. odpisy, energie
+při výdeji
+o | při výdeji ze skladu se oceňují ve vlastních nákladech
+o | při prodeji se oceňují prodejní cenou
+
+4. Způsoby účtování zásob
+
+způsob A
+způsob B
+
+S. Zboží
+
+produkty, které firma nakupuje, aby je dále prodávala
+o zboží účtují obchody
+do zboží patří i vlastní výrobky, které jsou prodávány ve vlastních prodejnách
+zbožím můžou být i nemovitosti (například u realitních kanceláří)
+zboží se oceňuje
+
+o | pořizovací cenou
+
+« | cena pořízení + vedlejší pořizovací náklad
+
+o. vlastními náklady
+
+zboží evidujeme v účtové skupině 13
+
+způsob A
+o — v průběhu roku se zásoby účtují na příslušný rozvahový účet (132) a do nákladů se dostává až
+v momentě výdeje
+o | používá se účet pořízení (131)
+o | pořízení z tuzemska
+
+ 
+
+FAP za zboží 10 000 Kč 131 FAP
+DPH 20 % 2 000 Kč 343 (131-nepl.)
+celkem 12 000 Kč 321
+doprava vlastním autem 2 000 Kč 131 622 | ID
+pojištění zásilky 4 000 Kč 131 379.. ID
+provize za zprostředkování 4 000 Kč 131 211.. VPD
+přijetí na sklad 20 000 Kč 132 131 příjemka
+výdej ze skladu 12 000 Kč 504 132 | výdejka
+
+o | pořízení ze zahraničí
+FAP ze zahraničí za zboží 10 000 Kč 131 321. FAP
+clo 2 000 Kč 131.379.. ISD
+DPH 20 % výstup 2 400 Kč 349.. 343. DD
+DPH 20 % vstup 2 400 Kč 343. 349. DD
+přijetí na sklad 12 000 Kč 132 131 příjemka
+
+o | prodej zásob
+FAV za zboží v prod.c. 10000 Kč 311 604 | FAV
+DPH 20 % 2 000 Kč 311.. 343
+úbytek prodaného zbo. v PC 5 000 Kč 504.. 132. výdejka
+
+inventarizace
+

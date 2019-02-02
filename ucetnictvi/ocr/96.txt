@@ -1,0 +1,82 @@
+©)
+
+účtování
+přiznány hrubé mzdy 100 000 Kč 521 331 ID
+
+e | sociální a zdravotní pojištění
+
+o — systém sociálního a zdravotního pojištění byl zřízen v roce 1993
+o | zdravotní pojištění
+= peněžní prostředky vybírají zdravotní pojišťovny
+= každý člověk musí být u nějaké zdravotní pojišťovny registrován
+= příklady ZP— VZP, Vojenská ZP, ZP ministerstva vnitra, Zaměstnanecká pojišťovna Škoda,...
+= zdravotní pojišťovnu lze změnit pouze 1x ročně vždy k 1. 1.
+= | narozené dítě se automaticky stává pojištěncem té zdravotní pojišťovny, u které je registrována matka a změna
+je možná po přidělení rodného čísla
+= | ze zdravotního pojištění jsou hrazeny léky, lékařská péče, základní lékařské úkony (např. operace), apod.
+s plátci ZP
+e zaměstnanci — 4,5 % z hrubé mzdy (+ případné zaměstnanecké výhody)
+e © zaměstnavatelé — 9 % z objemu hrubých mezd (+ případné zaměstnanecké výhody)
+« OSVČ
+e stát— za děti, studenty, důchodce,...
+e OBZP- platí si ho sami
+o — sociální pojišťění
+= peněžní prostředky vybírá Česká správa sociálního zabezpečení (městská nebo okresní)
+s skládáse z:
+e © nemocenského pojištění — financuje se výplata dávek nemocenského pojištění
+e © důchodového pojištění — financuje se výplata starobních, sirotčích a invalidních důchodů
+e příspěvku na státní politiku zaměstnanosti — financuje se chod úřadů práce, podpory
+V nezaměstnanosti...
+= plátci SP
+e © zaměstnanci — 6,5 % z hrubé mzdy (+ případné zaměstnanecké výhody)
+e © zaměstnavatelé — 25 % z objemu všech hrubých mezd
+(+ případné zaměstnanecké výhody)
+(dobrovolně mohou platit 26 %, pokud jsou tzv. malá organizace (do 25 zaměstnanců), která
+se k tomuto přihlásila — pak má nárok na refundaci %2 přiznaných náhrad za dočasnou PN)
+* OSVČ
+
+o | celkově se tedy odvádí 13,5 % na ZP a 31,5% (popř. 32,5 %) na SP
+
+o | kevidenci SP a ZP slouží účet 336 — Zúčtování s institucemi sociálního a zdravotního pojištění
+
+o © účet 336 má v případě plateb pasivní zůstatek, v případě přeplatku zůstatek aktivní
+
+o © ktomuto účtu se vede analytická evidence
+
+= 336.1 — např. ZP
+s 336.2— např. SP
+
+o © může být zavedena i další analytika podle různých zdravotních pojišťoven (např. 336.11 — VZP)
+
+o © u zaměstnanců se ZP a SP strhává ze mzdy (účet 331 — Zaměstnanci)
+
+o © u zaměstnavatelů vchází ZP a SP do nákladů (účet 524 — Zákonné sociální a zdravotní pojištění)
+
+o | vyměřovací základ pojistného se zvyšuje v případě, že zaměstnavatel poskytuje zaměstnanci různá nepeněžní plnění
+(např. mobil, služební auto používané i pro osobní účely — min. 1 000 Kč dle zákona o dani z příjmů, přechodné
+ubytování nebo penzijní připojištění)
+
+o | účtuje se vždy o dvou účetních případech — o předpisu a úhradě
+
+o | účtování
+
+ZP za zaměstnance 2500 Kč 331 336.1 ID
+
+SP za zaměstnance 3200 Kč 331 336.2 ID
+
+ZP za zaměstnavatele 9 000 Kč 524 336.1 ID
+
+SP za zaměstnavatele 25 000 Kč 524 336.2 ID
+
+úhrada ZP 11500 Kč 336.1. 221 VBŮ
+
+úhrada SP 28 200 Kč 336.2 221 VBŮ
+e | zdanění
+
+o © zaměstnanci je každý měsíc srážena ze mzdy tzv. záloha na daň z příjmů FO ze závislé činnosti nebo tzv. srážková
+daň (podle výše hrubé mzdy nebo podepsání Prohlášení poplatníka)
+
+o © daň odvádí zaměstnavatel a vzniká mu tak závazek vůči FU na účtu 342 — Ostatní přímé daně
+
+o © poplatníkem je zaměstnanec, plátcem je zaměstnavatel
+

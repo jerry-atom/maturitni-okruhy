@@ -1,0 +1,82 @@
+o © základ daně z příjmů se zvyšuje v případě, že zaměstnavatel poskytuje zaměstnanci různá nepeněžní plnění (např.
+mobil, služební auto používané i pro osobní účely — min. 1 000 Kč dle zákona o dani z příjmů, přechodné ubytování
+nebo penzijní připojištění)
+
+o | zaměstnanec, který podepsal Prohlášení poplatníka, si může odečíst slevy (na poplatníka, invaliditu, studenta, děti)
+
+= | zdanitelná mzda, ze které se počítá záloha na daň se zaokrouhluje do 100 Kč na celé koruny nahoru a nad 100
+Kč na celé stokoruny nahoru
+
+o © pokud zaměstnanec nepodepsal Prohlášení poplatníka, nemůže si uplatnit slevy na dani v měsíčních sazbách (může
+
+ročně, pokud si sám podá přiznání)
+
+o | Zaměsínanec nepodepsal prohlášení
+s vtom případě je rozhodující výše hrubé mzdy
+e pokud je HM > 5 000 Kč, základ daně se zaokrouhluje na 100 Kč nahoru, vypočítá se 15% záloha na
+daň a na konci roku se provede zůčtování daně
+e pokud je HM < 5 000 Kč, základ daně se zaokrouhluje na koruny dolů, vypočítá se 15% srážková
+(konečná) daň, která nevchází do ročního zůčtování daně. Daň se zaokrouhluje na Kč dolů
+
+o — dohoda o provedení práce (podepsal prohlášení)
+= ze mzdy zaměstnance se odvádí SP a ZP pouze, pokud jeho hrubá mzda přesáhne 10 000 Kč
+= do 10000 Kč se nepočítá superhrubá mzda a neodvádí se SP, ZP
+=. daň se odvádí vždy v závislosti na výši příjmů
+e HM pod 10 000 Kč
+o. HMdo5 000 Kč
+= © základ daně se zaokrouhlí na Kč dolů a vypočítá se 15 % záloha na daň, která vchází
+do ročního zúčtování daně
+s daň se zaokrouhluje na Kč dolů
+o. HMnad5 000 Kč
+= © základ daně se zaokrouhluje na 100 Kč nahoru, vypočítá se 15 % záloha na daň a na
+konci roku se provede zúčtování daně
+e  HMnad 10 000 Kč
+o — počítá se SHM, která se zaokrouhlí klasicky na 100 Kč nahoru a vypočítá se záloha na daň (15 %)
+
+o © dohoda o pracovní činnosti (podepsal prohlášení)
+= ze mzdy zaměstnance se odvádí SP, ZP i daň (záloha na daň nebo srážková daň)
+
+© HMdo5 000 Kč
+
+o | vypočítá se SHM, která se zaokrouhlí na Kč dolů a vypočítá se 15 % záloha na daň, která vchází do
+ročního zúčtování daně
+
+o © daň se zaokrouhluje na Kč dolů
+
+e HMnad5 000 Kč
+o © počítá se SHM, která se zaokrouhlí klasicky na 100 Kč nahoru a vypočítá se záloha na daň (15 %)
+
+o © postup výpočtu zálohy na daň z příjmů
+s je zaměstnanci srážena každý měsíc
+= | pokud zaměstnanec podepíše Prohlášení poplatníka (může ho podepsat pouze u jednoho zaměstnavatele),
+uplatňuje si měsíční slevy na dani
+
+Hrubá mzda
+x 1,34 (pokud malá organizace, která se přihlásila k placení 26% tak 1,35)
+Základ daně = superhrubá mzda (zaokrouhlení při měs. zúčtování na celé 100 Kč nahoru)
+Daň — 15%
+- sleva na poplatníka, invaliditu, studenta
+
+ 
+
+Daň po slevě na poplatníka, invaliditu, studenta (v případě záporného číslo => 0 Kč)
+- sleva na děti
+
+ 
+
+Daň po slevách / daňový bonus (může vzniknout pouze po odečtení slev na děti)
+
+HM
+
+- ZP (4,5 %)— zaokrouhlit na celé Kč nahoru
+- SP (6 %)— zaokrouhlit na celé Kč nahoru
+
+- záloha na daň (příp. + daň. bonus)
+
+Čistá mzda
+
+- ostatní srážky
+
++ náhrada mzdy při dočasné PN
+Cástka k výplatě
+

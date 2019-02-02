@@ -1,0 +1,64 @@
+o dělí se na daň z pozemků a daň ze staveb
+
+o předmětem daně jsou pozemky a stavby na území ČR vedené v katastru nemovitostí
+
+o pozemky 1 stavby jsou rozčleněny do několika typů
+
+o. poplatníkem je zpravidla vlastník
+
+o. zdaňovacím obdobím je 1 rok
+
+o daňové přiznání je poplatník povinen podat do 31. 1. daného zdaňovacího období a do
+stejného termínu ji 1 zaplatit
+
+O pro daň z nemovitostí používáme účet 532 — Daň z nemovitostí
+
+o daň z nemovitostí je daňově uznatelným nákladem až po zaplacení
+
+o účtování
+předpis daně z nemovitostí 6 000 Kč 532 345 ID
+úhrada daně 6000Kč © 345 221. VBŮ
+
+e trojdaň
+
+o skládá se z daně dědické, darovací a z převodu nemovitostí
+o dědická daň
+= je uvalena na zděděný majetek
+= platí ji poplatníci ve III. skupině
+= poplatníkem je dědic
+= je daňově neuznatelným nákladem
+o darovací daň
+= je uvalena na majetek nabytý darováním
+= platí ji poplatníci ve III. skupině
+= poplatníkem je nabyvatel
+= je daňově neuznatelným nákladem
+o daří z převodu nemovitostí
+= | daň je uvalena na jednorázový úplatný převod nemovitostí
+= platí ji poplatníci ve III. skupině
+= poplatníkem je převodce
+= je daňově uznatelným nákladem až po zaplacení
+o pro trojdaň se používá účet 538 — Ostatní daně a poplatky
+
+o účtování (je u všech tří daní stejné)
+předpis trojdaně 5 000 Kč 538.345 ID
+úhrada trojdaně 5 000 Kč 345. 221. VBU
+
+4. Daň z přidané hodnoty
+
+e | proevidenci DPH se používá účet 343 — Daň z přidané hodnoty
+e | nepřímá daň- je placena v cenách výrobků a služeb konečným spotřebitelem
+e | vybírá se na všech stupních
+e dvěsazby
+o základní — 20 %
+o snížená— 14%
+e © uneplátců se DPH stává součástí pořizovací ceny
+e | daň na vstupu — 343 na straně MD — daňová pohledávka
+e | daň na výstupu — 343 na straně D — daňový závazek (povinnost)
+e | výsledná daňová povinnost (nadměrný odpočet) se zjistí jako výstup — vstup
+e © nadměrný odpočet nejčastěji vzniká, když
+o podnik nakupuje v 20 % sazbě a prodává ve 14 % sazbě
+o podnik nakupuje v tuzemsku, ale prodává převážně do zahraničí
+e © DPH se nejčastěji počítá při nákupu nebo prodeji na fakturu nebo v hotovosti
+
+5
+

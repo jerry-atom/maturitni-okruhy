@@ -1,0 +1,90 @@
+e © dobrovolně na základě vlastního rozhodnutí (např. při změně rozsahu hospodářské činnosti)
+
+e | vynuceně (např. dlouhodobou ztrátovostí vyvolanou špatným hospodařením společnosti)
+
+vykazuje-li a. s. dlouhodobou ztrátu, uhrazuje ji přednostně ze zákonného rezervního fondu
+
+pokud tento fond nestačí, ztráta se hradí z jiných fondů, např. z nerozděleného zisku minulých let, ze
+statutárního rezervního fondu, popř. snížením ZK
+
+v souladu s obchodním zákoníkem leze snížit ZK
+
+e | snížením jmenovité hodnoty dosavadních akcií
+
+©
+
+účtování
+ztráta k 1.1. 431 701 ID
+snížení jmen. hodn. 419 431 ID
+zápis do OR 411 419 ID
+
+e | vykoupením části vlastních akcií z oběhu
+
+O O O O0 0
+
+vykoupené akcie si a. s. může ponechat jen na přechodnou dobu
+v této době mohou být vykoupené akcie opět vydány do oběhu (prodány) nebo musí být zničeny
+pořizovací cena vykoupených akcií = jmenovitá hodnota
+účet 252 — Vlastní akcie a vlastní obchodní podíly
+zničení akcií
+s účtování
+
+stažení akcií z oběhu (v PC) 252. 221. VBŮ
+zničení akcií 419 252 ID
+zápis do OR (v nom. hodn) 411 419 ID
+
+= v případě, že byly vlastní akcie vykoupeny za vyšší nebo nižší cenu než je jejich jmenovitá
+hodnota, vypořádá se rozdíl s účtem vlastního kapitálu podle rozhodnutí valné hromady (např.
+s účtem emisního ážia, ostatní kapitálové fondy nebo jiné)
+vrácení akcií do oběhu
+= účtování
+
+vykoupení vlastních akcií 252. 221. VBŮ
+prodej vlast. akcií (trž. cena) 221 661 VBŮ
+úbytek vlastních prodaných 561 252 ID
+akcií v PC
+
+e | upuštěním od vydání nesplacených akcií
+
+o
+©,
+
+u akcií, u nichž jsou upisovatelé v prodlení se splacením jmenovité hodnoty akcií
+účtování
+
+ 
+
+upsání nových akcií 353 419 ID
+část akcií splacena 221 353. VBŮ
+snížení ZK
+
+a) nesplacená část akcií 419 353 ID
+b) splacená část akcií 419 379 ID
+(bude se vracet)
+
+zápis do OR 411 419 ID
+vrácení splatné části akcií 379 221 VBŮ
+bývalým akcionářům
+
+e © výsledek hospodaření a jeho rozdělení
+o © předmětem rozdělení je výsledek hospodaření zjištěný v účetnictví za minulé účetní období
+o | společnost vykazuje zisk
+
+účtování
+
+zisk k prvnímu dni období 701 431 ID
+příděl do zákonného rezervního fondu 431 421 ID
+příděl do ostatních fondů 431 423/1. ID
+předpis dividend 431 364 ID
+předpis daně z dividend 364 342 ID
+předpis zaměstnaneckých dividend 431 333 ID
+předpis daně ze zaměstnanec. dividend 333 342 ID
+předpis tantiém 431 379 ID
+předpis daně z tantiém 379 342 ID
+výplata čistých dividend 364. 221. VBŮ
+výplata čistých zaměstnaneckých dividend 333 — 221. © VBŮ
+výplata čistých tantiém 379 221 VBU
+úhrada ztráty z minulých let 431 429 ID
+zvýšení základního kapitálu 431 419 ID
+nerozdělený zisk z minulých let 431 428 ID
+

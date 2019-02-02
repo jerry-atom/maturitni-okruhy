@@ -1,0 +1,93 @@
+o © pokud společník jako zaměstnanec používá osobní automobil, který je majetkem společnosti a používá ho pro osobní
+1 služební účely, zvyšuje se částka pro výpočet SHM 1 SP a ZP o 1% ze vstupní ceny vozidla za každý měsíc
+o | účtování
+
+hrubé mzdy zaměstnancům 90 000 Kč 522 366 ID
+
+SP zaměstnanců 5 850 Kč 366 336.2 ID
+
+ZP zaměstnanců 4 050 Kč 366 336.1.. ID
+
+daň z příjmů 12 350 Kč 366 342 ID
+
+výplata mzdy 67 750 Kč 366 | 221. VBŮ
+cestovní náhrady
+
+o © pro členy orgánů společnosti (společníci, jednatelé, ostatní statutární orgány) jsou běžné cestovní náhrady, které jim
+vyplácí společnost
+
+o | cestovní náhrady se účtují na účet 512 — Cestovné
+
+o | účtování
+
+o | předpis cestovních náhrad 5 000 Kč 512 365 ID
+
+o | výplata cestovních náhrad 5 000 Kč 365 211 VPD
+
+výsledek hospodaření a jeho rozdělení
+o © předmětem rozdělení je výsledek hospodaření zjištěný v účetnictví za minulé účetní období
+o — společnost vykazuje zisk
+
+= | účtování
+
+zisk k prvnímu dni období 701 431 ID
+příděl do zákonného rezervního fondu 431 421 ID
+příděl do ostatních fondů 431 423/1 ID
+předpis dividend 431 364 ID
+předpis daně z dividend 364 342 ID
+výplata čistých dividend 364.. 221. VBŮ
+úhrada ztráty z minulých let 431 429 ID
+zvýšení základního kapitálu 431 419 ID
+nerozdělený zisk z minulých let 431 428 ID
+o © společnost vykazuje ztrátu
+= | účtování
+ztráta k prvnímu dni období 431 701 ID
+úhrada ztráty ze zákonného fondu 421 431 ID
+úhrada ztráty — nerozdělený zisk 428 431 ID
+úhrada ztráty společníky 354 431 ID
+zbytek ztráty neuhrazen 429 431 ID
+
+o © odměny členům statutárních orgánů a. s. (jednatelé, dozorčí rada) jsou účtovány do nákladů na účet 523 — Odměny
+členům orgánů společnosti a družstva souvztažně s účtem závazků (např. 379 — Jiné závazky)
+= ztěchto odměn se nesráží SP, ale pouze ZP
+= © účet 523 je daňově neúčinný náklad
+
+4. Rozbor veřejné obchodní společnosti
+
+osobní společnost
+
+zakládají ji minimálně dvě osoby, které podnikají pod stejnou firmou a názvem
+
+ručí za závazky společnosti společně a nerozdílně celým svým majetkem
+
+mohou ji založit FO i PO
+
+společnost je PO, ale zisk se převede na společníky, kteří si ho sami zdaní daní z příjmů FO
+
+zisk i ztráta se dělí mezi společníky rovným dílem, pokud smlouva nestanovuje jinak
+
+statutárním orgánem je každý ze společníků, pokud ve smlouvě není stanoveno jinak
+
+základní kapitál není povinný
+
+není stanoven povinný vklad společníka
+
+nevytváří se rezervní fond
+
+smrtí společníka dochází k zrušení a zániku společnost (pokud práva nepřecházejí dědictvím na dědice)
+
+touto společností jsou často rodinné podniky, kvůli ručení
+
+vznik v. 0. S.
+
+o | společnost s ručením omezeným vzniká dnem zápisu do obchodního rejstříku a v tento den se sestavuje zahajovací
+
+rozvaha a otevírají se účty hlavní knihy
+
+o | zvláštní charakter společnost se projevuje především v pasivech zahajovací rozvahy, protože společníci mohou
+= © vložit majetek do společnosti (účty 411, 413)
+= © půjčit majetek společnosti (účty 365, 479)
+= © získat majetek pro společnost např. z úvěrů a půjček od jiných subjektů (účty 231, 461)
+
+6
+

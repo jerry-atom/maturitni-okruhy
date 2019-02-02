@@ -1,0 +1,70 @@
+o | účtování
+tvorba opravné položky k pohl. 10 000 Kč 558 391 ID
+zrušení OP 10 000 Kč 391 558 ID
+e | účet 559— Tvorba a zúčtování opravných položek v provozní činnosti
+o | na tomto účtu se zaznamenávají tvorby a zůčtování opravných položek k různým majetkovým účtům
+o | daňově neuznatelný náklad
+o účtování
+
+tvorba OP 1 500 Kč 559 191 ID
+o | vdalším období dočasné snížení pominulo
+
+zrušení OP 1 500 Kč 191 559 ID
+o | vdalším období se dočasné snížení stalo trvalým
+
+zrušení OP 1 500 Kč 191 559 ID
+
+trvalé snížení 1500 Kč 549 112 ID
+
+e © skupina 56— Finanční náklady
+« | účet 561 — Prodané cenné papíry a podíly
+o | účtuje se zde hodnota prodaných CP, tj. jejich pořizovací cena
+o | vpřípadě, že jsou prodány CP za různé PC, Ize i v tomto případě využít pro ocenění úbytku CP metodu FIFO
+nebo metodu průměrných cen
+o | účtování
+
+nákup akcií 10 000 Kč 251.. 221. VBŮ
+prodej akcií 20 000 Kč 221. 661. VBŮ
+vyřazení akcií 10 000 Kč 561 251 ID
+nákup dluhopisů 25 000 Kč 259. 221. VBŮ
+provize 250 Kč 259 211 VPD
+registrace dluhopisů 25 250 Kč 253 259 ID
+prodej dluhopisů 28 000 Kč 211 661 PPD
+úbytek dluhopisů 25 250 Kč 561 253 ID
+
+* účet 562— Úroky
+o | úroky, které je účetní jednotka povinna platit
+o | úroky z bankovního úvěru včetně úroků z prodlení podle smlouvy o úvěru
+o | nepatří sem úroky, které se zahrnují přímo do PC DM
+o | účtování
+úrok z úvěru 10000 Kč 562 221. VBŮ
+« | účet 563 — Kurzové ztráty
+o | účtuje se zde rozdíl vzniklý z pohybu kurzů Kč k cizím měnám
+o u peněžních prostředků, pohledávek a závazků v cizí měně
+
+o účtování
+FAP za materiál 10000EUR 2500000 Kč 111 321 FAP
+úhrada FAP — kurz 26 Kč 260 000 Kč 321 221 VBŮ
+rozdíl — ztráta 10 000 Kč 563 321 ID
+
+e | účet 568— Ostatní finanční náklady
+o | účtují se náklady peněžního styku
+o | bankovní výlohy (poplatky bance za vedení účtu, za položky)
+o — pojištění vztahující se k finančnímu majetku nebo činnosti
+o | účtování
+poplatky bance za vedení účtu 1 000 Kč 568 221 VBŮÚ
+e | účet 569 — Manka a škody na finančním majetku
+o | zachycují se zde manka a škody v pokladně nebo na ceninách
+o | účtování
+manko v pokladně 1 000 Kč 569 211 ID
+e © skupina 58 — Mimořádné náklady
++ | účet 582— Škody
+o | účtují se zde škody na majetku v mimořádných případech pro ÚJ
+o | účtování
+požár ve skladu materiálu 10 000 Kč 582 112 ID
+e — účet 588 — Ostatní mimořádné náklady
+o opravy nákladů minulých období, jestliže jde o významné částky, které by ovlivnily provozní nebo finanční
+výsledek hospodaření běžného období
+o | účtování
+opravy nákladů minulých let 50 000 Kč 588 379 ID
+

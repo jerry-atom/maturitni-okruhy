@@ -1,0 +1,129 @@
+« | účet 664— Výnosy z přecenění cenných papírů
+o | účtují se zde výnosy z přecenění akcií
+
+účtování přecenění CP —zvýšení hodnoty © 12000 Kč 251 664 ID
+
+« | účet 665— Výnosy z dlouhodobého finančního majetku
+o | natomto účtu se zachycují přijaté podíly na zisku v a. s. nebo v s. r. 0.
+
+účtování přiznány dividendy 90 000 Kč 378 665 ID
+
+* | účet 666— Výnosy z krátkodobého finančního majetku
+
+o
+©
+o
+
+na tomto účtu se zachycují přijaté podíly na zisku v a. s. nebo v s. r. 0.
+výnos při nákupu dluhopisů
+
+účtování
+
+nákup dluhopisů 10000000Kč 256.1 221. VBŮ
+naběhlý úrok 1250000Kč 256.2 666 | ID
+odkup dluhopisů 11250000Kč 221. 256. VBÚ
+připsány dividendy 50000Kč 221. 666. VBŮ
+
+* | účet 667— Výnosy z derivátových operací
+
+©)
+o
+Oo
+
+účtuje se zde o výnosech vzniklých při přecenění hodnoty cenných papírů oproti účetní hodnotě
+deriváty — opce (předkupní právo), forma termínovaného obchodu
+
+účtování
+prodej opce v okamžiku uplatnění 50 000 Kč 37 667 ID
+změna reálné hodnoty derivátů 10 000 Kč 373 667 ID
+
++ | účet 668— Ostatní finanční výnosy
+
+o
+©
+
+používá se při zjištěných inventarizačních rozdílech v souvislosti s peněžními prostředky
+účtování
+
+přebytek na ceninách 2 000 Kč 213 668 ID
+manko v pokladně 5 000 Kč 549 211 ID
+předpis manka k náhradě 5 000 Kč 335 668 ID
+náhr. od poj. za škodu na pokladně 25 000 Kč 378 668 ID
+
+e © skupina 68— Mimořádné výnosy
+* | účet 681 — Výnosy ze změny metody
+
+©
+
+o
+©
+
+účet se používá při změně metody v účetnictví na jednotlivých druzích majetku, například při změně z vedení
+daňové evidence na účetnictví
+používá se u zásob
+
+účtování
+
+vyúčtování změn materiálu 10 000 Kč 112 681 ID
+vyúčtování změn výrobků 20 000 Kč 123 681 ID
+vyúčtování změn zboží 30 000 Kč 132 681 ID
+
+e | účet 688— Ostatní mimořádné výnosy
+
+©
+
+Oo
+O
+o
+
+účetní jednotka účet používá pouze v neobvyklých případech
+nárok na náhradu mimořádné škody od pojišťovny
+oprava nákladů a výnosů minulých období, jde-li o významné částky
+
+účtování
+
+záplavy zničily materiál 70 000 Kč 582 112 ID
+odhad částky náhrady od pojišťovny 50 000 Kč 388 688 ID
+předpis náhrady od pojišťovny 55 000 Kč 378 388 ID
+rozdíl 5 000 Kč 388 648 ID
+úhrada od pojišťovny 55 000 Kč 221.. 378. VBŮ
+
+e © skupina 69 — Převodové účty
+*« | účet 697— Převod provozních výnosů
+
+©
+
+o
+©
+©
+
+tento účet se používá, aby byl správně vyčíslen výsledek hospodaření podle jednotlivých činností
+proto se provádí převody mezi výnosovými účty
+
+část původně zaúčtovaných výnosy se převede pomocí tohoto účtu do výnosů jiné činnosti
+účtování
+
+převod finančních výnosů 10 000 Kč 697 668 ID
+
+převod mimořádných výnosů 20 000 Kč 697 688 ID
+
+e | účet 698— Převod finančních výnosů
+
+o
+
+o
+O
+©
+
+tento účet se používá, aby byl správně vyčíslen výsledek hospodaření podle jednotlivých činností
+proto se provádí převody mezi výnosovými účty
+
+část původně zaúčtovaných výnosy se převede pomocí tohoto účtu do výnosů jiné činnosti
+účtování
+
+převod ostatních finančních výnosů 10 000 Kč 698 648 ID
+
+převod finančních výnosů 20 000 Kč 698 688 ID
+
+4
+

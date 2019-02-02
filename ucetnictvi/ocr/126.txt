@@ -1,0 +1,62 @@
+o © časové rozlišení nákladů a výnosů
+381 — Náklady příštích období
+382 — Komplexní náklady příštích období
+383 — Výdaje příštích období
+384 — Výnosy příštích období
+385 — Příjmy příštích období
+o © dohadné položky
+s aktivní (například odhad náhrady od pojišťovny)
+= pasivní (například nevyfakturované dodávky)
+o | rezervy
+s zákonné
+s ostatní
+o — kurzové rozdíly
+= u valutové pokladny, devizových účtů, u pohledávek a závazků v cizí měně
+s KZúůčtu2ll 1 000 EUR 25 000 Kč
+s přepočet k poslednímu dni účetního období — kurz ČNB 24 Kč
+= skutečný stav 24 000 Kč (1 000 *24)
+
+účetní stav 25 000 Kč
+kurzový rozdíl 1 000 Kč — ztráta
+o © opravné položky
+= vpřípadě dočasného snížení hodnoty daného majetku
+= tvorba opravné položky u materiálu 559 191 ID
+o — odpis pohledávek
+= pohledávky, u nichž doba splatnosti již uplynula a nedá se předpokládat, že budou dlužníkem uhrazeny
+
+4. Vlastní uzávěrka
+
+« | hospodářský výsledek
+o © zjištění HV
+= hospodářský výsledek je ukazatel umožňující posoudit hospodaření účetní jednotky
+= | zjišťuje se porovnáním nákladů a výnosů
+= dvojí pohled na hospodářský výsledek
+e © před zdaněním (hrubý účetní zisk)
+e © po zdanění (disponibilní (čistý) zisk)
+o © vypočítá se jako hrubý zisk — vypočítaná daň z příjmů
+o © struktura HV
+s provozní výsledek hospodaření
+e © porovnání obratů účtů účtových skupin 50 — 55 (provozní náklady) a 60 — 64 (provozní výnosy)
+s finanční výsledek hospodaření
+e © porovnání obratů účtů účtových skupin 56 a 57 (finanční náklady) a 66 (finanční výnosy)
+e © případně se odečítají účty
+o | 597- Převod provozních nákladů (nová nevydařená výroba)
+o | 598— Převod finančních nákladů
+o 697- Převod provozních výnosů
+o 698 — Převod finančních nákladů
+= součet provozního a finančního výsledku hospodaření se nazývá hospodářský výsledek z běžné činnosti
+mimořádný HV — hospodářský výsledek z mimořádné činnosti
+součet běžné a mimořádné činnosti se pak převádí na účet 710 — Účet zisku a ztrát
+e | úprava HV na daňový základ
+o © pro potřeby výpočtu základu daně z příjmů je třeba účetní výsledek hospodaření před zdaněním upravit o:
+= náklady daňové neúčinné, například:
+e © náklady na reprezentaci
+pokuty a penále
+dary (ne vždy)
+příspěvky právnickým osobám nevplývající ze zákona
+výdaje přesahující limity stanovené příslušnými předpisy
+manka a škody přesahující náhrady za ně (kromě škod způsobených živelnými pohromami)
+tvorba nezákonných rezerv
+tvorba nezákonných opravných položek
+daň dědická, darovací, daň z příjmů FO a PO
+

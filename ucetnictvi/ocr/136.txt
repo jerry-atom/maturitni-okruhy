@@ -1,0 +1,92 @@
+H. Ostatní provozní náklady 543, 544, 545, 546, 548, 549, 557
+
+V. Převod provozních výnosů (-)697
+
+I. Převod provozních nákladů (-)597
+
+* Provozní výsledek hospodaření (zohlednění položek výnosů (I. až V.) a nákladů (A. až I.))
+VI. Tržby z prodeje cenných papírů a podílů 661
+
+J. Prodané cenné papíry a podíly 561
+
+VII. Výnosy z dlouhodobého finančního majetku 665
+
+VII. Výnosy z krátkodobého finančního majetku 666
+
+K. Náklady z finančního majetku 566
+
+IX. Výnosy z přecenění cenných papírů a derivátů 664, 667AÚ
+
+L. Náklady z přecenění cenných papírů a derivátů 564, 567AÚ
+
+M. Změna stavu rezerv a opravných položek ve finanční oblasti (+/-)S74, (+/-)S79
+
+X. Výnosové úroky 662
+
+N. Nákladové úroky 562
+
+XI. Ostatní finanční výnosy 663, 667 AÚ, 668
+
+O. Ostatní finanční náklady 563, 567 AÚ, 568, 569
+
+XII. Převod finančních výnosů (-)698
+
+P. Převod finančních nákladů (-)598
+
+* Finanční výsledek hospodaření (zohlednění položek výnosů VI. až XII. a nákladů J. až P.)
+O. Daň z příjmů za běžnou činnost 591, 592, 595
+
+** Výsledek hospodaření za běžnou činnost (provozní VH + finanční VH - O.)
+
+XIII. Mimořádné výnosy 681, 688
+
+R. Mimořádné náklady 581, 582, 584, 588, 589
+
+S. Daň z příjmů z mimořádné činnosti 593, 594
+
+* Mimořádný výsledek hospodaření (XIII. — R. — S.)
+
+T. Převod podílů na výsledku hospodaření společníkům (+/-) 596
+
+*** Výsledek hospodaření za účetní období (+/-) (HV po zdanění)
+
+**** Výsledek hospodaření před zdaněním (Provozní + finanční + mimořádný HV)
+
+základní kontrolní vazba
+o | Položka ve výkazu zisku a ztráty Výsledek hospodaření za účetní období = položka v rozvaze A. V. Výsledek
+hospodaření běžného roku
+příklad výkazu zisku a ztráty viz strana 210 v zelené učebnici
+
+8. Příloha
+
+není stanovena forma, jen obsah
+účetní jednotky ji mohou sestavovat buď v popisné formě, nebo pomocí tabulek
+sestavuje se
+o | ve zjednodušené verzi
+o. vplné verzi
+obě verze obsahují 3 oblasti, které jsou ale různě podrobné
+obsahy jednotlivých oblastí
+o | Obecné údaje o účetní jednotce
+= © popis účetní jednotky — název, právní forma, sídlo nebo bydliště a místo podnikání, předmět podnikání,
+datum vzniku
+u © jména a příjmení členů statutárních orgánů
+= © údaje o osobách, které mají podstatný (účet 062 — akcie s podílem 20 — 40 %) nebo rozhodující vliv
+(účet 061 — akcie s podílem nad 40 %)
+= | průměrný přepočtený počet zaměstnanců
+= © údaje o půjčkách poskytnutých statutárním orgánům, členům statutárních a dozorčích orgánů
+
+o | Informace o účetních metodách a obecných účetních zásadách
+= © způsoby oceňování jednotlivých složek majetku
+způsob sestavení odpisových plánů a použité odpisové metody
+způsob stanovení opravných položek
+způsob použitý při přepočtu cizích měn na Kč
+způsob stanovení reálné hodnoty (pokud byla při ocenění použita) u CP
+
+o | Doplňující informace k rozvaze a k výkazu zisku a ztráty
+= důležité skutečnosti, které nelze z rozvahy a výkazu zisku a ztráty vyčíst
+= důležité skutečnosti, ke kterým došlo od rozvahového dne do okamžiku sestavení účetní závěrky
+= | rozpis rezerv a dlouhodobých bankovních úvěrů
+= © doměrky daně z příjmů za minulá účetní období
+
+4
+

@@ -1,0 +1,55 @@
+12. CENNÉ PAPÍRY
+
+„ charakteristika a členění cenných papírů
+„ oceňování cenných papírů
+„ účtování cenných papírů
+
+1. Charakteristika a členění cenných papírů
+
+cenné papíry představují finanční majetek
+cenné papíry vyjadřují majetkový podíl nebo pohledávku k jejich emitentovi (osobě, která je vydala)
+členění
+o podle formy
+= Jistinné (materializované)
+e fyzicky existují a bývá na nich vyznačena nominální hodnota
+= zaknihované (dematerializované)
+e jsou evidované např. ve- Střediskt-eenných-papírů.
+o podle obsahu Centra nim Oepoaaři
+= majetkové
+e vyjadřují majetkový podíl na společnosti, která je vydala
+e př. akcie, podílové listy
+= dluhové
+e vyjadřují úvěrový vztah mezi majitelem (věřitelem) a emitentem (dlužník), který má
+povinnost po uplynutí stanovené lhůty splatnosti (např. dluhopis) odkoupit zpět a
+vyplatit úrok
+o podle předpokládané doby držení
+= dlouhodobé
+e předpokládaná doba držení je delší než 1 rok
+e skupina 06 (Dlouhodobý finanční majetek)
+e rozdělují se podle míry účasti na ZK jiné společnosti
+o účet 061 — nad 40 % ZK
+o účet 062 — 20 — 40 % ZK
+o účet 063 — do 20 %
+
+= krátkodobé
+e předpokládaná doba držení je kratší než 1 rok
+e skupina 25 (Krátkodobý finanční majetek)
+o další členění
+= majetkové účasti
+e dlouhodobé majetkové cenné papíry, které zakládají podstatný nebo rozhodující vliv
+e účet 061 — Podíly v ovládaných a řízených osobách
+e účet 062 — Podíly v účetních jednotkách pod podstatným vlivem
+= cenné papíry k obchodování
+e majetkové i dluhové CP držené za účelem obchodování na veřejném trhu (burza)
+s cílem dosahovat zisku z rozdílu cen při nákupu a prodeji do 1 roku
+e účet 251 — Majetkové CP k obchodování
+e účet 253 — Dluhové CP k obchodování
+= dluhové cenné papíry držené do splatnosti
+e CP, které mají stanovenou platnost a ÚJ má úmysl je držet do splatnosti
+e účet 065 — Dluhové CP držené do splatnosti (dlouhodobé)
+e účet 256 — Dluhové CP se splatností do 1 roku držené do splatnosti (krátkodobé)
+= realizovatelné cenné papíry
+e (CP, které nejsou k obchodování ani držené do splatnosti a nemají majetkovou účast
+
+l
+

@@ -1,0 +1,89 @@
+10. DLOUHODOBÝ MAJETEK — OPOTŘENENÍ A ODPISY
+
+1. Majetek a jeho členění
+
+« | Dlouhodobý — používá se déle než 1 rok, opotřebovává se, nemění svoji podobu a je
+
+©)
+o
+
+o
+
+stanoven určitý minimální cenový limit
+Hmotný (limit stanovený podle vnitropodnikové směrnice)
+Nehmotný (limit stanovený podle vnitropodnikové směrnice)
+Finanční (není stanoven limit)
+
+e« | Oběžný — používá méně než 1 rok, spotřebovává se, mění svoji podobu a není
+
+o
+
+o
+
+o
+
+stanoven cenový limit
+
+Zásoby
+= | Materiálové zásoby
+= | Zásoby vlastní výroby
+= | Zboží
+= Zvířata
+
+Finanční oběžný majetek
+
+= | Peníze v hotovosti (pokladna)
+
+= | Peníze na bankovních účtech
+
+= Ceniny
+
+u | Krátkodobý finanční majetek (CP < 1 rok)
+Pohledávky
+
+= Za odběrateli
+
+= | Za zaměstnanci a společníky
+
+= | Finanční a jiné pohledávky
+
+2. Členění DM
+
+e« -© Hmotný- dělí se na movitý a nemovitý (pozemek, budova nebo stavba spojená pevným základem se zemí),
+
+O O O O O0 O0 O0
+
+odepisuje se účetními 1 daňovými odpisy,
+skupina 02 a 03
+Pozemky (bez ohledu na PC, neodepisuje se) - 031, budovy a stavby - 021
+Umělecká díla, sbírky a předměty z drahých kovů (bez ohledu na PC, neodepisují se) - 032
+Samostatné movité věci - 022
+Pěstitelské celky trvalých porostů - 025
+Základní stádo a tažná zvířata - 026
+Drobný hmotný majetek do ceny stanovené ÚJ — účtuje do nákladů — účet 501
+na účet 029 — Jiný dlouhodobý hmotný majetek
+= | účtujeme tehdy, když majetek nelze zařadit do předchozích účtů
+= © příklad - technické zhodnocení majetku, pokud nezvyšuje jeho pořizovací cenu (technického
+zhodnocení na pronajatém majetku)
+
+e — Nehmotný — odepisuje se účetními i daňovými odpisy, skupina 01
+
+o
+
+Zřizovací výdaje - 011
+= © výdaje spojená se založením firmy, soudní, notářské poplatky, náklady na pracovní cesty, mzdy,
+odměny
+Nehmotné výsledky výzkumné a odborné činnosti - 012
+= | technologické postupy, projekty, receptury
+Software - 013
+= © nakoupené nebo vytvořené programové vybavení počítačů
+Ocenitelná práva - 014
+= © know-how, licence, předměty průmyslových autorských práv (chráněné vzory, ochranné známky)
+Goodwill - 015
+= | kladný nebo záporný rozdíl mezi oceněním majetku a závazků
+Drobný nehmotný majetek do ceny stanovené ÚJ — účtuje se do N - účet 518
+na účet 019 — Jiný dlouhodobý nehmotný majetek
+= © účtujeme tehdy, když majetek nelze zařadit do předchozích účtů
+= © příklad - technické zhodnocení majetku, pokud nezvyšuje jeho pořizovací cenu (technického
+zhodnocení na pronajatém softwaru)
+

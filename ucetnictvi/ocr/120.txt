@@ -1,0 +1,73 @@
+o © společnost vykazuje ztrátu
+= účtování
+
+ztráta k prvnímu dni období 431 701 ID
+úhrada ztráty ze zákonného fondu 421 431 ID
+úhrada ztráty — nerozdělený zisk 428 431 ID
+úhrada ztráty společníky 354 431 ID
+zbytek ztráty neuhrazen 429 431 ID
+
+o © odměny členům statutárních orgánů a. s. (představenstvo, dozorčí rada) jsou účtovány do nákladů na účet 523 —
+Odměny členům orgánů společnosti a družstva souvztažně s účtem závazků (např. 379 — Jiné závazky)
+=  ztěchto odměn se nesráží SP, ale pouze ZP
+= účet 523 je daňově neúčinný náklad
+
+3.. Rozbor společnosti s ručením omezeným
+
+e © kapitálová společnost
+© © může ji založit minimálně jedna osoba a  maximrátíé 50 společníků
+* © musí tvořit základní kapitál ve výši minimálně 200800 Kč A bc mdbo gsdle počiv splečn 7, 10 510k5
+© © minimální povinný vklad společníka je ZB Kč 41 k=
+e © ZK jetvořen předem stanovenými vklady společníků
+e © společník může vložit majetek v peněžité i nepeněžité podobě
+e © společníci ručí za závazky společnost omezeně, tzn. do výše svého nesplaceného vkladu (pokud společník už svůj vklad
+splatí, za závazky společnosti tak už neručí)
+e © společnost ručí za své závazky celým svým majetkem
+e © podíl na zisku nebo na ztrátě se určuje podle výše vkladu
+e | rezervní fond se tvoří povinně
+o | tvoří se ze zisku
+o © poprvé se tvoří v roce, kdy firma vyprodukovala zisk
+o © tvoří se ve výši 10 % čistého zisku (po zdanění), maximálně však 5 % ZK
+e © rozdělování zisku je podle výše vkladu společníka, pokud není ve smlouvě stanoveno jinak
+e | nejvyšší orgán — valná hromada
+e | vznik s.r.o.
+o | společnost s ručením omezeným vzniká dnem zápisu do obchodního rejstříku a v tento den se sestavuje zahajovací
+rozvaha a otevírají se účty hlavní knihy
+o © zahajovací rozvaha obsahuje soupis majetku a zdrojů jeho financování
+o © před podáním návrhu na zápis do OR musí být každý peněžitý vklad splacen alespoň z 30 % a celkový výše
+splacených vkladů musí činit alespoň 100 000 Kč
+o | před vznikem s. r. 0. spravuje splacené vklady nebo jejich části pověřená osoba stanovená ve společenské smlouvě
+nebo zakladatelské listině
+o © splatnost vkladů je určena společenskou smlouvou, ale nejpozději do 5 let od vzniku společnosti
+o | sestavení zahajovací rozvahy
+s | aktivní účty Aktiva / 701
+= © pasivní účty 701 / Pasiva
+= © na straně pasiv můžeme mít účet 365 — Ostatní závazky ke společníkům a členům družstva
+e počáteční zůstatek na tomto účtu vyplývá ze zřizovacích výdajů před vznikem společnosti
+e zřizovací výdaje lze uhradit buď přímo ze splaceného vkladu (málo časté), nebo společníky (účet 365)
+e např. když jeden ze společníků uhradí zřizovací výdaje z vlastních prostředků
+= nastraně aktiv zpravidla bývá účet 353 — Pohledávky za upsaný základní kapitál
+e | používá se, když společníci dosud nesplatili své vklady
+e © můžeme k účtu vést analytickou evidenci podle jednotlivých společníků
+
+"for molo čení ty nomémaamé“ ZE Učhue Se do náv
+
+e notářské poplatky, soudní výlohy, cestovné sp
+
+ 
+
+LĚRSDNA C V e © do60 000 Kč se účtují jako drobný nehmotný majetek na účet 518 nebo se účtují na jednotlivé určité
+| účty (cestovné — 512,...)
+U i Aa C ; = COLD M M TÍ n nn n ye = PA k ola m
+J 3 n = 99999 ce“ NY ie eco ik kAadlll GO ETO pk O—hoEkÉ: PLECH TRAJCH KK A=BO9GHS-ZaR UH-
+o © pokud společnost zakládá jen jedna osoba, musí být ZK splacen v plné výši
+e | změny ZK
+o © základní kapitál (účet 411) je souhrn peněžitých a nepeněžitých vkladů, které byly vloženy do společnosti při jejím
+založení
+
+o | o změnách ZK, který byl zapsán v OR, se účtuje na účtu 411
+o | změny ZK, které ještě nebyly zapsány v OR, se účtuje na účtu 419 — Změny ZK (RP)
+o © změna výše ZK musí být uvedena ve stanovách společnosti a v obchodním rejstříku
+
+4
+

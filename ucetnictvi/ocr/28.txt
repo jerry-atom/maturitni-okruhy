@@ -1,0 +1,272 @@
+o
+
+©)
+
+©,
+
+nehmotný :
+nákup na fakturu z CR
+
+FAP za software
+DPH 20%
+celkem
+
+zařazení auta
+zaplacena FAP
+
+viz hmotný majetek
+
+finanční
+pokladna
+
+tržby za zboží
+oprava DM
+
+nákup valut
+
+nákup valut
+pokladní schodek
+předpis k náhradě
+část manka hotově
+zbytek srážkou
+
+ceniny
+nákup dálničních zn.
+
+výdej do spotřeby
+
+banka
+
+úhrada FAV
+úhrada FAP
+bankovní poplatky
+úroky z účtu
+úroky z úvěru
+výplata mezd
+odvod nadlimitu
+odvod nadlimitu
+poskytnutí úvěru
+poskytnutí úvěru
+
+cenné papíry
+
+pořízení akcií
+provize hotově
+zařazení
+
+prodej na fakturu
+vyřazení
+
+připsány dividendy
+přecenění CP —sníž.
+přecenění CP —zvýš.
+
+oběžný majetek
+
+©)
+
+zásoby
+způsob A nákup materiálu
+
+FAP za materiál
+DPH 20 %
+celkem
+
+doprava vlastním autem
+
+pojištění zásilky
+
+200 000 Kč
+40 000 Kč
+
+240 000 Kč
+200 000 Kč
+240 000 Kč
+
+10 000 Kč
+15 000 Kč
+18 000 Kč
+18 000 Kč
+5 000 Kč
+5 000 Kč
+2 000 Kč
+3000 Kč
+
+10 000 Kč
+10 000 Kč
+
+10 000 Kč
+12 000 Kč
+
+1 000 Kč
+
+2 000 Kč
+
+8 000 Kč
+80 000 Kč
+10 000 Kč
+10 000 Kč
+60 000 Kč
+60 000 Kč
+
+10 000 Kč
+1 000 Kč
+11000 Kč
+20 000 Kč
+15 000 Kč
+50 000 Kč
+10 000 Kč
+10 000 Kč
+
+10 000 Kč
+2 000 Kč
+12 000 Kč
+2 000 Kč
+4 000 Kč
+
+provize za zprostředkování 4 000 Kč
+
+přijetí na sklad
+výdej ze skladu
+
+způsob B nákup materiálu
+převod PZ do spotřeby
+
+zápis KZ
+
+FAP za materiál
+DPH 20 %
+celkem
+
+doprava vlastním autem
+
+pojištění zásilky
+
+20 000 Kč
+12 000 Kč
+
+20 000 Kč
+15 000 Kč
+10 000 Kč
+2 000 Kč
+12 000 Kč
+2 000 Kč
+4 000 Kč
+
+provize za zprostředkování 4 000 Kč
+
+213
+538
+
+221
+321
+568
+221
+562
+331
+261
+221
+221
+261
+
+043
+043
+061
+378
+561
+221
+564
+061
+
+další účtování DM viz otázka Dlouhodobý majetek
+
+111 -
+343 (111-nepl.)
+- 321
+111 622
+111 379
+111 211
+112 111
+501 112
+501 112
+112 501
+501 -
+343 (501-nepl.)
+- 321
+501 622
+501 379
+501 211
+
+5
+
+041
+343
+013
+321
+
+211.1
+511
+211.2
+261
+569
+335
+211.1
+331
+
+211
+213
+
+311
+221
+221
+662
+221
+221
+211.1
+261
+261
+461
+
+379
+211
+043
+661
+061
+666
+061
+664
+
+321
+041
+221
+
+604
+211.1
+261
+211.1
+211.1
+668
+335
+335
+
+FAP
+
+VPD
+příjemka
+výdejka
+
+FAP
+
+FAP
+
+ID
+VBU
+
+PPD
+VPD
+PPD
+VPD
+
+ID
+ID
+

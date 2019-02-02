@@ -1,0 +1,80 @@
+PUN-
+
+16. VÝNOSY
+
+pojem výnos a příjem
+členění výnosů
+
+zásady pro účtování výnosů
+rozbor jednotlivých výnosů
+
+1. Pojem výnos a příjem
+
+výnos — výkon firmy vyjádřený v penězích
+
+příjem — přírůstek jakéhokoliv majetku
+
+ne každý výnos je zároveň příjmem
+
+výnosy se musí časově rozlišovat, aby bylo účetnictví vedeno úplně a správně
+o | 384— Výnosy příštích období
+o 385 — Příjmy příštích období
+
+2. Členění výnosů
+účetní
+o | provozní
+= | výnosy, které vznikly v souvislosti s běžným provozem podniku
+= | skupina 60 — 64 a účet 697
+o | finanční
+= | výnosy spojené s peněžními prostředky nebo cennými papíry
+= © skupina 66 a účet 698
+o | mimořádné
+= | výnosy zachycující neobvyklé operace vzhledem k běžné činnosti účetní jednotky
+= © skupina 68
+daňové
+o | daňově uznatelné
+o | daňově neuznatelné
+= ovlivňují účetní výsledek hospodaření
+s | výnosy zdaněné srážkou u zdroje nebo od daně osvobozené (dividendy a podíly na zisku)
+= © výnosy zdaňované až při zaplacení (smluvní pokuty a penále pouze vyúčtované, ale dosud nepřijaté)
+
+3.. Zásady pro účtování výnosů
+
+účtují se v 6. účtové třídě
+
+v průběhu roku se účtují na straně Dal (v účtové skupině 61 může docházet ke snížení výnosů a potom se účtuje na straně
+MD)
+
+časově se rozlišují
+
+účtuje se zde tzv. narůstajícím způsobem od začátku roku (tzn. na začátku období vykazují nulový zůstatek)
+
+při uzavírání účetních knih se zůstatky účtů převádějí na účet 710
+
+opravy výnosů minulých let se účtují do běžného období na účtech výnosů, kterých se opravy týkají
+
+při účtování výnosů platí zákaz kompenzace
+
+4. | Rozbor jednotlivých výnosů
+
+skupina 60 — Tržby za vlastní výkony a zboží
+pro tyto účty je důležité určení dne uskutečnění účetního případu, aby mohl být správně vyčíslen základ daně z příjmů
+účet 601 — Tržby za vlastní výrobky
+
+o — používá se při prodeji vlastních výrobků na fakturu, za hotové nebo bezhotovostně
+
+o. účtování
+
+FAV za výrobky 10 000 Kč 311 601 FAV
+DPH 20 % 2 000 Kč 311 343
+úhrada FAV 12 000 Kč 221 311 VBU
+
+účet 602— Tržby z prodeje služeb
+o — účtuje se zde při poskytování služeb odběrateli na fakturu, za hotové nebo bezhotovostně
+o | účtování
+daňové poradenství-hotově 10 000 Kč 211 602 PPD
+DPH 20 % 2 000 Kč 211 343
+účet 604 — Tržby za zboží
+o | účet se používá při prodeji zboží na fakturu, za hotové nebo bezhotovostně
+o účtování
+

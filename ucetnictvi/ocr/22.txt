@@ -1,0 +1,55 @@
+10. Oceňování majetku
+
+při inventarizaci majetku se porovnání, jestli jeho skutečná hodnota souhlasí s oceněním v účetnictví
+
+V případě nesouladu se musí provést úprava ocenění majetku prostřednictvím opravných položek (u vybraných cenných
+papírů se oceňuje reálnou hodnotou)
+
+opravné položky
+
+o
+o
+
+©,
+©,
+
+cílem opravných položek je podat věrný a pravdivý obraz o majetku a jeho ocenění zachyceném v účetnictví
+jestliže je skutečná hodnota větší než účetní hodnota, jedná se o tzv. skrytý (latentní) přírůstek, o kterém se
+neúčtuje
+opravnými položkami se vyjadřuje přechodné snížení hodnoty majetku
+dělení
+= | zákonné— ovlivňují základ daně z příjmů
+= ostatní — mají vliv pouze na účetní hospodářský výsledek
+příčinou vzniku opravné položky u dlouhodobého majetku je například znehodnocení majetku, u kterého zatím
+není známo, jestli půjde opravit
+příčinou vzniku opravné položky u zásob je například malá možnost využití zásob ve firmě a firma VÍ, že snížení
+je dočasného charakteru
+jestliže je skutečná hodnota menší než účetní, jedná se o snížení hodnoty
+"trvalé
+e | trvalé snížení hodnoty mat. 500 Kč 549 112 ID
+u | dočasné
+e | tvoří se opravná položka (do nákladů)
+
+e | opravné položky se nachází vždy v poslední skupině příslušné majetkové třídy
+e | opravné položky se do rozvahy zapisují na stranu pasiv
+e | nákladové účty 559, 579, 589 strana MD
+e účty opravných položek — skupiny 09, 19, 29, 39 strana D
+e | daňově neúčinný náklad
+e | daňově účinné jsou pouze zákonné opravné pol. k pohledávkám
+o tvorba zákonné OP 1 000 Kč 558 391 ID
+e © tvorba opravné položky k materiálu
+o tvorba OP 1500 Kč 559 191 ID
+
+e © vdalším období se zjišťuje, jestli dočasné snížení
+o pominulo
+
+= zrušení OP 1 500 Kč 191 559 ID
+o stalo se trvalým
+
+= zrušení OP 1 500 Kč 191 559 ID
+
+= trvalé snížení 1 500 Kč 549 112 ID
+
+reálná hodnota
+o | přecenění na reálnou hodnotu se týká vybraných druhů cenných papírů (viz. cenné papíry)
+

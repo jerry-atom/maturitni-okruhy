@@ -1,0 +1,74 @@
+pokladní schodek ve valutové pokladně 8000Kč | 569. 211.2 ID
+
+manko předepsáno k náhradě — kor. pokl. 5000Kč 335 668 ID
+
+část manka uhrazena srážkou hotově 2000Kč 211.1 335 ID
+
+zbytek manka uhrazen srážkou ze mzdy 3000Kč | 331.. 335. ID
+stav k poslednímu dni období ve valutové pokladně 1 000 USD = 18 000 Kč
+kurz ČNB k poslednímu dni období 1 USD =17 Kč
+
+kurzový rozdíl — ztráta 1000Kč | 563. 211.2 ID
+stav k poslednímu dni období ve valutové pokladně 1 000 USD = 17 000 Kč
+kurz ČNB k poslednímu dni období 1 USD = 18 Kč
+
+kurzový rozdíl — zisk 1 000 Kč 211.2 663 ID
+vyplňování dokladů viz Ekonomická cvičení — Platební styk
+
+4. Ceniny
+
+účet 213— Ceniny (RA)
+oceňují se nominální (jmenovitou) hodnotou vytištěnou na ceninách
+
+za ceniny odpovídá pověřený pracovník (většinou pokladník), se kterým byla sepsána dohoda o
+hmotné odpovědnosti
+
+nákup cenin
+na fakturu 5 000 Kč 213.321. FAP
+za hotové 8 000 Kč 213.211. VPD
+bezhotovostně 9 000 Kč 213. 221. VBÚ
+
+výdej cenin do spotřeby
+výdej cenin se účtuje na různé nákladové účty podle druhu cenin
+
+©
+
+O O O O O0
+
+účet 518 — ostatní služby — poštovní známky, telefonní karty
+účet 527 — zákonné sociální náklady — stravenky
+účet 538 — ostatní daně a poplatky — dálniční známky, kolky
+drobné ceniny mohou jít po nákupu přímo do spotřeby (nepoužívá se účet 213)
+účtování
+výdej telefonních karet 518.213. ID
+výdej dálničních známek 538.213 ID
+
+nákup kolků a jejich výdej do spotřeby 538.. 211. ID
+
+odlišnosti v účtování stravenek
+
+firma musí vycházet z daňových předpisů (zákon o dani z příjmů)
+
+e účetní jednotka, která svým zaměstnancům prodává stravenky, jim na ně může
+přispívat pouze do výše 55 % ceny jednoho hlavního jídla (maximálně do výše 70
+% stravného při služební cestě v pásmu 5 — 12 hodin)
+
+do výše 55 % je to pro účetní jednotku daňově účinný náklad — účet 527 pokud účetní
+
+jednotka přispívá zaměstnancům více, je to daňově neúčinný náklad — účet 528 —
+
+Ostatní sociální náklady (firma s1 sama stanoví výši podílu na stravenkách)
+
+rozdíl mezi hodnotou stravenky a příspěvkem od organizace platí zaměstnanec —
+
+vzniká pohledávka na účtu 335
+
+účtování
+FAP za stravenky 1 000 Kč 213. 321. FAP
+podíl hrazený Z-TELem 55% 550 Kč 527.213. ID
+podíl — Z-Tele nad rámec 10% 100 Kč 528.213. ID
+předpis zaměstnancům 35% 350 Kč 335. 213. ID
+úhrada zaměstnancem 350 Kč 211.1 335. PPD
+
+inventarizační rozdíly
+

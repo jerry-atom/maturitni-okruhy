@@ -1,0 +1,75 @@
+o druhy směnek
+vlastní
+
+výstavcem je dlužník, který se zavazuje, že věřiteli zaplatí určitou na směnce
+uvedenou částku
+
+2 subjekty
+
+obsahují slovo „Zaplatím“
+
+cizí
+
+věřitel (dodavatel) vystaví směnku, ve které dá příkaz dlužníkovi (odběrateli), aby
+mu zaplatil příslušnou částku
+
+obsahují slovo „Zaplaťte“
+
+je předkládána odběrateli k akceptu (přijetí)
+
+možnost prodeje — napíše se na rub směnky (rubopis)
+
+o platebním prostředkem bývá v současnosti většinou banka směnečníka
+o směnky k inkasu
+
+inkaso = vyinkasování peněz
+
+účet 256 — Dluhové cenné papíry do 1 roku (RA)
+
+256.1 — Dluhové CP — hodnota původní pohledávky
+
+256.2 — výnosový úrok
+
+účtování
+
+FAV za výrobky 100000Kč ©- © 601. FAV
+DPH 20% 20000Kč |- © 343
+
+celkem 120000Kč 311. -
+
+úhrada FAV směnkou 120000 Kč 256.1 311. ID
+úrok 20000Kč © 256.2 662 ID
+úhrada směnky 120000Kč 221. 256.1 VBÚ
+výplata úroku 20000Kč © 221. 256.1 VBŮ
+eskoní směnky
+
+prodej směnky bance před termínem její splatnosti
+
+nastává, jestliže majitel směnky potřebuje peníze před termínem splatnosti směnky
+banka směnku posoudí (posuzuje její bonitu = kvalitu) a pokud se banka rozhodne,
+sepíše s klientem smlouvu o eskontu směnky a firmě je poskytnut eskontní úvěr
+banka si sráží tzv. diskont (úrok) + další poplatky (562 a 568)
+
+jakmile majitel směnky směnku proplatí, banka zasílá firmě oznámení (avízo) o
+proplacení směnky a eskontní úvěr je splacen
+
+účet 232 — Eskontní úvěry (RP)
+
+účet 313 — Pohledávky za eskontované cenné papíry (RA)
+
+účtování
+FAV za výrobky 1 000 000 Kč - 601.. FAV
+DPH 20 % 200 000 Kč - 343
+celkem 1 200 000 Kč 311 -
+úhrada směnkou 1 200 000 Kč 256.1 311.. ID
+směnka k eskontu
+a) pořizovací cena 1 200 000 Kč - 256.1 ID
+b) směnečná hodnota 1 500 000 Kč 313 .
+c) úrok 300 000 Kč - 662
+VBŮ - poskytnutí eskontního úvěru
+a) směnečná hodnota 1 500 000 Kč - 232. VBU
+b) úvěr připsán 1 410 000 Kč 221 -
+c) diskont 80 000 Kč 562 -
+d) poplatky 10 000 Kč 368 -
+avízo o úhradě 1 500 000 Kč 232 313. ID
+

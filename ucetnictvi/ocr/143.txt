@@ -1,0 +1,63 @@
+V obou způsobech vedení vnitropodnikového účetnictví lze využít dvě varianty:
+a) centralizovaná forma
+
+o vnitropodnikové účetnictví je vedeno z jednoho centra (v jedné účtárně)
+b) decentralizovaná forma
+
+o každé středisko vede své účetnictví samostatně, vzájemný styk mezi středisky je zajištěn
+prostřednictvím účtu Střediskové převody, který jen v účtovém rozvrhu každého střediska a v souhrnu
+za celý podnik musí vykazovat nulový zůstatek
+
+o hospodářské středisko, které provede výkon pro jiné hospodářské středisko, vystaví interní doklad
+(převodka, vnitropodniková faktura)
+
+Analytická evidence k finančnímu účetnictví
+e | účetní jednotka si zavede analytickou evidenci nákladů a výnosů podle jednotlivých vnitropodnikových
+útvarů — hospodářských středisek
+e | tuto evidenci bude využívat jak u prvotních, tak i u druhotných nákladů a výnosů
+
+Centralizovaná forma
+
+Druhotné náklady 599.30/699.20
+
+Decentralizovaná forma
+
+e | středisko, které provedlo výkon pro jiné středisko, vystavuje interní doklad, zaznamenává si jej na účet
+Střediskových výnosů (Dal) se souvztažných zápisem např. na účtu 395 (MD)
+
+e | středisko odebírající bude účtovat na účet Střediskových nákladů (MD) se souvztažným zápisem na účtu 395
+(Dal)
+
+e © při souhlasném účtování se účtu 395 v souhrnu za všechna střediska vyrovnává
+
+e © vnitropodnikové faktury nemají vliv na výši zisku podniku jako celku
+
+e © vnitropodniková faktura je zaúčtována v jednom středisku jako náklad a ve druhém jako výnos
+
+Př. HS Údržba vyúčtovalo středisku Výroba za opravu stroje, částku 8 000 Kč.
+
+Účtování v HS 20 — Údržba Za podnik
+Vnitropodniková faktura vystavená za opravy 395/699.20—> 395/699.20-—> HV = MD 1D 8000 Kč
+Účtování v HS 10 — Výroba
+
+Přijatá vnitropodniková faktura od HS Údržba 599.10/395—> 599.10/395—> 395 = MD 1D 8000 Kč
+
+Účtování - centralizovaná forma
+1. Prvotní náklady
+
+HS Vrýoba 1 280 000,- | 5xx.10/různé účty
+HS Údržba 120 000,- 5xx.20/různé účty
+HS Správa 80 000,- © 5xx.30/různé účty
+2. Vnitřní doklad — úhrn provedených prací ve střed. Výroba 1400000,- 12x | /61x.10
+(ocenění ve vnitropod. ceně 1 000 * 1 400)
+3. Faktury za prodané výrobky odběratelům ( 800 * 2 000) 1 600 000,- 311 /601.10
+4. Úbytek výroby ve vnitropod. ceně (800 * 1 400) 1 1200000,- © 61x.10/12x
+5. Faktury za práce provedené střed. Údržba pro cizí podniky 120 000,- 311.. /602.20
+6. Převodky ze střediska Údržba
+a) pro HS Hlavní výroba za opravy výrobních strojů 15 000,- 599.10/699.20
+b) pro HS Správa za opravy kancelářských strojů 11000,- | 599.30/699.20
+7. Středisko správa vyúčtovalo kalkulovanou správní režii:
+a) středisku Hlavní výroba 50 000,- 599.10/699.30
+
+b) středisku Údržba 35 000,- 599.20/699.30
+

@@ -1,0 +1,59 @@
+DAP PVT
+
+18. ZÚŮČTOVÁNÍ DANÍ A DOTACÍ
+
+daňová soustava v České republice
+daň z příjmů
+
+majetkové daně
+
+daň z přidané hodnoty
+
+spotřební daně
+
+dotace
+
+1. Daňová soustava v Ceské republice
+
+vstoupila v platnost 1. 1. 1993 po změně poměrů v republice
+daň je zákonem stanovená, povinná, vynutitelná a nenávratná platba FO nebo PO do státního
+rozpočtu
+struktura daňové soustavy
+o přímé daně
+" jejich výše je známá
+= vybírá se z majetku nebo z příjmů
+= daňový poplatník je adresný (známý)
+u plátce daně je osoba, která daň vypočítává a odvádí
+s daněz příjmů
+e | daň z příjmů FO
+e | daňz příjmů PO
+» majetkové daně
+e | daň z nemovitostí
+o | daň z pozemků
+o daň ze staveb
+e | „trojdaň“
+o | daň dědická
+o daň darovací
+o. daň z převodu nemovitostí
+e | silniční daň
+o nepřímé daně
+= jsou obsaženy v cenách výrobků a služeb
+= naprvní pohled jejich výše není přesně známá
+= jsou vybírány z plateb, které jsou vázány na jednotlivé druhy výrobků nebo služeb
+= poplatník — konečný spotřebitel
+= plátce— ten, kdo věc vyrábí nebo prodává
+"= univerzální — vybírá se téměř ze všeho
+e | daň z přidané hodnoty
+"= výběrové
+e | spotřební daně
+o | z minerálních olejů
+o zlíhu
+o zpiva
+o Z vína a meziproduktů
+o z tabákových výrobků
+e | energetické daně
+o zplynu
+o z pevných paliv
+o zelektřiny
+o
+

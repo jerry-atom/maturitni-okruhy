@@ -1,0 +1,76 @@
+DPH vstup 40 000 Kč 343 349 DD
+zařazení 200 000 Kč 022 042 ID
+FAP zaplac. 240000 Kč 321. 221. VBŮ
+= | znečlenských zemí
+FAP za auto 200 000 Kč 042 321 FAP
+DPH výstup 40 000 Kč 349 343 DD
+DPH vstup 40 000 Kč 343 349 DD
+clo 20 000 Kč 042 379 JSD
+zařazení 220 000 Kč 022 042 ID
+FAP zaplac. 240 000 Kč 321 221 VBŮ
+zapl. clo 20 000 Kč 379. 221. VBŮ
+e | ve vlastní režii
+o | náklady na výrobu skříně 20 000 Kč 5XX různé účty ID
+o aktivace 20 000 Kč 042 624 ID
+o | zařazení 20 000 Kč 022 042 ID
+e | nalezení
+o © př. při novém vyměřování zjištěn nový pozemek
+o | odepisovaný 022 082 ID
+o | neodepisovaný 031 413 ID
+e | darování
+o dar auta 100 000 022 413 ID
+e © vkladdo firmy
+o | vklad auta 150 000 022 411 ID
+e © vklad společníků do firmy
+o | vklad auta 150 000 022 411 ID
+6. Zálohy
+
+e © při nakupování DM po nás dodavatel může požadovat zálohu
+e © používá se účtová skupina 05 — Poskytnuté zálohy na DM
+e © mohou nastat 2 situace
+o © záloha poskytnuta a zúčtována ve stejném období (neúčtuje se daňový doklad)
+
+poskytnuta záloha 10000 Kč 052 221. VBŮ
+
+FAP 20 000 Kč 042 FAP
+
+DPH 20% 4 000 Kč 343
+
+celkem 24 000 Kč 321
+
+zúčtování zálohy 10 000 Kč 321 052 ID
+
+úhrada FAP 14 000 Kč 321. 221. VBŮ
+o © záloha poskytnuta v jednom a zúčtována v následujícím období (dodavatel je povinen vystavit daňový doklad)
+
+poskytnuta záloha 10 000 Kč 052 221. VBŮ
+
+přijat DD 20% 1 667 Kč 343 052 DD
+
+FAP 20 000 Kč 042 FAP
+
+DPH 20% 4 000 Kč 343
+
+celkem 24 000 Kč 321
+
+zúčtování zálohy bez DPH 8 333 Kč 052 ID
+
+odečet DPH 20% 1 667 Kč 343
+
+odečet celkem 10 000 Kč 321
+
+úhrada FAP 14 000 Kč 321.. 221. VBŮ
+
+7. Technické zhodnocení
+
+Výdaje na dokončené nástavby(do výš.),přístavby(do šířky)a stavební úpravy, na rekonstrukci a modernizaci vyšší než 40 000 Kč.
+Vynaložené částky se během roku sčítají.
+e © Klasické technické zhodnocení > 40 000 Kč
+o | na vlastním DM - skupina 01, 02 (041, 042)
+o | na pronajatém DM — 019, 029
+e © Malé technické zhodnocení < 40 000 Kč
+o © na dlouhodobém hmotném majetku — 548
+o © na dlouhodobém nehmotném majetku — 518
+Pokud je na jedné věci během jednoho účetního období provedeno více úprav (každá do 40 000 Kč), ale v souhrnu přesáhly
+40 000 Kč, tak se na konci roku provede přeúčtování z nákladů na klasické technické zhodnocení.
+

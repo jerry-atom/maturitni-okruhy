@@ -1,0 +1,73 @@
+FAV za zboží 10 000 Kč 311 604 FAV
+DPH 20 % 2 000 Kč 311 343
+úhrada FAV 12 000 Kč 221 311 VBÚ
+
+skupina 61 — Změny stavu zásob vlastní činnosti
+
+účtují zde výrobní podniky, jestliže výroba prochází několika fázemi
+
+pomocí těchto účtů se postupně vylučují náklady vynaložené při výrobě a skladování výrobků
+účet 611 — Změna stavu nedokončené výroby
+
+o | účtování
+přírůstek nedokončené výr. 10 000 Kč 121 611 ID
+úbytek nedokončené výroby 10 000 Kč 611 121 ID
+manko na nedokončené výr. 2 000 Kč 549 121 ID
+přebytek na nedok. výr. 5 000 Kč 121 648 ID
+účet 612 — Změna stavu polotovarů vlastní výroby
+o | účtování
+přírůstek polotovarů 10 000 Kč 122 612 ID
+úbytek polotovarů 10 000 Kč 612 122 ID
+manko na polotovarech 2 000 Kč 549 122 ID
+přebytek na polotovarech 5 000 Kč 122 648 ID
+účet 613 — Změna stavu výrobků
+o | účtování
+přírůstek výrobků 10 000 Kč 123 613 ID
+úbytek výrobků 10 000 Kč 613 123 ID
+manko na výrobcích 2 000 Kč 549 123 ID
+přebytek na výrobcích 5 000 Kč 123 648 ID
+účet 614 — Změna stavu zvířat
+o účtování
+přírůstek zvířat 10 000 Kč 124 614 ID
+úbytek zvířat 10 000 Kč 614 124 ID
+manko na zvířatech 2 000 Kč 549 124 ID
+přebytek na zvířatech 5 000 Kč 124 648 ID
+
+skupina 62 — Aktivace
+přírůstek majetku v důsledku vlastní činnosti
+
+protože přibývají aktiva, nazývá se proces aktivace
+
+účtování má některé společné rysy s účtováním ve skupině 61, protože se zde také vylučují náklady vynaložené na
+výkony firmy
+
+účet 621 — Aktivace materiálu a zboží
+
+o | účtování
+zaměstnanci vyrobili zboží 10 000 Kč 131 621 ID
+převzetí zboží na sklad 10 000 Kč 132 131 příjemka
+
+účet 622— Aktivace vnitropodnikových služeb
+o účtování
+
+nákup materiálu od neplátce 10 000 Kč 111 321 FAP
+doprava vlastním autem 1 000 Kč 111 622 ID
+převzetí materiálu na sklad 11 000 Kč 112 111 příjemka
+úhrada FAP 10 000 Kč 321.. 221. VBŮ
+účet 623 — Aktivace dlouhodobého nehmotného majetku
+o | účtování
+zaměstn. vytvořili software 20 000 Kč 041 623 ID
+zařazení do DNM 20 000 Kč 013 041 ID
+účet 624 — Aktivace dlouhodobého hmotného majetku
+o | účtování
+zaměstnanci vytvořili skříň 5 000 Kč 042 624 ID
+zařazení skříně do DHM 5 000 Kč 022 042 ID
+
+skupina 64 — Jiné provozní výnosy
+účet 641 — Tržby z prodeje dlouhodobého nehmotného a hmotného majetku
+o | protějším účtem je nákladový účet 541
+o © porovnáním s účtem 541 vyčíslíme výsledek z daných prodejů (zisk nebo ztrátu)
+o | účtuje se zde o tržbách docílených prodejem
+o | účtování
+doúčtování ZC stroj 5 000 Kč 541 082 ID
+

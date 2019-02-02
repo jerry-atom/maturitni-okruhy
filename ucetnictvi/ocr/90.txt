@@ -1,0 +1,47 @@
+skupina 59 — Daně z příjmů a převodové účty a rezerva na daň z příjmů
+účet 591 — 594
+
+©
+o
+©,
+
+účtuje se zde v souvislosti s daňovou povinností poplatníka k dani z příjmů
+účty nejsou součástí hospodářského výsledku a pro vyčíslení základu daně jsou neutrální
+účtování
+
+tvorba rezervy na daň z příjmů 10 000 Kč 591 459 ID
+rozpuštění rezervy 10 000 Kč 459 591 ID
+předpis daně z příjmů 20 000 Kč 591 341 ID
+
+účet 595 — Dodatečné odvody daně z příjmů
+
+Oo
+©,
+o
+©
+Oo
+
+dodatečné odvody nebo vratky daně za minulé zdaňovací období
+návaznost na dodatečná a opravná daňová přiznání
+
+účtování
+doměření daně z příjmů 5 000 Kč 595 341 ID
+vratky daně z příjmů za minulá léta 10 000 Kč 341 595 ID
+
+účet 597— Převod provozních nákladů a účet 598 — Převod finančních nákladů
+
+©)
+
+O O O 0
+
+za účelem objektivního vykázání výsledku hospodaření podle jednotlivých činností se provádějí podle povahy
+převody mezi nákladovými účty
+
+část nákladů původně zaúčtovaných se převede prostřednictvím tohoto účtu do nákladů jiné činnosti
+
+účtování
+
+převod finanční činnosti 10 000 Kč 568 597 ID
+
+převod mimořádné činnosti 20 000 Kč 588 597 ID
+

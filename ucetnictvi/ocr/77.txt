@@ -1,0 +1,94 @@
+účet 315 — Ostatní pohledávky
+účtuje se zde o ceně bez DPH, dodavatel může reklamaci uznat nebo zamítnout
+
+při uznání může dodavatel poslat odběrateli dobropis na reklamovanou částku nebo mu může dodat náhradní
+dodávku
+
+při neuznání reklamace musí odběratel účtovat reklamaci jako manko
+
+ 
+
+účtování
+FAP za materiál 20 000 Kč 111 321 FAP
+DPH 20 % 4 000 Kč 343 321
+reklamační nárok 3 000 Kč 315 111 ID
+a) dobropis 3000 Kč 321 315 dobropis
+DPH 20 % 600 Kč 321 343
+b) náhradní dodávka 3000 Kč 112 315 příjemka
+c) neuznaná reklamace 3 000 Kč 549 315 ID
+
+o | o závazky, které jsou už 36 měsíců po splatnosti, bude ÚJ zvyšovat základ daně z příjmů
+o © pokud tyto závazky budou poté uhrazeny, UJ si jejich hodnotu může zase od základu daně odečíst
+
+vůči zaměstnancům
+
+o © závazky vyplývající z pracovně právních vztahů k zaměstnancům
+
+o | účtují se zpravidla měsíčně na základě zúčtovací výplatní listiny
+
+o účet 331 - Zaměstnanci
+
+o © viz otázka Zaměstnanci
+
+o — účtování
+hrubé mzdy zaměstnancům 90 000 Kč 521 331 ID
+SP zaměstnanců 5 850 Kč 331 336.2 ID
+ZP zaměstnanců 4 050 Kč 331 336.1.. ID
+daň z příjmů 12 350 Kč 331 342 ID
+
+vůči finančním institucím
+
+o © účtují se zde daňové povinnosti jednotlivých daní
+o | častější než nadměrný odpočet
+
+o | účtování
+
+DPH — daňová povinnost 50 000 Kč 343. 221. VBŮ
+Spotřební daň — daňová povinnost 30 000 Kč 345 221 VBŮ
+silniční daň — doplatek daně 10 000 Kč 345. 221. VBŮ
+daň z nemovitostí — daňová povinn. 20 000 Kč 345 221 VBŮ
+daň z příjmů — daňová povinnost 70 000 Kč 591 341 ID
+
+vůči společníkům
+o — skupina 36
+o | v případě, když společníci půjčili peníze do společnosti
+
+účet 365 — Ostatní závazky ke společníkům a členům družstva (krátko.)
+účet 479 — Jiné dlouhodobé závazky (dlouhodobé)
+
+uzavírá se smlouva o půjčce
+
+úrok je pro firmu náklad na účtu 562
+
+účtování
+půjčka od spol. na 1 rok 90 000 Kč 221. 365.1. VBŮ
+předpis úroku 5 000 Kč 562 365.2 ID
+úhrada půjčky i úroku 95 000 Kč 365. 221. VBŮ
+
+o © při rozdělování zisku
+
+ÚJ na konci roku vyčísluje výsledek hospodaření, který upraví na daňový základ a zdaní ho daní z příjmů
+
+disponibilní (čistý) zisk se k 1. 1. převádí na účet 431 — Výsledek hospodaření ve schvalovacím řízení (RP)
+
+závazky plynoucí z rozdělování zisku společníkům se účtují na účtu 364 — Závazky ke společníkům při
+rozdělování zisku
+
+společnost má povinnost provést zdanění těchto příjmů srážkovou daní (v současnosti 15 %)
+
+o tuto daň se sníží vyplácená částka společníkům
+
+dividendy se vyplácí v akciových společnostech
+
+podíly na zisku se vyplácí ve společnostech s ručením omezeným
+
+účtování
+zisk k 1.1. 90 000 Kč 701 431 ID
+příděl do ZRF 30 000 Kč 431 421 ID
+úhrada ztráty z minulých let 30 000 Kč 431 429 ID
+předpis dividend 30 000 Kč 431 364 ID
+předpis daně z dividend 4 500 Kč 364 342 ID
+výplata čistých dividend 25 500 Kč 364 221 VBU
+
+3
+

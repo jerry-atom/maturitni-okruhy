@@ -1,0 +1,73 @@
+každá daň (mimo „trojdaň““) je upravena samostatným zákonem
+
+pro všechny subjekty je důležitá znalost Zákona o správě daní a poplatků, který řeší obecné věci ke
+
+všem daním (práva a povinnosti poplatníků, registrace poplatníků,...)
+
+poplatník daně
+
+o | FO nebo PO, která ze zákona nese daňové břemeno
+
+o | osoba, jejíž příjmy nebo majetek podléhají dani
+
+plátce daně
+
+o FO nebo PO, která je povinna daň vypočítat, vybrat a odvést do státního rozpočtu
+prostřednictvím FÚ
+
+správce daně
+
+o příslušný finanční orgán, kterému plátce daň poukazuje, který kontroluje správnost výpočtu a
+odvádění daní, a který ukládá sankce v případě neplnění daňových povinností
+
+daňová záloha
+
+o část daně, která musí být placena dříve, než bude ukončeno zdaňovací období
+
+o. př. záloha na daň z příjmů
+
+nedoplatek daně
+
+o | vzniká tím, že celkové zálohy na daň jsou nižší než celková vyměřená daň
+
+přeplatek daně
+
+o vzniká tím, že celkové zálohy na daň jsou vyšší než celková vyměřená daň
+
+2. Daň z příjmů
+
+daň z příjmů fyzických osob
+o předmět daně
+"příjmy ze závislé činnosti a funkční požitky
+= příjmy z podnikání a jiné samostatně výdělečné činnosti
+= příjmy z kapitálového majetku
+= příjmy z pronájmu
+= ostatní příjmy
+
+o příjmy ze závislé činnosti
+= vyplývají z pracovně-právních vztahů (mzdy)
+= zaměstnavatel přizná zaměstnanci hrubou mzdu, ze které mu sráží sociální pojištění,
+zdravotní pojištění, daň a případně ostatní srážky (v případě nemoci přičítá náhradu mzdy při
+dočasné pracovní neschopnosti)
+= pro výpočet daně a uplatňování slev na dani (poplatník, invalidita, student, děti) je
+rozhodující, jestli zaměstnanec podepsal nebo nepodepsal prohlášení k dani (viz otázka
+Evidence práce a mezd)
+= zaměstnanec může pracovat na běžnou pracovní smlouvu, na dohodu o pracovní činnosti
+nebo na dohodu o provedení práce
+e | v případě dohody o pracovní činnosti se zaměstnanci strhává SP, ZP i daň
+e | v případě dohody o provedení práce se zaměstnanci strhává SP a ZP, pokud jeho HM
+přesáhla 10 000 Kč (daň se odvádí vždy)
+= pro účely zdanění zaměstnavatel musí zaměstnanci vystavit doklad o příjmech a o
+zaplacených zálohách (bonusech)
+
+= účtování
+přiznány hrubé mzdy 10000Kč | 521.1 331. ID
+sraženo SP 650Kč 331.. 336.1 ID
+sraženo ZP 450Kč 331. 336.2 [ID
+daň 1000Kč 331.342 ID
+sraženy ostatní srážky 3000Kč 331 379 ID
+SP podnik 2500Kč | 524 336.1 ID
+ZP podnik 900Kč © 524. 336.2 ID
+
+2
+
