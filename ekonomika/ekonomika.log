@@ -1,0 +1,138 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.4.11)  11 APR 2019 07:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ekonomika.tex
+(./ekonomika.tex
+LaTeX2e <2018-04-01> patch level 5
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (./ekonomika.aux)
+\openout1 = `ekonomika.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 25.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+
+Overfull \hbox (15.6768pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10.95 man-age-mentu, mar-ketingu, pr^^Sava, poli-tiky, hos-pod^^Sa
+^^Trsk^^Seho zem^^Tepisu,
+ []
+
+
+Overfull \hbox (13.72197pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/m/n/10.95 se zab^^Syv^^Sa pro-ce-sem, chov^^San^^S^^Pm jed-notliv^^S
+ych sub-jekt^^Wu, eko-nomick^^Sa
+ []
+
+
+Overfull \hbox (20.21576pt too wide) in paragraph at lines 29--30
+[]\OT1/cmr/m/n/10.95 se zab^^Syv^^Sa ekonomii st^^Satu, zk-oum^^San^^S^^Pm eko-
+nomick^^Seho syst^^Semu
+ []
+
+
+Overfull \hbox (8.77153pt too wide) in paragraph at lines 30--31
+[]\OT1/cmr/m/n/10.95 se zab^^Syv^^Sa ekonomi^^S^^P firem (mal^^Se, st^^Tredn^^S
+^^P, velk^^Se), dom^^Sacnost^^S^^P
+ []
+
+
+Overfull \hbox (37.6378pt too wide) in paragraph at lines 42--43
+[]\OT1/cmr/m/n/10.95 Jak vyr^^Sab^^Tet,jakou tech-nologi^^S^^P a jak^^Symi v^^S
+yrobn^^S^^Pmi fak-tory?(pr^^Sace,p^^Tr^^S^^Prodn^^S^^P
+ []
+
+
+Overfull \hbox (4.57466pt too wide) in paragraph at lines 46--48
+\OT1/cmr/m/n/10.95 krat^^Ts^^S^^Pm ^^Tcase dos^^Sahnout stejn^^Se pro-dukce neb
+o ve stejn^^Sem ^^Tcase dos^^Sahnout
+ []
+
+
+Overfull \hbox (0.13391pt too wide) in paragraph at lines 46--48
+\OT1/cmr/m/n/10.95 vy^^Ts^^Ts^^S^^P pro-dukce. Tomu ^^Tr^^S^^Pk^^Same zvy^^Tsov
+^^San^^S^^P pro-duk-tiv-ity pr^^Sace. Ob^^Tetovan^^Sa
+ []
+
+[1
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 59.
+
+Overfull \hbox (119.24408pt too wide) in paragraph at lines 59--66
+[][] 
+ []
+
+[2] (./ekonomika.aux) ) 
+Here is how much of TeX's memory you used:
+ 302 strings out of 494586
+ 3540 string characters out of 6177802
+ 59876 words of memory out of 5000000
+ 4006 multiletter control sequences out of 15000+600000
+ 9165 words of font info for 32 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 21i,11n,19p,444b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on ekonomika.pdf (3 pages, 88055 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
