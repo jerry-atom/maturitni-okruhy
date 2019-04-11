@@ -1,13 +1,15 @@
-\documentclass[12pt,a4paper,twoside]{book}
+\documentclass[11pt,a4paper,twoside]{book}
 \usepackage[czech]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[cm]{fullpage}
 \usepackage{enumitem}
- 
+\usepackage{caption} 
+\captionsetup[table]{skip=10pt}
+
 \title{Ekonomie}
 \author{Šárka Válková}
-\date{duben 2019} 
+\date{duben 2019}
 
 \begin{document}
 
@@ -17,9 +19,11 @@
 \pagenumbering{arabic}
 \frenchspacing
 
-\mainmatter
+\setlist[enumerate]{itemsep=0mm}
+\setlist[itemize]{itemsep=0mm}
 
-\chapter{Základní ekonomické pojmy}
+
+\chapter{Ekonomické pojmy}
 
 \begin{description}
 	\item[Ekonomie] společenská věda, zabývající se ekonomickými vztahy mezi lidmi
@@ -67,334 +71,304 @@
 \end{tabular}
 	\item[Hospodářský proces] Členíme jej na fáze:
 	\begin{enumerate}
-		\item VÝROBA
-		\item ROZDĚLOVÁNÍ A PŘEROZDĚLOVÁNÍ
-		\item SMĚNA
-		\item SPOTŘEBA
+		\item výroba
+		\item rozdělování a přerozdělování
+		\item směna
+		\item spotřeba
 	\end{enumerate}
 
-	\item[VÝROBA] je činnost, při které člověk přetváří přírodu ve statky. Výrobu může provádět jednotlivec nebo celé výrobní firmy. \newline K výrobě potřebují mít čtyři základní předpoklady - \emph{VÝROBNÍ FAKTORY}.
+	\item[Výroba] je činnost, při které člověk přetváří přírodu ve statky. Výrobu může provádět jednotlivec nebo celé výrobní firmy. \newline K výrobě potřebují mít čtyři základní předpoklady - \emph{VÝROBNÍ FAKTORY}.
 		\begin{enumerate}
 			\item PRÁCE - cenou je mzda
 			\item PŘÍRODNÍ ZDROJE - především půdu
 			\item KAPITÁL - je zisk nebo úrok
 			\item INFORMACE
-		\end{enumerate}		
-	\item[ROZDĚLOVÁNÍ A PŘEROZDĚLOVÁNÍ]
-	\item[SMĚNA]
-	\item[SPOTŘEBA]
-	\item[PRÁCE] je cílevědomá lidská činnost vytvářející statky a služby. Práce je vzácný výrobní faktor, což ovlivňuje jeho cenu na trhu práce, tuto cenu nazýváme MZDOU.
-	\item[MZDA REÁLNÁ] mzda, vypovídá o skutečné hodnotě výdělku, co si zaměstnanec může pořídit.
-	\item[MZDA NOMINÁLNÍ] mzda, kterou si pracovník vydělal jako zaměstnanec, když vynaložil svou pracovní sílu, jeho příjem peněz
-	\item[FAKTORY OVLIVŇUJÍCÍ VÝŠI MZDY]
+		\end{enumerate}
+	\item[Rozdělování a přerozdělování]
+	\item[Směna]
+	\item[Spotřeba]
+	\item[Práce] je cílevědomá lidská činnost vytvářející statky a služby. Práce je vzácný výrobní faktor, což ovlivňuje jeho cenu na trhu práce, tuto cenu nazýváme MZDOU.
+	\item[Mzda reálná] mzda, vypovídá o skutečné hodnotě výdělku, co si zaměstnanec může pořídit.
+	\item[Mzda nominální] mzda, kterou si pracovník vydělal jako zaměstnanec, když vynaložil svou pracovní sílu, jeho příjem peněz
+	\item[Faktory ovlivňující výši mzdy]
 		\begin{itemize}
 			\item[]
 			\item kvalifikace
 			\item poptávka na trhu práce
 			\item tržní úspěšnost
 		\end{itemize}
-	\item[DĚLBA PRÁCE] jednotlivec nevyrábí všechno, soustředí se pouze na určitou výrobu, jednotlivci jsou na sobě závislí
-	\item[SPECIALIZACE] zaměření na určitý okruh činnosti
-	\item[KOOPERACE] vzájemná spolupráce
-	\item[PŘÍRODNÍ ZDROJE (PŮDA)] Při prodeji dosahuje vlastník tržní cenu. Při nájmu dosahuje pozemkovou rentu.
-	\item[POZEMKOVÁ RENTA]
+	\item[Dělba práce] jednotlivec nevyrábí všechno, soustředí se pouze na určitou výrobu, jednotlivci jsou na sobě závislí
+	\item[Specializace] zaměření na určitý okruh činnosti
+	\item[Kooperace] vzájemná spolupráce
+	\item[Přírodní zdroje (půda)] Při prodeji dosahuje vlastník tržní cenu. Při nájmu dosahuje pozemkovou rentu.
+	\item[Pozemková renta]
 		\begin{enumerate}[label=(\alph*)]
 			\item[]
 			\item absolutní renta - vyplývá z monopolu vlastnictví půdy a mají ji veškeré pozemky
 			\item diferenční renta - závislá na kvalitě půdy a její vhodnost pro zemědělství-bonita půdy
 		\end{enumerate}
 
-	\item[KAPITÁL] peníze přinášející další peníze. Má 2 ceny:
+	\item[Kapitál] peníze přinášející další peníze. Má 2 ceny:
 		\begin{description}
-			\item[ÚROK] je cena vloženého (např. do banky) kapitálu
-			\item[ZISK] je cena, kterou očekává vlastník při aktivním podnikání		
+			\item[Úrok] je cena vloženého (např. do banky) kapitálu
+			\item[Zisk] je cena, kterou očekává vlastník při aktivním podnikání
 		\end{description}
 	\item[Hranice produkčních možností] Pokud společnost nemůže vyrábět se svými zdroji více určitých výrobků, aniž by snížila výrobu jiných výrobků. Společnost vyrábí efektivně, pokud se pohybuje na hranici produkčních možností
+	\item[Spotřeba] Spotřeba je závěrečná fáze hospodářského procesu. Spotřebou statků a služeb uspokojujeme naše potřeby.
+	\item[Spotřeba výrobní] Je to spotřeba firem (stroje, kancelářský papír, materiál).
+	\item[Spotřeba konečná] Je spotřeba lidí, občanů, domácností (jídlo, pití, bydlení).
 \end{description}
 
-\end{document}
-
-\newpage
-4
-statek
-v
-
-
-
-
-
-jin
-
-statek X
-
-4) SPOTŘEBA
-
-Spotřeba je závěrečná fáze hospodářského procesu. Spotřebou statků a služeb uspokojujeme naše
-potřeby.
-
-SPOTŘEBA VÝROBNÍ
-Je to spotřeba firem (stroje, kancelářský papír, materiál).
-
-SPOTŘEBA KONEČNÁ
-Je spotřeba lidí, občanů, domácností (jídlo, pití, bydlení).
-\newpage
-2. TRH A JEHO ZÁKONY
+\chapter{Trh a jeho zákony}
 
 Trh je místo, kde dochází ke směně zboží. Místo, kde se setkává nabídka s poptávkou.
 Zboží je statek nebo služby určená ke směně na trhu.
 
-Členění trhu:
+\begin{table}[h]
+    \centering
+	\caption{Členění trhu}
+\begin{tabular}{| p{5cm} | p{5cm} | p{5cm} |}
+	\hline
+		Podle územního hlediska &
+		Podle množství &
+		Podle předmětu prodeje a koupě zboží \\
+	\hline
+		\begin{enumerate}[label=(\alph*)]
+			\item místní (oblastní) - tvarůžky
+			\item národní - italská pizza 
+			\item nadnárodní (EU) - ovoce 
+			\item světový - ropa
+		\end{enumerate} &
+		\begin{enumerate}[label=(\alph*)]
+			\item dílčí - trh mléka
+			\item agregátní - trh veškerého zboží
+		\end{enumerate} &
+		\begin{enumerate}[label=(\alph*)]
+			\item trh výrobních faktorů (trh práce)
+			\item finanční - kapitálový a peněžní
+			\item trh produktů (výrobků a služeb)
+		\end{enumerate} \\
+	\hline
+\end{tabular}
+\end{table}
 
+\paragraph*{Zákony trhu}
 
+V tržním systému se ekonomické subjekty rozhodují v zásadě samy. Chování tržních subjektů je však ovlivněno zákony trhu.
 
-
-
-
-
-1. Podle územního hlediska: 2. Podle množství 3. Podle předmětu prodeje a koupě
-zboží
-
-a) místní (oblastní) - tvarůžky a) dílčí - trh mléka a) trh výrobních faktorů (trh práce)
-
-b) národní - italská pizza b) agregátní b) finanční - kapitálový a peněžní
-
-c) nadnárodní (EU) - ovoce -trh veškerého zboží | c) trh produktů (výrobků a služeb)
-
-d) světový - ropa
-
-
-
-
-
-
-
-ZÁKONY TRHU
-V tržním systému se ekonomické subjekty rozhodují v zásadě samy.
-Chování tržních subjektů je však ovlivněno zákony trhu.
-1. Zákon nabídky = s rostoucí cenou roste i nabídka zboží
-= nabídkou rozumíme souhrn všech zamýšlených prodejů
-2. Zákon poptávky = s rostoucí cenou klesá poptávka po zboží
-= poptávkou rozumíme souhrn všech zamýšlených nákupů
-
-
-
-
+\begin{enumerate}
+	\item Zákon nabídky
+		\begin{itemize}
+			\item s rostoucí cenou roste i nabídka zboží
+			\item nabídkou rozumíme souhrn všech zamýšlených prodejů
+		\end{itemize}
+	\item Zákon poptávky
+		\begin{itemize}
+			\item s rostoucí cenou klesá poptávka po zboží
+			\item poptávkou rozumíme souhrn všech zamýšlených nákupů
+		\end{itemize}
+\end{enumerate}
 
 Poptávku můžeme rozlišit:
-e | Individuální (I kupující, | statek či služba)
-e | Dílčí (poptávka všech lidí po určitém statku či službě)
-e | Agregátní (všech lidí po všech statcích a službách)
+\begin{itemize}
+	\item Individuální (1 kupující, 1 statek či služba)
+	\item Dílčí (poptávka všech lidí po určitém statku či službě)
+	\item Agregátní (všech lidí po všech statcích a službách)
+\end{itemize}
 
 Nabídku obdobně:
-e | Individuální (1 výrobce určitého statku či služby)
-e | Dílčí (nabídka všech výrobců určitého zboží)
-e | Agregátní (nabídka všech výrobců, všeho druhu zboží)
+\begin{itemize}
+	\item Individuální (1 výrobce určitého statku či služby)
+	\item Dílčí (nabídka všech výrobců určitého zboží)
+	\item Agregátní (nabídka všech výrobců, všeho druhu zboží)
+\end{itemize}
+
+\paragraph*{FAKTORY OVLIVŇUJÍCÍ POPTÁVKU}
+\begin{itemize}
+	\item Cena
+	\item Demografické změny (v počtech a charakteristikách kupujících)
+	\item Změny velikosti důchodů (mzdy, renty vlastníků půdy, úroky a zisky vlastníků kapitálu)
+	\item Změny v preferencích (zvyky, móda, změny potřeb)
+	\item Změny cen jiných zboží
+		\begin{itemize}
+			\item substituty - jiné zboží, které může nahradit při spotřebě zboží sledované (jablka - hrušky, čaj - káva)
+			\item komplementy- jiné zboží, které doplňuje při použití zboží sledované (auto — benzin, DVD přehrávač - DVD filmy)
+		\end{itemize}
+\end{itemize}
+
+\paragraph*{FAKTORY OVLIVŇUJÍCÍ NABÍDKU}
+\begin{itemize}
+	\item Cena
+	\item Náklady výroby a obchodu (dražší suroviny, energie, zvyšování mezd)
+	\item Změny vnějších podmínek podnikání (organizace trhu, počasí pro zemědělce, daně apod.)
+	\item Změny kapitálové výnosnosti
+\end{itemize}
+
+\paragraph*{INTERAKCE NABÍDKY A POPTÁVKY}
+\begin{itemize}
+	\item Výrobci dopředu neznají rovnovážnou cenu a jí odpovídající ideální množství vyrobeného zboží pro trh
+	\item Interakcí nabídky a poptávky získáváme rovnovážnou cenu a jí odpovídající množství statků
+\end{itemize}
+
+[Obr. 8 Interakce nabídky a poptávky]
+
+\textbf{Dokonalá konkurence}
+\begin{itemize}
+	\item Výrobci mají rovné podmínky přístupu na trh
+	\item Kupující mají stejný přístup a jediným kritériem pro koupi či nekoupi je cena
+	\item V praxi skoro nenajdeme
+\end{itemize}
+
+\textbf{Nedokonalá konkurence}
+\begin{itemize}
+	\item Mezi potencionálními prodávajícími má jeden výsadní postavení na trhu
+	\begin{itemize}
+		\item administrativní monopol - jediný výrobce či prodejce má povolení od státu (Česká pošta)
+		\item absolutní monopol - jediný výrobce zná recept na výrobu (Coca-cola, Kofola)
+	\end{itemize}
+	\item Výsadní postavení mezi poptávajícími, je výhradním nakupujícím-stát - monopsony (speciální technologie, zbraně hromadného ničení)
+\end{itemize}
+
+\textbf{Monopson} - výsadní postavení určitého kupujícího na trhu.
+
+\paragraph*{ČLENĚNÍ TRHU PODLE MÍRY KONKURENCE}
+\begin{itemize}
+	\item Dokonalá konkurence
+	\item Monopolistická konkurence
+	\item Oligopol
+\end{itemize}
+
+\paragraph*{SELHÁNÍ TRHU}
+\begin{itemize}
+	\item Zneužití výsadního postavení monopoly
+	\item Existence veřejných statků
+	\item Externality trhu
+	\begin{itemize}
+		\item negativní/špatný vliv výrobců na životní prostředí
+		\item pozitivní/podnikatelská činnost může přinést i užitek (včelař zajišťuje opylení sadů a polí)
+	\end{itemize}
+\end{itemize}
+
+\paragraph*{SUBJEKTY TRHU}
+\begin{itemize}
+	\item domácnosti - přichází na trh za účelem uspokojení potřeb
+	\item firmy - subjekty vyrábějící za účelem prodeje
+	\item stát (vláda) - vstupuje na trh s cílem ovlivnit jej
+\end{itemize}
+
+\begin{description}
+	\item[TRŽNÍ ROVNOVÁHA] Když se vyrovná nabídka a poptávka, vzniká stabilní situace na trhu. Důsledkem je rovnovážná cena na trhu.
+	\item[PŘEBYTEK] Vzniká soutěž prodávajících, snižování cen, výroby atd., pokles nabízeného množství
+	\item[NEDOSTATEK] Zboží na trhu, typické pro ekonomiku plánovanou, vzniká soutěž kupujících, jsou ochotní zaplatit i cenu vyšší, zvyšování ceny i při nekvalitních výrobcích.
+\end{description}
+
+Tržní síly vedou k utváření rovnovážných cen, tím je určeno vyráběné množství výrobků (struktura výroby).
+
+\chapter{FIRMY A JEJICH FORMY}
+
+\begin{description}
+	\item[Právní osobnost] Vzniká narozením a zaniká smrtí. Schopnost být nositelem práv a povinností (právní subjektivita).
+	\item[Svéprávnost] Způsobilost k právním úkonům - právně jednat (uzavírat smlouvy). Plná svéprávnost platí dovršením 18 let.
+\end{description}
+
+\paragraph{FYZICKÉ OSOBY}
+
+\begin{itemize}
+	\item je jeden konkrétní člověk, který platí daň z příjmu
+	\item podnikatelé podnikající na základě živnostenského či jiného oprávnění, zaměstnanci
+	\item způsobilost podnikat nabývá dovršením 18 let
+\end{itemize}
+
+\textbf{Členění fyzických osob}:
+\begin{enumerate}
+	\item Podnikatelé
+		\begin{itemize}
+			\item Podnikající na základě živnostenského oprávnění dle živnostenského zákona
+			\item Podnikající na základě jiného oprávnění dle jiných zákonů (lékaři, veterináři)
+		\end{itemize}
+	\item Zaměstnanci
+		\begin{itemize}
+			\item Osoby schopné vstupovat do pracovně právních vztahů se svými zaměstnavateli, zde se řídíme především zákoníkem práce
+		\end{itemize}
+	\item Spotřebitel
+		\begin{itemize}
+			\item Spotřebitel je každý člověk, který sám uzavírá smlouvu s podnikatelem nebo s ním jedná (NOZ)
+		\end{itemize}
+\end{enumerate}
+
+\paragraph*{PRÁVNICKÉ OSOBY}
+\begin{itemize}
+	\item je společnost několika osob, která je oprávněna vstupovat do právních vztahů a jednat svým jménem
+	\item jsou zapsány v obchodním rejstříku
+	\item obchodní společnosti, družstva, státní podniky
+\end{itemize}
+
+\textbf{Členění právnických osob}:
+\begin{enumerate}
+	\item Korporace (obchodní korporace a spolky, politické strany)
+	\item Fundace (nadace a nadační fondy)
+	\item Ústavy (propojení majetkové a osobní složky)
+\end{enumerate}
+
+\textbf{Členění obchodních společností}:
+\begin{enumerate}
+	\item Osobní společnosti
+		\begin{itemize}
+			\item veřejná obchodní společnost (v.o.s.)
+			\item komanditní společnost (k.s.)
+		\end{itemize}
+	\item Kapitálové společnosti
+		\begin{itemize}
+			\item společnost s ručením omezeným (s.r.o.)
+			\item akciová společnost (a.s.)
+		\end{itemize}
+\end{enumerate}
 
 
-
-
-
-FAKTORY OVLIVŇUJÍCÍ POPTÁVKU:
-e Cena
-e © Demografické změny (v počtech a charakteristikách kupujících)
-e © Změny velikosti důchodů (mzdy, renty vlastníků půdy, úroky a zisky vlastníků kapitálu)
-e | Změny v preferencích (zvyky, móda, změny potřeb)
-e © Změny cen jiných zboží
--substituty - jiné zboží, které může nahradit při spotřebě zboží sledované
-(jablka - hrušky, čaj - káva)
--komplementy- jiné zboží, které doplňuje při použití zboží sledované
-(auto — benzin, DVD přehrávač — DVD filmy)
-FAKTORY OVLIVŇUJÍCÍ NABÍDKU:
-e Cena
-e © Náklady výroby a obchodu (dražší suroviny, energie, zvyšování mezd)
-e © Změny vnějších podmínek podnikání (organizace trhu, počasí pro zemědělce, daně apod.)
-e © Změny kapitálové výnosnosti
-
-
-\newpage
-INTERAKCE NABÍDKY A POPTÁVKY
-e © Výrobci dopředu neznají rovnovážnou cenu a jí odpovídající ideální množství vyrobeného
-zboží pro trh
-e | Interakcí nabídky a poptávky získáváme rovnovážnou cenu a jí odpovídající množství statků
-
-Rovnovážná cena
-
-* Rovnovážným bodem tržní rovnováhy je ideální stav na trhu, kdy
-se při rovnovážné ceně prodá vše, co se vyrobí.
-
-Na trhu proto neexistuje ani přebytek ani nedostatek zboží (služeb).
-
-
-
-cena P nabidka S
-
-kvadrant převisu nabídky nad poptávkou
-(zboží zůstává ve skladech a prodejnách)
-
-rovnovážné | LL
-cena P kvadrant převisu poptávky nad nabídkou
-
-(zboži je nedostatek)
-
-
-
-
-
-rovnovážné množství O“ množství O,
-
-Obr. 8 Interakce nabidky a poptávky
-
-Dokonalá konkurence
-e | Výrobci mají rovné podmínky přístupu na trh
-e | Kupující mají stejný přístup a jediným kritériem pro koupi či nekoupi je cena
-e © V praxi skoro nenajdeme
-Nedokonalá konkurence
-e © Mezi potencionálními prodávajícími má jeden výsadní postavení na trhu
-- administrativní monopol - jediný výrobce či prodejce má povolení od státu (Česká pošta)
-- absolutní monopol - jediný výrobce zná recept na výrobu (Coca-cola, Kofola)
-e | Výsadní postavení mezi poptávajícími, je výhradním nakupujícím-stát - monopsony
-(speciální technologie, zbraně hromadného ničení)
-Mlonopson — výsadní postavení určitého kupujícího na trhu
-
-ČLENĚNÍ TRHU PODLE MÍRY KONKURENCE
-e © Dokonalá konkurence
-e | Monopolistická konkurence
-e | Oligopol
-kT. "95166
-
-i e .. LO MONODOÍ
-konkurence — konkurence
-
-SELHÁNÍ TRHU
-e | Zneužití výsadního postavení monopoly
-e | Existence veřejných statků
-e | Externality trhu
--negativní-špatný vliv výrobců na životní prostředí
--pozitivní-podnikatelská činnost může přinést i užitek (včelař zajišťuje opylení sadů a polí)
-\newpage
-SUBJEKTY TRHU
-
--domácnosti — přichází na trh za účelem uspokojení potřeb
--firmy - subjekty vyrábějící za účelem prodeje
-
--stát (vláda) - vstupuje na trh s cílem ovlivnit jej
-
-TRŽNÍ ROVNOVÁHA = když se vyrovná nabídka a poptávka=stabilní situace na trhu
-= důsledkem je rovnovážná cena na trhu
-
-PŘEBYTEK - vzniká soutěž prodávajících, snižování cen, výroby atd., pokles nabízeného množství
-NEDOSTATEK - zboží na trhu, typické pro ekonomiku plánovanou, vzniká soutěž kupujících, jsou
-ochotní zaplatit 1 cenu vyšší, zvyšování ceny i při nekvalitních výrobcích
-
-Tržní síly vedou k utváření rovnovážných cen, tím je určeno vyráběné množství výrobků (struktura
-výroby)
-\newpage
-3. FIRMY A JEJICH FORMY
-
-Právní osobnost = vzniká narozením a zaniká smrtí
-= schopnost být nositelem práv a povinností (právní subjektivita)
-Svéprávnost = způsobilost k právním úkonům — právně jednat (uzavírat smlouvy
-= plná svéprávnost platí dovršením 18 let
-
-
-
-FYZICKÉ OSOBY
-
-- je jeden konkrétní člověk, který platí daň z příjmu
-
-- podnikatelé podnikající na základě živnostenského či jiného oprávnění, zaměstnanci
-- způsobilost podnikat nabývá dovršením 18 let
-
-Členění fyzických osob:
-I. Podnikatelé:
-e | Podnikající na základě živnostenského oprávnění dle živnostenského zákona
-e | Podnikající na základě jiného oprávnění dle jiných zákonů (lékaři, veterináři)
-2. Zaměstnanci:
-e | Osoby schopné vstupovat do pracovně právních vztahů se svými zaměstnavateli,
-zde se řídíme především zákoníkem práce
-3. Spotřebitel:
-e | Spotřebitel je každý člověk, který sám uzavírá smlouvu s podnikatelem nebo s ním jedná
-(NOZ)
-
-PRÁVNICKÉ OSOBY
-
-- je společnost několika osob, která je oprávněna vstupovat do právních vztahů a jednat
-svým jménem
-
-- právnické osoby jsou zapsány v obchodním rejstříku
-
-- obchodní společnosti, družstva, státní podniky
-
-Členění právnických osob:
-
-1. Korporace (obchodní korporace a spolky, politické strany)
-2. Fundace (nadace a nadační fondy)
-
-3. Ústavy (propojení majetkové a osobní složky)
-
-Členění obchodních společností:
-
-1. Osobní společnosti
-
-a. veřejná obchodní společnost (v.o.s.)
-b. komanditní společnost (k.s.)
-
-2. Kapitálové společnosti
-a. společnost s ručením omezeným (s.r.o.)
-b. akciová společnost (a.s.)
-
-Zivnost
-je soustavná Činnost provozovaná samostatně, vlastním jménem, na vlastní
+\textbf{Živnost} je soustavná Činnost provozovaná samostatně, vlastním jménem, na vlastní
 odpovědnost, za účelem dosažení zisku a za podmínek stanovených tímto zákonem
-\newpage
-Živnost není:
 
-- činnosti vyhrazené zákonem státu nebo určené právnické osoby
+\textbf{Živnost není}
+\begin{itemize}
+	\item činnosti vyhrazené zákonem státu nebo určené právnické osoby
+	\item využívání výsledků duševní tvůrčí činnosti (autorský zákon, vynálezy)
+	\item povolání lékařů, veterinářů, advokátů, notářů, znalců, daňových poradců, makléřů
+	\item činnost bank, pojišťoven, penzijních fondů, burz, pořádání loterií, hornická činnost, výroba a rozvod elektřiny, plynu a tepla, zemědělství, provoz drah, telekomunikační sítě, výroba léčiv, zprostředkovávání zaměstnání, výchova a vzdělávání ve školách \ldots
+	\item pronájem nemovitostí, bytu a nebytových prostor
+\end{itemize}
 
-- využívání výsledků duševní tvůrčí činnosti (autorský zákon, vynálezy)
+\textbf{Všeobecné podmínky pro podnikání}:
+\begin{itemize}
+	\item plná svéprávnost (18 let a způsobilost k právním úkonům)
+	\item bezúhonnost (dle výpisu z TR, který není starší více než 3 měsíce)
+\end{itemize}
 
-- povolání lékařů, veterinářů, advokátů, notářů, znalců, daňových poradců, makléřů
+\subparagraph{Zvláštní podmínky pro podnikání:}
+\begin{itemize}
+	\item odborná a jiná způsobilost (u řemeslných živností se požaduje vyučení v oboru)
+\end{itemize}
 
-- činnost bank, pojišťoven, penzijních fondů, burz, pořádání loterií, hornická činnost,
-výroba a rozvod elektřiny, plynu a tepla, zemědělství, provoz drah, telekomunikační
-sítě, výroba léčiv, zprostředkovávání zaměstnání, výchova a vzdělávání ve školách \ldots
+\subparagraph{Případy, kdy nelze provozovat činnost:}
+\begin{itemize}
+	\item když soud uložil podnikateli zákaz činnosti v oboru
+	\item když na majetek podnikatele byl prohlášen konkurz
+	\item podnikat nelze v případě, pokud návrh na konkurz byl zrušen pro nedostatek majetku
+\end{itemize}
 
-- pronájem nemovitostí, bytu a nebytových prostor
+\subparagraph{Emancipace}
+\begin{itemize}
+	\item osvobození z podřízeného postavení, zrovnoprávnění
+	\item boj za rovnoprávnost žen
+\end{itemize}
 
-Všeobecné podmínky pro podnikání:
-- plná svéprávnost (18 let a způsobilost k právním úkonům)
-
-- bezúhonnost (dle výpisu z TR, který není starší více než 3 měsíce)
-
-Zvláštní podmínky pro podnikání:
-
-
-
-- odborná a jiná způsobilost (u řemeslných živností se požaduje vyučení v oboru)
-
-Případy, kdy nelze provozovat činnost:
-
-- když soud uložil podnikateli zákaz činnosti v oboru
-
-- když na majetek podnikatele byl prohlášen konkurz
-
-- podnikat nelze v případě, pokud návrh na konkurz byl zrušen pro nedostatek majetku
-
-Emancipace - osvobození z podřízeného postavení, zrovnoprávnění
-- boj za rovnoprávnost žen
-
-Odpovědný zástupce je fyzická osoba ustanovená podnikatelem, která odpovídá za řádný provoz
-živnosti a dodržování živnostenskoprávních předpisů a která je obvykle v pracovně právním nebo
-jiném vztahu k podnikateli.
+\textbf{Odpovědný zástupce} je fyzická osoba ustanovená podnikatelem, která odpovídá za řádný provoz živnosti a dodržování živnostenskoprávních předpisů a která je obvykle v pracovně právním nebo jiném vztahu k podnikateli.
 
 Odpovědného zástupce je povinen ustanovit:
 
-1. podnikatel — FO, který nesplňuje zvláštní podmínky provozování živnosti
-2. podnikatel — zahraniční FO, který nemá na území ČR povolen pobyt
-
-3. podnikatel — PO se sídlem v ČR.
-
-4. podnikatel — zahraniční PO
+1. podnikatel - FO, který nesplňuje zvláštní podmínky provozování živnosti
+2. podnikatel - zahraniční FO, který nemá na území ČR povolen pobyt
+3. podnikatel - PO se sídlem v ČR.
+4. podnikatel - zahraniční PO
 
 Rozdělení živností
 a) ohlašovací
@@ -426,11 +400,15 @@ e | povinnost dokladovat kontrolním orgánům způsob nabytí prodávaného zbo
 - na požádání vydávat kupujícímu doklady o prodeji zboží
 - každý podnikatel dostane své IČ-identifikační číslo
 - Živnostenské úřady vedou živnostenský rejstřík v elektronické podobě
--velká část Živnostenského rejstříku je veřejná — obsahuje údaje o podnikatelích
+-velká část Živnostenského rejstříku je veřejná - obsahuje údaje o podnikatelích
 -DIČ= daňové identifikační číslo
 -Živnostenský rejstřík-informační systém veřejné správy.
 
-10
+
+
+\end{document}
+
+
 \newpage
 4. OBČANSKÝ ZÁKONÍK A ZÁKON O OBCHODNÍCH
 KORPORACÍCH
@@ -535,13 +513,13 @@ Je souběžná snaha subjektů na trhu určitého druhu zboží nebo služeb, c�
 výhod před ostatními v oblasti hospodářských užitků.
 
 Zneužití účasti v hospodářské soutěži:
-a) nekalá soutěž — upravuje občanský zákoník
+a) nekalá soutěž - upravuje občanský zákoník
 e © Klamavá reklama
 e | Podplácení
 e | Zlehčování
 e | Srovnávací reklama
 e | Porušení obchodního tajemství
-b) nedovolené omezování hospodářské soutěže — upravuje zákon o ochraně hosp.soutěže
+b) nedovolené omezování hospodářské soutěže - upravuje zákon o ochraně hosp.soutěže
 e © Dohody soutěžitelů omezující hospodářskou soutěž
 e © Dohody o sloučení soutěžitelů vedoucí k omezení konkurence
 e | Zneužití monopolního nebo dominantního postavení soutěžitelů
@@ -644,7 +622,7 @@ b) rozdělením (z jedné firmy vzniknou dvě či více právně samostatných f
 
 c) změna právní formy společnosti (pokud to umožňuje zákon)
 
-Obchodní společnosti — členění
+Obchodní společnosti - členění
 1. Osobní společnosti
 e | Veřejná obchodní společnost (v.o.s.)-společenská smlouva
 
@@ -816,7 +794,7 @@ majetek firmy pořízený N další
 (pasiva)
 
 . s “
-—— úvěru ba cry
+-- úvěru ba cry
 
 z cizich zdrojů
 " dodavatelský úměr (delší splatnost faktur)
@@ -933,7 +911,7 @@ e © Odpisy daňové-tyto odpisy slouží jako daňový doklad a ovlivňují vý
 podnikatele. Metody výpočtu těchto odpisů jsou závazně stanoveny státem a zakotveny
 v zákonu o daní z příjmu.
 
-Zůstatková cena = vstupní cena — oprávky
+Zůstatková cena = vstupní cena - oprávky
 Oprávky = jsou součtem doposud provedených odpisů
 
 19
@@ -1010,10 +988,10 @@ Reprodukce majetku:
 Údržba, opravy a nákup dlouhodobé majetku.
 
 Reprodukci členíme:
-Reprodukce prostá — stroj nahradíme strojem stejného výkonu
-Reprodukce rozšířená — stroj nahradíme jedním strojem s vyšším výkonem nebo více
+Reprodukce prostá - stroj nahradíme strojem stejného výkonu
+Reprodukce rozšířená - stroj nahradíme jedním strojem s vyšším výkonem nebo více
 stroji se stejným výkonem
-Reprodukce zůžená — stroj nahradíme strojem s menším výkonem nebo nenahradíme vůbec
+Reprodukce zůžená - stroj nahradíme strojem s menším výkonem nebo nenahradíme vůbec
 
 20
 \newpage
@@ -1024,7 +1002,7 @@ V požadovaném množství, kvalitě, druzích ve stanovené době a ve výhodn�
 
 suroviny a materiál používá pro svou činnost.
 
-Oběžný majetek — členění:
+Oběžný majetek - členění:
 1) ZÁSOBY
 
 Materiál
@@ -1041,23 +1019,23 @@ Zvířata
 
 Peníze v hotovosti v pokladně
 Peníze na účtech peněžních ústavů
-Ceniny — kolky, stravenky, poukázky, dálniční známky, dopisní známky,mobilní karty
-Krátkodobé cenné papíry — směnky, depozitní certifikáty, vkladový list
-Pohledávky — peníze, které firmě dluží odběratelé, společníci, zaměstnanci,
+Ceniny - kolky, stravenky, poukázky, dálniční známky, dopisní známky,mobilní karty
+Krátkodobé cenné papíry - směnky, depozitní certifikáty, vkladový list
+Pohledávky - peníze, které firmě dluží odběratelé, společníci, zaměstnanci,
 Dlužníci
 
-Clenění materiálu (základní suroviny — stavební hmoty, kov, dřevo, kůže\ldots)
+Clenění materiálu (základní suroviny - stavební hmoty, kov, dřevo, kůže\ldots)
 
-Pomocné materiály — barvy, mořidla, maziva\ldots
+Pomocné materiály - barvy, mořidla, maziva\ldots
 
 Obaly - plechovky, kartóny, plasty\ldots
 
-Pohonné hmoty — nafta, benzin\ldots
+Pohonné hmoty - nafta, benzin\ldots
 
-Drobné nářadí — šroubováky, klíče, vrtáky, přípravky\ldots
+Drobné nářadí - šroubováky, klíče, vrtáky, přípravky\ldots
 
-Kancelářské potřeby — papíry, tužky, pásky do psacího stroje, šanony\ldots
-Čistící prostředky — pro hygienu zaměstnanců, úklid prostor\ldots
+Kancelářské potřeby - papíry, tužky, pásky do psacího stroje, šanony\ldots
+Čistící prostředky - pro hygienu zaměstnanců, úklid prostor\ldots
 
 Obaly a jejich funkce:
 -plechovky, kartóny, plasty, palety, kontejnery, láhve\ldots)
@@ -1089,7 +1067,7 @@ Evidence a doklady při zásobování:
 
 
 
-2. Faktura — daňový doklad - je dokladem, který slouží pro
+2. Faktura - daňový doklad - je dokladem, který slouží pro
 
 e | Zanesení do účetnictví
 
@@ -1139,9 +1117,9 @@ Metoda JUST-IN-TIME
 Materiál je přivážen v přesném čase přímo k výrobní lince (vůbec není skladován ve skladu
 zásobování). Zcela odpadají náklady na skladování.
 
-Řízení zásob — metoda ABC
+Řízení zásob - metoda ABC
 
-Skupina A — metoda normování zásob
+Skupina A - metoda normování zásob
 
 -sem zařadíme především základní suroviny, které nezbytně firma potřebuje pro svou výrobu
 Skupina B
@@ -1496,7 +1474,7 @@ e Komplexní výrobek se skládá z:
 
 « jádra výrobku = samotný výrobek
 
-+ rozšiřujících efektů — tzv. první a druhá slupka
++ rozšiřujících efektů - tzv. první a druhá slupka
 (viz obrázek)
 
 
@@ -1623,7 +1601,7 @@ Polotovary-produkt, který se bude ještě ve výrobě dále zpracovávat
 
 Hotové výrobky-jsou výrobky vlastní produkce určené k prodeji
 -Jsou dokončeny všechny operace a prošly OTK-odd.t.kont.
-(soustruh,stojanová vrtačka\ldots) — kontroluje jakost
+(soustruh,stojanová vrtačka\ldots) - kontroluje jakost
 
 Členění výrobního procesu
 
@@ -1683,7 +1661,7 @@ Základní toky ve výrobě
 
 + hospodaření s obaly |
 . " .. - „7 sklad
-—i [zásobování —[ dílna 1, 0.. . ee A „
+-i [zásobování -[ dílna 1, 0.. . ee A „
 A NE dilna 2
 vyrobení hala | výrobnu mezisklad
 | hospodaření s odpadem
@@ -1723,9 +1701,9 @@ vyrobení hala | výrobnu mezisklad
 
 
 
-Vyšvělvky. | ——— doprava vnější
+Vyšvělvky. | --- doprava vnější
 
-—— doprava mězobjeklová
+-- doprava mězobjeklová
 - oprava Úilenská ze FTE8MOpersěmh
 
 Při manipulaci s materiálem rozlišujeme:
@@ -1824,7 +1802,7 @@ b) pracovní poměr
 
 e © Vznik pracovního poměru:
 = | [.volbou- zvolení poslanci, zvolení řídící pracovníci družstev
-= | 2 jmenováním —vedoucí pracovníci
+= | 2 jmenováním -vedoucí pracovníci
 = | 3.uzavřením pracovní smlouvy-tato forma je nejběžnější
 
 e © Změny pracovního poměru:
@@ -2683,14 +2661,14 @@ Postup při výpočtu mzdy
 
 1. Zjistíme o jaký druh mzdy se jedná (časová, úkolová a plat)
 2. Pro jednolivé druhy vyhledáme potřebné údaje
-a) časová — počet dnů v měsíci, denní úvazek v hodinách a hodinovou sazby,
+a) časová - počet dnů v měsíci, denní úvazek v hodinách a hodinovou sazby,
 (vynásobíme)
-b) úkolová — počet vyrobených kusů x sazba na 1 kus
-c) plat — je stanoven na celý měsíc
+b) úkolová - počet vyrobených kusů x sazba na 1 kus
+c) plat - je stanoven na celý měsíc
 Požnámka - tyto údaje doplníme do základní mzdy
-3. Vypočítáme pobídkové složky mzdy — prémie, odměny — přílušné procento
+3. Vypočítáme pobídkové složky mzdy - prémie, odměny - přílušné procento
 vypočítáme ze základní mzdy
-4. Do hrubé mzdy doplníme součet základní mzdy a pobídkové složky — prémie
+4. Do hrubé mzdy doplníme součet základní mzdy a pobídkové složky - prémie
 a odměny
 o. Vypočítáme SZ a ZP placené zaměstnavatelem dle taháku
 6. Sečteme hrubou mzdu a.SZ a ZP a vyjde nám superhy
@@ -2698,12 +2676,12 @@ o. Vypočítáme SZ a ZP placené zaměstnavatelem dle taháku
 8. Vypočítáme 15 % daň z daňového základu n
 9. Zjistíme slevy dle taháku a sečteme je
 10. Vypočítáme daň po slevách. ©
-11. Vypočítáme čistou mzdu = HM - SZ a ZP placené zaměstnancem — daň po
+11. Vypočítáme čistou mzdu = HM - SZ a ZP placené zaměstnancem - daň po
 slevách,
 12. Z tohoto důvodu si vypočítáme - také dle taháku SZ a ZP placené
 zaměstnancem (z hrubé mzdy) .
 13. Zjistíme srážky ze mzdy dle zadání včetně záloh m
-14. Vypočítáme částku pro výplatu — čistá mzda mínus srážky a zálohy
+14. Vypočítáme částku pro výplatu - čistá mzda mínus srážky a zálohy
 
 
 
@@ -2766,7 +2744,7 @@ k
 
 Opravena /
 
-ČH= HW- 4 a 2Ť oamůslremum) — 5 po oetpocle k
+ČH= HW- 4 a 2Ť oamůslremum) - 5 po oetpocle k
 
 
 \newpage
@@ -2775,7 +2753,7 @@ A
 =
 CD
 
-—a
+-a
 
 ZU
 Měsíc leden
@@ -3022,7 +3000,7 @@ ZP placené zaměstnavatelem 7'- P „E
 Superhrubá mzda LÝ Cr VFU
 Já s 4; 2, . PV né 4 > Ó 3 9 A s Mě
 SZ placené zaměstnancem še fe PED A
-ZP placené zaměstnancem 7 7, — T |
+ZP placené zaměstnancem 7 7, - T |
 Daň ze mzdy P 5 40 L | Z
 Daňové odpočty SUI |- Aozns Le | one “
 Daň po odpočtech +252 if m E Š
@@ -3344,7 +3322,7 @@ Předmětem daně jsou výnosy z veškeré činnosti a nakládání s majetkem, 
 jmenovitých výjimek.
 
 Základ daně je zisk, který zjistíme z účetnictví tak, že vypočítáme.
-Výnosy — náklady = výsledek hospodaření
+Výnosy - náklady = výsledek hospodaření
 
 DAŇ SILNIČNÍ
 Předmětem daně jsou silniční motorová vozidla používaná k podnikatelské činnosti.
@@ -3378,7 +3356,7 @@ pronajatých pozemků he id roku 2005 poplatníkem v určených případech náj
 Zdaňovací období je kalendářní rok. Tato daň má 2 části.
 e © Daň z pozemků - základem je cena pozemku dle vyhlášky a forma využívání
 pozemku u zemědělské půdy a lesů, u stavebních pozemků je to rozloha
-e | Daň ze staveb a jednotek — základem je půdorys nadzemní části stavby v m2 a sazba
+e | Daň ze staveb a jednotek - základem je půdorys nadzemní části stavby v m2 a sazba
 závisí 1 na poloze stavby (většinou se jedná o byt)
 
 58
@@ -3583,7 +3561,7 @@ Instituce finančního trhu se liší charakterem poskytovaných služeb a také
 makléřské společnosti, burzy apod.).
 
 Česká národní banka - Komerční banky - Družstevní záložny (spořitelní a úvěrová družstva) - Stavební spořitelny -
-Investiční společnosti, investiční fondy a podílové fondy — Pojišťovny - aj.
+Investiční společnosti, investiční fondy a podílové fondy - Pojišťovny - aj.
 
 Na mezinárodní úrovni působí finanční instituce, které plní regulační, dohledovou a stabilizační funkci. Jsou to např.
 Evropská centrální banka (pravidla finančního trhu), Mezinárodní měnový fond (stabilizace) nebo Evropská bank pro
@@ -3623,7 +3601,7 @@ Podstatné náležitosti šeku:
 
 Použití šeku:
 
-- proplacení v hotovosti - zaplacení šekem - zúčtování šeku — proplacení či jeho vklad na účet
+- proplacení v hotovosti - zaplacení šekem - zúčtování šeku - proplacení či jeho vklad na účet
 
 SMĚNKY
 Směnka je obchodovatelný cenný papír, který slouží k platbě nebo jako zajišťovací nástroj. Jedná se o nejjednodušší a
@@ -3666,7 +3644,7 @@ zaplatit někdo jiný, než ten kdo jí vystavil a vyskytuje se termín
 Véřitel 2. osoba „zaplaťte .
 „prožá zboží 3 osobša
 W , „prodává s 2. vsoké VÝSAD VĚ VĚMŘU 5 PP 20
-Věňitel Dhé nk Z Ao tací obě ase ———————— P | zoplozit důsníkoví vé
+Věňitel Dhé nk Z Ao tací obě ase -------- P | zoplozit důsníkoví vé
 prospěch věširelh
 - prodávě zboži * upsdavý zoněníku ve i
 - majitel směnku (| pospěch věřitele
@@ -3698,7 +3676,7 @@ Náležitosti směnky:
 
 * podpis výstavce směnky
 \newpage
-POKLADNIČNÍ POUKÁZKY —
+POKLADNIČNÍ POUKÁZKY -
 emituje stát prostřednictvím ČNB, je to CP, který slouží ke krytí přechodného schodku (deficitu) státního rozpočtu
 
 - určen pro obchodování na mezibankovním trhu pro velké investory
@@ -3708,55 +3686,55 @@ emituje stát prostřednictvím ČNB, je to CP, který slouží ke krytí přech
 - o tyto CP je velký zájem, protože stát v pozici dlužníka je velmi solidní zárukou navrácení peněz včetně úrokového výnosu
 
 DEPOZITNÍ CERTIFIKÁT
-— vydává banka (dlužník) a potvrzuje jím přijetí jednorázového termínovaného vkladu od klienta (věřitele). Certifikáty nakupují
+- vydává banka (dlužník) a potvrzuje jím přijetí jednorázového termínovaného vkladu od klienta (věřitele). Certifikáty nakupují
 podniky, občané, banky a jiné subjekty. Jsou vystavovány na částku 10 tisíc Kč. Čím vyšší je jejich nominální hodnota tím vyšší je úrok.
 
 Kapitálový trh
 
-— obchoduje se s dlouhodobými termínovanými vklady, úvěry a zdroji financí ve formě dlouhodobých CP se splatností nad 1 rok
+- obchoduje se s dlouhodobými termínovanými vklady, úvěry a zdroji financí ve formě dlouhodobých CP se splatností nad 1 rok
 
-Podoby CP : 1. Listinné — je vydán v podobě listiny
-2. Zaknihované — neexistují fyzicky, jsou evidovány v elektronické podobě na účtu majitelů
+Podoby CP : 1. Listinné - je vydán v podobě listiny
+2. Zaknihované - neexistují fyzicky, jsou evidovány v elektronické podobě na účtu majitelů
 
 ČLENĚNÍ CP
 1 Podle právního nároku
 
-dlužnické— představují nárok na splacení dluhu ( např. dluhopisy, směnky),
+dlužnické- představují nárok na splacení dluhu ( např. dluhopisy, směnky),
 7 majetkové- představují podíl na majetku (např. akcie, podílové listy),
 
 dispoziční - představují právo nakládat s určitým majetkem (např. konosament, skladištní list).
 2 Podle doby splatnosti
 
-peněžní — krátkodobé, splatné do 1 roku,
+peněžní - krátkodobé, splatné do 1 roku,
 
-kapitálové — dlouhodobé, splatné za dobu delší než 1 rok.
+kapitálové - dlouhodobé, splatné za dobu delší než 1 rok.
 3 Podle podoby
 
-zaknihované — mají jen podobu zápisu v určitém registru (nyní Centrální depozitář cenných papírů, a. s.),
-listinné — mají podobu speciální listiny.
+zaknihované - mají jen podobu zápisu v určitém registru (nyní Centrální depozitář cenných papírů, a. s.),
+listinné - mají podobu speciální listiny.
 4 Podle formy
 
-Cenné papíry na doručitele — jméno majitele není na cenném papíru uvedeno, převádějí se pouhým předáním novému majiteli.
+Cenné papíry na doručitele - jméno majitele není na cenném papíru uvedeno, převádějí se pouhým předáním novému majiteli.
 
-Cenné papíry na řad — jméno majitele cenného papíru je na něm uvedeno, někdy s doložkou „na řad“ (zákonné ji obsahovat nemusí),
+Cenné papíry na řad - jméno majitele cenného papíru je na něm uvedeno, někdy s doložkou „na řad“ (zákonné ji obsahovat nemusí),
 převádějí se rubopisem a předáním. Uvedením doložky "nikoli na řad" se cenný papír na řad změní v cenný papír na jméno.
 
-Cenné papíry na jméno — jméno majitele cenného papíru je na něm uvedeno, někdy s doložkou „nikoli na řad“, převádějí se smlouvou o
+Cenné papíry na jméno - jméno majitele cenného papíru je na něm uvedeno, někdy s doložkou „nikoli na řad“, převádějí se smlouvou o
 postoupení pohledávky a předáním.
 
 5 Podle obchodovatelnosti
 
 
 
-Obchodovatelní — nakupují se a prodávají na sekundárním trhu. Jsou převoditelné.
+Obchodovatelní - nakupují se a prodávají na sekundárním trhu. Jsou převoditelné.
 
-Neobchodovatelné — emitent zakazuje jejich nákup a prodej na sekundárním trhu. Prodávají se jen na trhu primárním, např. Vkladní
+Neobchodovatelné - emitent zakazuje jejich nákup a prodej na sekundárním trhu. Prodávají se jen na trhu primárním, např. Vkladní
 knížky.
 
 6 Podle emise:
-CP hromadně vydávané — např. Akcie, dluhopisy
+CP hromadně vydávané - např. Akcie, dluhopisy
 
-CP individuálně vydávané — např. Směnka, šek
+CP individuálně vydávané - např. Směnka, šek
 \newpage
 Akcie
 
@@ -3770,14 +3748,14 @@ podílet se na likvidačním zůstatku společnosti, pokud jde firma do likvidac
 Akcie může být emitována:
 1. Přímo za nominální hodnotu,
 2. S emisním ážiem (za vyšší cenu než nominální),
-3. S emisním disážiem (za nižší cenu než nominální) — současný zákon o obchodních korporacích neumožňuje.
+3. S emisním disážiem (za nižší cenu než nominální) - současný zákon o obchodních korporacích neumožňuje.
 
 Rozlišujeme:
 1.Kmenové akcie
 
-© Na jméno — převoditelné rubopisem neboli indosamentem,
+© Na jméno - převoditelné rubopisem neboli indosamentem,
 
-© Na majitele — volně převoditelné, na doručitele, od 2017 pouze jako zaknihovaný CP nebo imobilizovaný CP.
+© Na majitele - volně převoditelné, na doručitele, od 2017 pouze jako zaknihovaný CP nebo imobilizovaný CP.
 2. Speciální
 
 © Zaměstnanecké (pro zaměstnance firmy, akcie vystaveny na jméno, max. 5% objemu emise akcií),
@@ -3786,10 +3764,10 @@ Rozlišujeme:
 
 Členění dle fyzické podoby:
 
-© Akcie materializované (listinné — fyzicky vytištěné na papíře — mají plášť, kuponový arch pro výplaty dividend a talón pro
+© Akcie materializované (listinné - fyzicky vytištěné na papíře - mají plášť, kuponový arch pro výplaty dividend a talón pro
 získání nového kuponového archu, když je předchozí vyčerpán)
 
-© Akcie dematerializované (zaknihované — většinou jako údaje v paměti počítače).
+© Akcie dematerializované (zaknihované - většinou jako údaje v paměti počítače).
 
 © Dividenda je příjmem z kapitálového majetku a jste povinni dle zákona o dani z příjmu fyzických osob ji zdanit srážkovou
 daní 15%.
@@ -3805,7 +3783,7 @@ b) kupónový arch s talónem
 
 - jednotlivé kupóny se odstřihávají (detašují) a vyplácí se podíl na zisku, který se nazývá dividenda (vyjadřuje se V %). Dividenda by
 měla být vyšší než úrok v bankách, v opačném případě by občané ukládali svůj kapitál do bank - poslední ústřižek
-kupónového archu je talón — poukázka na nový kupónový arch.
+kupónového archu je talón - poukázka na nový kupónový arch.
 
 Podílové listy
 
@@ -3817,12 +3795,12 @@ kdykoliv svůj podílový list prodat zpět podílovému fondu.
 Jaké potencionální zhodnocení fond nabízí, závisí především na aktivech, do kterých investuje.
 
 Rozeznáváme fondy: a) akciové d) smíšené
-b) dluhopisové e) zajištění — minimální zhodnocení investic
+b) dluhopisové e) zajištění - minimální zhodnocení investic
 c) peněžního trhu
 \newpage
 Obligace
 
-— dlouhodobý úvěrový CP, v němž se vydavatel zavazuje jeho majiteli splatit dlužnou nominální částku a vyplácet
+- dlouhodobý úvěrový CP, v němž se vydavatel zavazuje jeho majiteli splatit dlužnou nominální částku a vyplácet
 výnosy k určitému datu. Splatnost je zpravidla pevně stanovena. Vydavatel si emisí obligací opatřuje finanční zdroje
 převážně na uskutečnění svých investičních záměrů. Obligace podléhají při emisi schválení ministerstvem financí-
 emise obligací se pohybují v řádek stovek milionů a jejich emitenti bývají největšími ekonomickými subjekty v
@@ -3830,16 +3808,16 @@ národním hospodářství.
 
 Členění obligací z hlediska emitentů:
 
-1) státní — emituje je vláda
+1) státní - emituje je vláda
 
-2) komunální — emitují územně samosprávné celky, např. obce
+2) komunální - emitují územně samosprávné celky, např. obce
 3) bankovní
 
-4) podnikové — vyšší úročení, vyšší riziko
+4) podnikové - vyšší úročení, vyšší riziko
 
 Hypoteční zástavní listy
 
-— emituje banka, která má od ČNB povolení k této činnosti. Jejich prodejem banka získá prostředky, které dále používá.
+- emituje banka, která má od ČNB povolení k této činnosti. Jejich prodejem banka získá prostředky, které dále používá.
 Tyto listy jsou kryty (ručeny) splátkami hypotečních úvěrů a zastavenými nemovitostmi. Vzhledem k dokonalému jištění
 je nízké úročení. Bývají veřejné obchodovatelné, doba splatnosti 5 let.
 
@@ -3851,21 +3829,21 @@ Hypotéční zástavní listy mají podobu:
 
 Deriváty
 
-— využívají se nejen u CP kapitálového trhu, ale i u deviz. Předmětem koupě nebo prodeje je pouze určité právo, nikoliv
+- využívají se nejen u CP kapitálového trhu, ale i u deviz. Předmětem koupě nebo prodeje je pouze určité právo, nikoliv
 věc hmatatelná. Jejich podstatou je forma termínovaného obchodu, tzn. že dochází k určitému zpoždění mezi
 sjednáním obchodu a jeho plněním. V době sjednání jsou jasně definovány podmínky obchodu, tedy cena a datum
 plnění. V den splatnosti dochází k dodání finančních instrumentů a jejich proplácení.
 
-Mají funkci: 1) zajišťovací — proti rizikům výkyvu kurzu
-2) spekulativní — spekuluji, abych vydělal. V praxi běžnější
+Mají funkci: 1) zajišťovací - proti rizikům výkyvu kurzu
+2) spekulativní - spekuluji, abych vydělal. V praxi běžnější
 
 Druhy derivátů:
-Forwardy, Futures — pevné termínované obchody k určitému budoucímu datu za předem dohodnutou cenu
+Forwardy, Futures - pevné termínované obchody k určitému budoucímu datu za předem dohodnutou cenu
 
-Swapy — prodej CP či deviz v aktuálním kurzu se současným podpisem smlouvy o budoucím odkoupení zpět za předem
+Swapy - prodej CP či deviz v aktuálním kurzu se současným podpisem smlouvy o budoucím odkoupení zpět za předem
 dohodnutou cenu
 
-Opce — je právo k budoucímu datu uskutečnit obchod s CP nebo devizami za předem sjednanou cenu
+Opce - je právo k budoucímu datu uskutečnit obchod s CP nebo devizami za předem sjednanou cenu
 \newpage
 Investování volných peněžních prostředků
 Kam uložit peníze? 13 základních investičních možností
@@ -3896,7 +3874,7 @@ jednou denně, občas i jednou týdně). Zároveň jsou zpravidla levnější na
 
 12. Ropa a další komodity
 
-13. FOREX (Na Forexu se obchoduje s měnovými páry — tedy dvojicemi měn. Posiluje-li jedna měna, cena měnového páru roste.
+13. FOREX (Na Forexu se obchoduje s měnovými páry - tedy dvojicemi měn. Posiluje-li jedna měna, cena měnového páru roste.
 Posiluje-li druhá z páru, cena klesá. I na tomto trhu se obchoduje s pákovým efektem a investice jsou tak značně rizikové. "Vyčistit"
 účet je mnohem snadnější než ho zhodnotit do závratných výšek)
 
@@ -3910,7 +3888,7 @@ Nejdůležitější institucí je burza drahých kovů v Londýně.
 
 Devizový trh
 
-— Na devizovém trhu je stejně jako na ostatních trzích cena určována poptávkou a nabídkou po dané komoditě.
+- Na devizovém trhu je stejně jako na ostatních trzích cena určována poptávkou a nabídkou po dané komoditě.
 Obchoduje se zde s měnami různých zemí. Střetávají se zde zájmy kupujících a prodávajících různé měnové jednotky.
 Na základě poptávky a nabídky je určen poměr v jakém se dané množství měny smění. Devizové trhy tvoří banky,
 finanční firmy atd.
@@ -3921,7 +3899,7 @@ od roku 1995.
 \newpage
 16. NÁRODNÍ HOSPODÁŘSTVÍ
 
-Makroekonomie — obor ekonomické teorie, který se zabývá zkoumáním ekonomického
+Makroekonomie - obor ekonomické teorie, který se zabývá zkoumáním ekonomického
 systému jako celku, sleduje vztahy mezi agregátními veličinami např. HDP, agregátní nabídka
 a poptávka, inflace, nezaměstnanost, úroková míra, měnový kurz.
 
@@ -4017,7 +3995,7 @@ Výdajová metoda sčítá výdaje všech subjektů státu za finální statky a
 domácností, výdaje vlády, tvorba kapitálu firem a Čisté vývozy
 
 HDP= spotřeba domácnosti + investice soukromých firem + vládní nákupy + čistý vývoz
-Důchodová metoda — vychází z fáze rozdělování, kdy každý z účastníků výroby získává svůj
+Důchodová metoda - vychází z fáze rozdělování, kdy každý z účastníků výroby získává svůj
 podíl na vyrobených statcích a službách jako odměnu za vynaložení svých výrobních faktorů.
 Zaměstnanci dostávají mzdy a platy, majitelé půdy rentu, majitelé kapitálu čistý úrok a zisky.
 U této metody do výpočtů nemohou být zahrnovány platby firem jiným firmám. Pro úplnost
@@ -4027,20 +4005,20 @@ HDP= mzdy + renty + zisky + úroky + opotřebení investic + nepřímé daně
 
 HDP = národní důchod + opotřebení investic + nepřímé daně
 
-Běžné ceny — HDP v cenách sledovaného roku neočištěné od vlivu znehodnocení peněz (od
+Běžné ceny - HDP v cenách sledovaného roku neočištěné od vlivu znehodnocení peněz (od
 inflace)
 
-Stálé ceny — HDP přepočítané ve stálých cenách zvoleného roku, přepočítáním na stálé ceny
+Stálé ceny - HDP přepočítané ve stálých cenách zvoleného roku, přepočítáním na stálé ceny
 očistíme výsledky od inflačního znehodnocení peněz
 
-Skutečný HDP — pomocí produkční nebo důchodové metody vypočítaný skutečně dosažený
+Skutečný HDP - pomocí produkční nebo důchodové metody vypočítaný skutečně dosažený
 HDP dané ekonomiky
 
-Potenciální HDP — HDP, který by ekonomika dosáhla při využití všech svých výrobních
+Potenciální HDP - HDP, který by ekonomika dosáhla při využití všech svých výrobních
 zdrojů
 
-Čisté ekonomické bohatství — makroekonomický ukazatel čisté ekonomické bohatství (NEW
-— Net Economic Welfare) vychází ze známého ukazatele hrubého národního produktu, který
+Čisté ekonomické bohatství - makroekonomický ukazatel čisté ekonomické bohatství (NEW
+- Net Economic Welfare) vychází ze známého ukazatele hrubého národního produktu, který
 je zvýšen o nelegálně produkované výrobky a služby (šedá a černá ekonomika), je zvýšen o
 výrobky produkované ve volném čase pro svou potřebu a na druhé straně je snížen o negativní
 dopady hospodářské činnosti na kvalitu našeho života (především dopady na životní prostředí
@@ -4051,29 +4029,29 @@ dopady hospodářské činnosti
 
 60
 \newpage
-Negativní externality — špatný vliv výrobců na Životní prostředí ( třetí poškozenou osobou
+Negativní externality - špatný vliv výrobců na Životní prostředí ( třetí poškozenou osobou
 stranou, které výrobci nic nezaplatí za zničené prostředí, jsou lidé žijící v blízkosti továren,
 průmyslových zón a dopravních komunikací.
 
-Pozitivní externality — podnikatelskou činností můžeme někomu přinést 1 užitek, aniž by se o
-to třetí osoba jakkoliv zasloužila nebo zaplatila — např. přivedením infrastruktury (dálnice,
+Pozitivní externality - podnikatelskou činností můžeme někomu přinést 1 užitek, aniž by se o
+to třetí osoba jakkoliv zasloužila nebo zaplatila - např. přivedením infrastruktury (dálnice,
 elektrifikace, plynofikace)
 
-Šedá ekonomika — je souhrnem ekonomických vztahů, které porušují běžné etické a morální
+Šedá ekonomika - je souhrnem ekonomických vztahů, které porušují běžné etické a morální
 normy společnosti, ale většinou jsou na hranici zákona a jsou těžko právně postižitelné.
 Nejrozšířenějším ekonomickým vztahem šedé ekonomiky je podplácení
 
-Černá ekonomika — je souhrn ekonomických vztahů, které porušují zákony dané země, popř.
+Černá ekonomika - je souhrn ekonomických vztahů, které porušují zákony dané země, popř.
 zákony mezinárodní. Jedná se o protiprávní ekonomické vztahy, které, pokud jsou odhaleny a
 prokázány, jsou trestně postižitelné.
 
 Zahrneme sem hospodářskou kriminalitu jednotlivců (krádeže, zpronevěry, padělání, daňové
-úniky apod.), ale 1 hospodářskou trestnou činnost organizovaných zločinců — mafií.
+úniky apod.), ale 1 hospodářskou trestnou činnost organizovaných zločinců - mafií.
 
 Ekonomika a neziskový sektor
 
 - neziskový sektor může ve společnosti fungovat pouze za předpokladu, že tato společnost je
-schopna část svých prostředků (výrobních faktorů 1 hotových produktů — statků a služeb) na
+schopna část svých prostředků (výrobních faktorů 1 hotových produktů - statků a služeb) na
 tuto činnost vyčlenit, aniž by to vedlo k sebedestrukci
 
 - zdroje pro neziskový sektor musí společnost hledat ve svém fungujícím ekonomickém
@@ -4085,7 +4063,7 @@ pouliční lampy svítí všem). Hovoříme o veřejných statcích, které zís
 společnosti bez přímé protihodnoty (neplatí za ně, nebo platí cenu netržní)
 
 - většinu statků a služeb ale musíme zaplatit, chceme-li je spotřebovávat (když nebudeme mít
-peníze na dovolenou v zahraničí, tak na ni nepojedeme a život půjde dál) — zde plně působí
+peníze na dovolenou v zahraničí, tak na ni nepojedeme a život půjde dál) - zde plně působí
 tržní prostředí a hovoříme o ziskovém sektoru
 
 Principy rozdělování:
@@ -4107,23 +4085,23 @@ fondy), politické strany
 
 61
 \newpage
-EU — Evropa začala ve druhé polovině 20. Století zaostávat v dynamice ekonomického
+EU - Evropa začala ve druhé polovině 20. Století zaostávat v dynamice ekonomického
 vývoje za ostatními světovými hospodářskými centry (USA, Japonsko, jihovýchodní Asie).
 To si uvědomovali čelní představitelé nejvýznamnějších evropských států a již od konce
 druhé světové války začali vyvíjet politické aktivity k hospodářskému sjednocení Evropy
 Integrace má dvě podoby
 
-- federalistická — státy se sjednotí politicky a ekonomická integrace následuje po politické
+- federalistická - státy se sjednotí politicky a ekonomická integrace následuje po politické
 integraci, tento proces byl typický pro USA
 
-- funkcionalistická — státy se propojují nejdříve ekonomickými vazbami a úplná politická
+- funkcionalistická - státy se propojují nejdříve ekonomickými vazbami a úplná politická
 integrace je završením tohoto ekonomického integračního procesu. (Evropa)
 
 
 
 
 
-Integrace (spojování do větších celků) má velký ekonomický význam — umožňuje
+Integrace (spojování do větších celků) má velký ekonomický význam - umožňuje
 zhromadnění výroby a efektivnější využívání zdrojů, působí jak na mikroekonomické úrovní
 (spojování firem) tak na makroekonomické úrovni.
 
@@ -4140,13 +4118,13 @@ Stupně mezinárodní ekonomické integrace:
 
 EU je v současné době ve fázi přechodu od hospodářské unie k úplné ekonomické unii. EU
 má 28 členských států včetně CR. Evropská měnová unie (eurozóna) zavedla jednotnou
-měnu — €uro.
+měnu - €uro.
 
 
 
 Evropská unie má 3 pilíře:
 
-- hospodářská a měnová unie — zavedení společné měny eura
+- hospodářská a měnová unie - zavedení společné měny eura
 - spolupráce v oblasti justice a vnitřních věcí
 
 - společná zahraniční a bezpečnostní politika
@@ -4168,7 +4146,7 @@ Agregátní poptávka - poptávka všech subjektů v celém hospodářství
 
 Agregátní nabídka - nabídka všech subjektů v celém hospodářství
 
-- pokud agregátní poptávka převyšuje agregátní nabídku —je to stav podezřelý, protože strana
+- pokud agregátní poptávka převyšuje agregátní nabídku -je to stav podezřelý, protože strana
 
 
 
@@ -4177,14 +4155,14 @@ inflačním znehodnocením peněz nebo tak, že poptávající si peníze půjč
 spotřebovávat na dluh. Tento stav je založen na nezdravém principu, má negativní dopady na
 hospodářství
 
-- převis agregátní poptávky nad agregátní poptávkou — pokud hospodářství vyprodukovalo
+- převis agregátní poptávky nad agregátní poptávkou - pokud hospodářství vyprodukovalo
 
 
 
-více zboží než je samo schopno spotřebovat, má jedinou šanci — jestli firmy vyrobily
+více zboží než je samo schopno spotřebovat, má jedinou šanci - jestli firmy vyrobily
 produkci natolik efektivně, že je konkurence schopná na zahraničních trzích, mohou zboží
-vyvézt a vydělat, pokud však své zboží nerealizují — krachují, propouštějí zaměstnance, stát
-má nižší příjmy z daní — hovoříme o hospodářské krizi z nadvýroby
+vyvézt a vydělat, pokud však své zboží nerealizují - krachují, propouštějí zaměstnance, stát
+má nižší příjmy z daní - hovoříme o hospodářské krizi z nadvýroby
 
 - ekonomické dění ve společnosti je trvalým pohybem, trvalou změnou, stálým kolísáním.
 Základní tendence dosažení ekonomické rovnováhy jako nejefektivnějšího stavu je tak
@@ -4194,18 +4172,18 @@ dosahována posloupností dílčích nerovnováh => cyklický vývoj hospodářs
 
 Fáze hospodářského cyklu:
 
-1) expanze (rozvoj, konjunktura, rozmach nabídky 1 poptávky) — domácnostem 1 firmám se
+1) expanze (rozvoj, konjunktura, rozmach nabídky 1 poptávky) - domácnostem 1 firmám se
 daří, rostou zisky 1 platy, roste spotřeba statků a služeb, stát dostává více daní, takže může
 více investovat
 
-2) vrchol (převis nabídky nad poptávkou) — firmy pořád produkují vysokým tempem nové
+2) vrchol (převis nabídky nad poptávkou) - firmy pořád produkují vysokým tempem nové
 statky a služby,ovšem strana poptávky už začíná zaostávat
 
-3) krize (recese, deprese, pokles nabídky 1 poptávky) — poptávka se zcela zabrzdila, firmy
+3) krize (recese, deprese, pokles nabídky 1 poptávky) - poptávka se zcela zabrzdila, firmy
 mají problémy s prodejem, krachují, zvyšuje se nezaměstnanost, lidé mají existenční
 problémy, 1 ti co mají práci raději spoří a neutrácí, což krizi prohlubuje
 
-4) sedlo (dno, vyrovnání, oživení nabídky a poptávky) — žít se musí, takže poptávka nikdy
+4) sedlo (dno, vyrovnání, oživení nabídky a poptávky) - žít se musí, takže poptávka nikdy
 neklesne na nulu. Firmy minimalizovali náklady a ceny, ty které přežijí recesi se dostanou se
 svou nabídkou do souladu s poptávkou.
 
@@ -4219,9 +4197,9 @@ peněz, kterými se ceny měří. Pokud peníze ztrácejí svou hodnotu, hovoř�
 
 Příčiny inflace:
 
-Inflace tažená poptávkou — na trhu je více poptávky při stejném objemu nabídky, příčina
+Inflace tažená poptávkou - na trhu je více poptávky při stejném objemu nabídky, příčina
 růstu cenové hladiny je na straně poptávky (schodek státního rozpočtu, nákupy na dluh)
-Inflace tažená nabídkou — zvyšování cenové hladiny je na straně výrobců (růst nákladů na
+Inflace tažená nabídkou - zvyšování cenové hladiny je na straně výrobců (růst nákladů na
 výrobu)
 
 
@@ -4234,7 +4212,7 @@ existují mezinárodně platné postupy, podle kterých se inflace počítá.
 
 Míra inflace se dá vyjádřit ukazatelem:
 
-Míra inflace = cenová hladina (+ — cenová hladina -1 x 100 (%)
+Míra inflace = cenová hladina (+ - cenová hladina -1 x 100 (%)
 cenová hladina (ti
 
 
@@ -4242,7 +4220,7 @@ cenová hladina (ti
 t = určité období (měsíc. rok)
 
 Indexy k vyjádření cenové hladiny:
-1. Index spotřebitelských cen (CPI) — cenová hladina je průměrem úrovně cen spotřebních
+1. Index spotřebitelských cen (CPI) - cenová hladina je průměrem úrovně cen spotřebních
 
 
 
@@ -4250,7 +4228,7 @@ výrobků a služeb ( hovoříme o spotřebním koši, ve kterém má každá sk
 spotřebovávaných výrobků a služeb určitou váhu, podíl). U daných druhů zboží se sleduje po
 celém území státu v pravidelných intervalech pohyb cen
 
-2. Index cen výrobců (PPI) — sleduje se pro různá odvětví a obory, všeobecně se má za to, že
+2. Index cen výrobců (PPI) - sleduje se pro různá odvětví a obory, všeobecně se má za to, že
 
 
 
@@ -4268,15 +4246,15 @@ Míry inflace:
 
 
 
-- inflace mírná (plíživá) — jednociferná. Lidé nepřestávají věřit penězům, ekonomika běžně
+- inflace mírná (plíživá) - jednociferná. Lidé nepřestávají věřit penězům, ekonomika běžně
 funguje, tempo růstu cen odpovídá tempu růstu a výroby
-- inflace pádivá — dvojciferná. Lidé přestávají věřit domácí měně, preferují stabilnější cizí
+- inflace pádivá - dvojciferná. Lidé přestávají věřit domácí měně, preferují stabilnější cizí
 
 
 
 měny nebo jiné trvalejší hodnoty (zlato, nemovitost atd.). Chod ekonomiky už je narušován,
 ekonomická výkonnost klesá
-- hyperinflace —trojciferná a větší. Ceny se zvyšují natolik rychle, že peníze přestávají plnit
+- hyperinflace -trojciferná a větší. Ceny se zvyšují natolik rychle, že peníze přestávají plnit
 
 
 
@@ -4285,47 +4263,47 @@ ekonomický systém společnosti se úplně rozpadá, nastává chaos a anarchie
 
 64
 \newpage
-Deflace — opak inflace, absolutní meziroční pokles cenové hladiny v ekonomice
-Desinflace — opakem akcelerující inflace (zpomalující inflace), je pokles tempa růstu
+Deflace - opak inflace, absolutní meziroční pokles cenové hladiny v ekonomice
+Desinflace - opakem akcelerující inflace (zpomalující inflace), je pokles tempa růstu
 všeobecné cenové hladiny
 
-Nezaměstnanost — vzniká, pokud na trhu práce převyšuje nabídka práce zaměstnanců
+Nezaměstnanost - vzniká, pokud na trhu práce převyšuje nabídka práce zaměstnanců
 poptávku firem.
 
 a) ekonomicky aktivní obyvatelstvo (t1 co pracují nebo aktivně hledají práci) tvoří trh práce
 b) ekonomicky neaktivní obyvatelstvo (děti do 15ti let, invalidé, důchodci) mimo trh práce
 
 Nezaměstnanost členíme :
-- nezaměstnanost dobrovolná — lidé mají pracovní sílu, ale za nabízenou mzdu nejsou ochotni
+- nezaměstnanost dobrovolná - lidé mají pracovní sílu, ale za nabízenou mzdu nejsou ochotni
 
 
 
 pracovat
-- nezaměstnanost nedobrovolná — lidé chtějí a potřebují pracovat, aby si zajistili obživu, ale
+- nezaměstnanost nedobrovolná - lidé chtějí a potřebují pracovat, aby si zajistili obživu, ale
 
 
 
 nemohou odpovídající práci sehnat => stát jim pomáhá situaci řešit :
 
-a) aktivní opatření — rekvalifikace, podpora vzniku nových pracovních míst, zaměstnávání
+a) aktivní opatření - rekvalifikace, podpora vzniku nových pracovních míst, zaměstnávání
 absolventů škol, daňové úlevy při zaměstnání postižených občanů apod.
 
-b) pasivní opatření — podpora nezaměstnanosti ze státního rozpočtu
+b) pasivní opatření - podpora nezaměstnanosti ze státního rozpočtu
 
 Míra přerozdělování:
 - dostatečná sociální pomoc, ale zároveň ne tak vysoká, aby nesváděla k jejímu zneužívání
 - míra přerozdělování nezatížila neúměrně pracující část populace
 
 Příčiny nezaměstnanosti :
-- frikční nezaměstnanost — lidé běžně mění svou práci — přirozený, krátkodobý jev
+- frikční nezaměstnanost - lidé běžně mění svou práci - přirozený, krátkodobý jev
 
 
 
-- strukturální nezaměstnanost — některé odvětví se dostává do útlumu, lidé přicházejí o práci.
+- strukturální nezaměstnanost - některé odvětví se dostává do útlumu, lidé přicházejí o práci.
 Jiné odvětví v národním hospodářství jsou naopak ve fázi rozvoje a nové pracovní síly
-potřebují —řešením je rekvalifikace
+potřebují -řešením je rekvalifikace
 
-- cyklická nezaměstnanost — v období krize a sedla dochází k nárůstu nezaměstnanosti a
+- cyklická nezaměstnanost - v období krize a sedla dochází k nárůstu nezaměstnanosti a
 
 
 
@@ -4370,11 +4348,11 @@ apod.)
 - teoretické vysvětlení ekonomických výhod mezinárodního obchodu spočívá v objasnění
 absolutních a komparativních výhod :
 
-a) absolutní výhoda — nižší náklady, vyšší produktivita práce vedou k výrobě určitého
+a) absolutní výhoda - nižší náklady, vyšší produktivita práce vedou k výrobě určitého
 výrobku za nižší cenu než v ostatních státech, pro ostatní státy je ekonomičtější zboží dovést
 než ho vyrábět doma dráž
 
-b) komparativní výhoda — souvisí s omezeností zdrojů každé země, pro zemi je výhodné
+b) komparativní výhoda - souvisí s omezeností zdrojů každé země, pro zemi je výhodné
 vyrábět produkci, u které dosahuje ve srovnání s ostatními zeměmi co největší absolutní
 výhodou a ostatní výrobky dovážet.
 
@@ -4382,7 +4360,7 @@ výhodou a ostatní výrobky dovážet.
 \newpage
 18. BANKOVNICTVÍ
 
-Bankovní soustava — historie do roku 1990)
+Bankovní soustava - historie do roku 1990)
 
 Do roku 1990 byl jednoúrovňový bankovní systém s výrazným monopolem státní banky
 československé.
@@ -4393,7 +4371,7 @@ Od roku 1990 je bankovní systém dvouúrovňový
 
 1. Centrální banka ČNB - státní instituce, nepodnikatelský subjekt
 
-2. obchodní banky — podnikatelské subjekty
+2. obchodní banky - podnikatelské subjekty
 
 V roce 2004 se bankovní sektor stabilizoval a vstupem do EU v květnu 2004 lze využít
 princip jednotné licence, která vychází ze svobody poskytování služeb a svobody usazování,
@@ -4444,7 +4422,7 @@ neplatné peníze stahuje z oběhu
 Učinnost měnové politiky centrální banky je přímo úměrná její nezávislosti (především na
 vládě)
 
-Přímé nástroje — základní charakteristika
+Přímé nástroje - základní charakteristika
 
 CNB disponuje řadou nástrojů, pomocí kterých prosazuje své cíle a měnovou politiku. Tyto
 nástroje můžeme rozdělit na přímé (administrativní, omezující volné tržní hospodářství) a
@@ -4465,7 +4443,7 @@ pokladní hotovosti k aktivům.
 « | Úvěrové kontingenty - určení limitních úvěrů a úvěrových stropů. Patří mezi velmi
 razantní přímé nástroje.
 
-Nepřímé nástroje — základní charakteristika
+Nepřímé nástroje - základní charakteristika
 
 využívají tržních zákonů a plošně působí na ostatní subjekty finančního trhu. Využívají
 tržních zákonů a plošně působí na ostatní subjekty finančního trhu. využívají tržních zákonů a
@@ -4536,7 +4514,7 @@ se oběh peněz, při nákupu deviz se české koruny přilévají do oběhu.
 
 69
 \newpage
-Banky obchodní — základní charakteristika
+Banky obchodní - základní charakteristika
 
 Obchodní banky jsou podnikatelskými subjekty, které podnikají za účelem dosažení zisku.
 Poskytují tyto služby: depozitní (vkladové) a úvěrové operace, převody peněz a další služby
@@ -4548,11 +4526,11 @@ služeb.
 
 Operace obchodních bank
 
-Bilance banky — aktiva a pasiva
+Bilance banky - aktiva a pasiva
 
 VKLADY
 
-1. pasivní operace — banka přijímá peníze, je v dlužnické pozici
+1. pasivní operace - banka přijímá peníze, je v dlužnické pozici
 
 - netermínované vklady (úročeny velmi nízkým procentem)
 
@@ -4568,13 +4546,13 @@ nebo z hlediska měny:
 
 Banka zde sleduje dva cíle: výnosnost a návratnost úvěru
 
-2. aktivní operace — banka poskytuje úvěry, vystupuje v roli věřitele
+2. aktivní operace - banka poskytuje úvěry, vystupuje v roli věřitele
 
 - úvěry od ČNB - refinanční operace za repo sazbu, lombardní úvěr, Nouzový úvěr
 
-- úvěry od ostatních bank — korunové úvěry např za sazbu Pribor
+- úvěry od ostatních bank - korunové úvěry např za sazbu Pribor
 
-- emise bankovních obligací — emise bývá v mld. Objemech a je dlouhodobým zdrojem.
+- emise bankovních obligací - emise bývá v mld. Objemech a je dlouhodobým zdrojem.
 
 - emise hypotéčních zástavních listů
 
@@ -4607,7 +4585,7 @@ Státní dozor nad pojišťovnictvím vykonává Ministerstvo financí
 
 Nemůže dělat každý. Je třeba vysoký kapitál v minimální výši 1 000 000 000 Kč
 
-Pojištění, riziková událost — koho se týká
+Pojištění, riziková událost - koho se týká
 
 pro jednotlivce: pří úrazu, při dožití určitého věku, při léčení v cizině, \ldots
 
@@ -4616,7 +4594,7 @@ pro kolektiv: při požáru, při odcizení majetku organizace, \ldots
 pro hospodářství: pomáhá zajišťovat plynulý chod ekonomiky, omezuje počet bankrotů, \ldots
 Členění pojištění z hlediska povinnosti uzavření
 
-a) povinné pojištění — jsou zákonem uložena a to firmám i osobám, sledují zajištění
+a) povinné pojištění - jsou zákonem uložena a to firmám i osobám, sledují zajištění
 sociálních jistot lidí a zabezpeční proti škodám způsobenými jiným osobami na provozu
 motorových vozidel
 
@@ -4647,7 +4625,7 @@ komerčních pojišťoven.
 
 Členění pojistných služeb
 
-1. Životní pojištění — toto pojištění fyzických osob pomáhá chránit tyto osoby a jejich rodiny
+1. Životní pojištění - toto pojištění fyzických osob pomáhá chránit tyto osoby a jejich rodiny
 proti rizikům těžkých úrazů, jejich trvalých následků, vážných nemocí a následné ztráty
 příjmu, případně při úmrtí pojištěného pomáhá nahradit zdroj příjmu jeho pozůstalým
 
@@ -4657,9 +4635,9 @@ události zamká bez náhrady)
 - rezervotvorné (pojistné je vyšší, protože obsahuje spořící složku. Pojistná částka plus podíly
 na zisku jsou vypláceny při pojistné události nebo na konci sjednané pojistné doby
 
-2. Neživotní pojištění — zahrnuje především pojištění movitostí a nemovitostí.
+2. Neživotní pojištění - zahrnuje především pojištění movitostí a nemovitostí.
 
-Pojmy — pojištěný, pojistné plnění, pojistná událost, pojistitel, pojistné, pojistník,
+Pojmy - pojištěný, pojistné plnění, pojistná událost, pojistitel, pojistné, pojistník,
 pojistná částka, pojistka, pojistná smlouva, pojistný zájem, obmyšlená osoba
 
 Pojistitel - pojišťovna, má právo pojistné a povinnost vyplatit pojistné plnění v případě
@@ -4704,7 +4682,7 @@ Základní náležitosti pojistné smlouvy
 
 - smluvní strany (pojistník, pojistitel, pojištěný)
 
-- předmět pojištění (na co smlouva je — na úraz, na majetek\ldots)
+- předmět pojištění (na co smlouva je - na úraz, na majetek\ldots)
 
 - začátek platnosti pojistné smlouvy, někdy 1 konec
 
@@ -4718,13 +4696,13 @@ Základní náležitosti pojistné smlouvy
 \newpage
 19. BANKOVNÍ SLUŽBY
 
-Úvěr — základní charakteristika
+Úvěr - základní charakteristika
 
 Úvěr je podobně jako zápůjčka formou dočasného postoupení peněžních prostředků věřitelem
 na principu návratnosti dlužníkovi, který je ochoten za tuto půjčku po uplynutí nebo ještě v
 průběhu doby splatnosti zaplatit určitý úrok.
 
-Pojmy — úrok, úroková sazba, jistina, úrokové období, RPSN, likvidita, zadlužení,
+Pojmy - úrok, úroková sazba, jistina, úrokové období, RPSN, likvidita, zadlužení,
 předlužení, dluhová past, konsolidace úvěrů, bonita, registr dlužníků, oddlužení,
 exekuce
 
@@ -4775,51 +4753,51 @@ situaci, kdy mají více věřitelů a nedokáží plnit své splatné závazky.
 úpadek fyzické či právnické osoby nepodnikatele.
 
 Exekuce je nástroj, kterým je možné po někom, kdo dluží, domoci zaplacení dluhu (nebo i
-jiných povinností, které neplní — nejen těch finančních), který dlužník dobrovolně neuhradil,
+jiných povinností, které neplní - nejen těch finančních), který dlužník dobrovolně neuhradil,
 ačkoli měl a ačkoli mu takovou povinnost uložil (nejčastěji) soud v soudním rozhodnutí.
 
-Druhy úvěrů podle splatnosti — kontokorentní, eskontní, akceptační, revolvingový,
+Druhy úvěrů podle splatnosti - kontokorentní, eskontní, akceptační, revolvingový,
 lombardní, hypoteční úvěr, emisní úvěr, spotřební půjčky občanům
 
 1. krátkodobé se splatností do 1 roku:
 
-- kontokorentní úvěr — kombinace běžného účtu s možností čerpat krátkodobý úvěr do výše
+- kontokorentní úvěr - kombinace běžného účtu s možností čerpat krátkodobý úvěr do výše
 úvěrového limitu stanoveného ve smlouvě o zřízení kontokorentního účtu
 
-- eskontní úvěr — souvisí s eskontem (odkoupením) směnky klienta před dobou splatnosti
+- eskontní úvěr - souvisí s eskontem (odkoupením) směnky klienta před dobou splatnosti
 bankou. Nesplatí-l1 dlužník bance směnku v termínu splatnosti, žádá banka úhradu od
 posledního majitele směnky (klienta, který směnku prodal)
 
-- akceptační úvěr — banka neposkytne klientovi přímo peníze, ale akceptuje cizí směnku
-vystavenou klientem — příjemcem akceptačního úvěru a tím se stává hlavním směnečným
+- akceptační úvěr - banka neposkytne klientovi přímo peníze, ale akceptuje cizí směnku
+vystavenou klientem - příjemcem akceptačního úvěru a tím se stává hlavním směnečným
 dlužníkem. Akceptační úvěr dává banka jen nejlepším a ověřeným klientům
 
-- revolvingový úvěr — banka umožňuje klientovi opakované čerpání úvěru. Základní
+- revolvingový úvěr - banka umožňuje klientovi opakované čerpání úvěru. Základní
 podmínkou je předešlé splacení úvěru.
 
-- lombardní úvěr — úvěr jištěný zástavou movité věci (cenné papíry, zboží \ldots)
+- lombardní úvěr - úvěr jištěný zástavou movité věci (cenné papíry, zboží \ldots)
 
-2. střednědobé a dlouhodobé — se splatností od 1 do 10 let
+2. střednědobé a dlouhodobé - se splatností od 1 do 10 let
 
-- hypoteční úvěr — jištěný hypotékou (zástavou nemovitostí)
-- emisní úvěr — spojená s emisí dlouhodobých cenných papírů, např podnikových obligací
+- hypoteční úvěr - jištěný hypotékou (zástavou nemovitostí)
+- emisní úvěr - spojená s emisí dlouhodobých cenných papírů, např podnikových obligací
 - spotřební půjčky občanům
 
-Speciální formy úvěru — faktoring, forfaiting
+Speciální formy úvěru - faktoring, forfaiting
 
-Faktoring — odkup krátkodobých pohledávek (do 1 roku)
-Forfaiting — odkup dlouhodobých pohledávek (nad 1 rok)
+Faktoring - odkup krátkodobých pohledávek (do 1 roku)
+Forfaiting - odkup dlouhodobých pohledávek (nad 1 rok)
 
 Druhy úvěru podle poskytované měny
 Jsou úvěry v domácí nebo cizí měně (devizové)
 
 Devizový úvěr
 
-— Jde o požadavek komitenta o úvěr u zahraniční banky. Tyto zahraniční banky mají většinou
+- Jde o požadavek komitenta o úvěr u zahraniční banky. Tyto zahraniční banky mají většinou
 nižší úrokové sazby, na druhé straně však hrozí kursové riziko. Nehledě k tomu, že zahraniční
 banky vyžadují záruku od českých bank.
 
-— Také naše banky dávají účelové devizové úvěry. Vlastní postup spočívá v tom, že
+- Také naše banky dávají účelové devizové úvěry. Vlastní postup spočívá v tom, že
 zahraničnímu výstavci zaplatí česká banka z úvěru, který získá u cizí banky v tzv. úvěrová
 linka. Zahraniční banky tak podporují vlastní ekonomiku.
 
@@ -4889,9 +4867,9 @@ provozní úvěry na překlenutí nedostatku finančních prostředků.
 
 Cíle banky při poskytování úvěru
 
-1. Výnosnost — banka musí stanovit takové úroky z úvěru, aby vydělala. Úrok může být
+1. Výnosnost - banka musí stanovit takové úroky z úvěru, aby vydělala. Úrok může být
 stanoven pevný nebo pohyblivý.
-2. Návratnost — banka se musí zajistit proti případnému nesplacení závazku dlužníka.
+2. Návratnost - banka se musí zajistit proti případnému nesplacení závazku dlužníka.
 
 Postup při poskytnutí úvěru
 
@@ -4903,12 +4881,12 @@ formě:
 
 - zástavy nemovitosti (hypotéční úvěr)
 
-- zástavy movitosti — cenné papíry, stroje, zásoby, \ldots (lombardní úvěr)
+- zástavy movitosti - cenné papíry, stroje, zásoby, \ldots (lombardní úvěr)
 
-- ručitelé — ručit mohou 1 podnikatelské subjekty za podnikatelské úvěry, ale takové subjekty
+- ručitelé - ručit mohou 1 podnikatelské subjekty za podnikatelské úvěry, ale takové subjekty
 se těžko shánějí
 
-- vinkulace vkladu — zablokování vkladu dlužníka na účtu či na knížce ve prospěch věřitele
+- vinkulace vkladu - zablokování vkladu dlužníka na účtu či na knížce ve prospěch věřitele
 pro případ nesplacení
 
 - postoupení pohledávek apod.
@@ -4930,7 +4908,7 @@ Založení a vedení účtu - Běžné účty, termínované účty, devizové �
 
 Bezhotovostní platební styk:
 
-v tuzemsku — příkaz k úhradě - trvalý příkaz k úhradě
+v tuzemsku - příkaz k úhradě - trvalý příkaz k úhradě
 - příkaz k inkasu - trvalý příkaz k inkasu
 
 JI
