@@ -1,6 +1,5 @@
-ekonomika.aux
-ekonomika.log
-ekonomika.synctex.gz
-ekonomika.toc
+*.aux
+*.log
+*.gz
+*.toc
 ekonomika.pdf
-missfont.log
